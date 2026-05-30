@@ -1,0 +1,36 @@
+
+
+:: east_garrison
+<div style="position: relative; width: 100%; max-width: 1536px; margin: 0 auto; aspect-ratio: 1536 / 1024;">
+  <img src="img/locations/valdmere/east_garrison.png" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+  <svg viewBox="0 0 1536 1024"
+       preserveAspectRatio="none"
+       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    <polygon id="day_1_3" 
+             points="469,412,711,393,709,659,466,638" 
+             class="svg_main_map" 
+             data-passage="day_1_3" />
+    <polygon id="deserter_start" 
+             points="1103,900,1112,889,1128,891,1154,877,1178,844,1190,818,1216,780,1232,773,1253,750,1277,717,1263,707,1260,679,1270,658,1286,649,1307,649,1322,663,1333,674,1345,677,1362,684,1383,693,1404,707,1416,726,1428,752,1432,787,1411,787,1399,806,1392,818,1373,823,1357,846,1345,898,1293,889,1260,907,1244,926,1251,945,1209,952,1176,959,1154,950,1154,933,1176,924,1209,907,1234,884,1258,851,1251,832,1242,849,1225,842,1216,863,1192,884,1190,907,1157,912,1131,917,1112,915" 
+             class="svg_side_map" 
+             data-passage="deserter_start" />
+    <polygon id="board_sergeant_start" 
+             points="469,412,711,393,709,659,466,638" 
+             class="svg_side_map" 
+             data-passage="board_sergeant_start" />
+  </svg>
+</div>
+<div class="map-legend">
+  <span class="map-legend-item"><span class="map-legend-swatch" style="background:white;"></span>East Gate</span>
+  <span class="map-legend-item"><span class="map-legend-swatch" style="background:#fb923c;"></span>Main Objective</span>
+  <span class="map-legend-item"><span class="map-legend-swatch" style="background:#60a5fa;"></span>Side Quest</span>
+  /* / / <span class="map-legend-item"><span class="map-legend-swatch" style="background:#c084fc;"></span>Person</span>
+  <span class="map-legend-item"><span class="map-legend-swatch" style="background:#4dd9c0;"></span>Object</span> / / */
+</div>
+<<run
+  setTimeout(function () {
+    if (State.variables.day_1_3)        { var e = document.getElementById('day_1_3');        if (e) e.remove(); }
+    if (State.variables.deserter_start) { var e = document.getElementById('deserter_start'); if (e) e.remove(); }
+      if (State.variables.board_sergeant_start) { var e = document.getElementById('board_sergeant_start'); if (e) e.remove(); }
+  }, 0);
+>>

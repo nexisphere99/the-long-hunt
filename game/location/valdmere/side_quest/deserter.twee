@@ -1,0 +1,1261 @@
+
+
+:: deserter_start [east_gate quest]
+
+He was sitting against the wall ten feet from freedom, and he couldn't move.
+
+The East Gate was Valdmere's lung   the great stone archway where the city exhaled travelers, merchants, and soldiers onto the Ashenmoor Road and inhaled them back again. Two guards flanked it, armored, bored, their attention divided between the traffic passing through and the dice game they'd abandoned on the guardhouse table. Neither of them was looking at the boy against the wall. Why would they? He wasn't going anywhere.
+
+I noticed him because Mira noticed him first.
+
+<<dialog "Mira">>
+Garrison.
+<</dialog>>
+
+She said it quietly, the single word containing a complete assessment. I followed her gaze.
+
+He was nineteen or Twenty. Maybe. The kind of age where youth and adulthood overlap uncomfortably   a man's body housing a boy's terror. His face was sharp-boned and hollow-cheeked, the face of someone who hadn't been sleeping well or eating enough or doing either of the things that faces needed to look like they belonged to a functioning human. His eyes were brown and wet and fixed on the cobblestones between his boots with the thousand-yard stare of a man who'd seen something that wouldn't let go of his retinas.
+
+Garrison uniform. Regulation cut. But the shoulder insignia   the crossed-pike emblem that marked Valdmere's city guard   had been ripped off. Not carefully removed, not unpicked. Ripped. The fabric beneath was raw, torn, a wound in the cloth that mirrored something happening underneath it.
+
+His pack sat beside him. Stuffed to bursting   clothing, a water skin, a rolled blanket strapped to the top with cord that had been tied and retied, the knots speaking of trembling hands. Everything he owned. Everything he could carry. The luggage of someone who was leaving.
+
+But he hadn't left. The gate was right there. The road was right there. Three steps and a threshold and whatever waited on the other side   freedom or flight or the particular emptiness of a man who's cut himself loose from the only structure he had. Three steps and he'd been sitting there for twenty minutes, according to the guard who'd been ignoring him, and he hadn't taken them.
+
+<<dialog "Aldric">>
+Stay here.
+<</dialog>>
+
+<<dialog "Mira">>
+What are you 
+<</dialog>>
+
+<<dialog "Aldric">>
+Just give me a minute.
+<</dialog>>
+
+I walked over. My shadow fell across his boots. He flinched   the full-body recoil of a soldier expecting punishment, the instinctive cringe of someone whose command structure had taught him that approaching authority meant pain or orders or both.
+
+Then his eyes came up. Brown, wet, terrified. They scanned me   civilian clothing, sword on hip, no garrison insignia, no rank, no authority. The flinch downgraded from flight-response to rigid wariness.
+
+<<dialog "Aldric">>
+I'm not garrison.
+<</dialog>>
+
+<<dialog "Tam">>
+I know what this looks like.
+<</dialog>>
+
+<<dialog "Aldric">>
+It looks like desertion.
+<</dialog>>
+
+<<dialog "Tam">>
+It is desertion.
+<</dialog>>
+
+The honesty was startling. No dissembling, no excuse, no hastily constructed cover story about a leave of absence or a family emergency. Just flat, exhausted admission from a boy who was too scared to lie and too tired to try.
+
+<<dialog "Tam">>
+Desertion is a hanging offense in Valdmere. I know. I don't care.
+<</dialog>>
+
+He said I don't care the way people say it when they care enormously but the thing they care about has been outweighed by something larger and more terrible. Not bravado. Surrender. The white flag of a conscience that couldn't carry what it was being asked to carry.
+
+<<dialog "Aldric">>
+I'm going to sit down. If that's alright.
+<</dialog>>
+
+I didn't wait for permission. I sat. Back against the wall, shoulder to shoulder with a boy who was either a deserter or a whistleblower or just someone whose body had brought him to a threshold his feet refused to cross.
+
+<<dialog "Aldric">>
+Tell me.
+<</dialog>>
+
+[[Ask him why he's deserting|deserter_the_reason]]
+
+
+:: deserter_the_reason [east_gate quest]
+
+It came out in fragments. Not a narrative   a confession. The kind of story that doesn't flow because the teller keeps stopping to breathe, to swallow, to push past the places where the words have thorns.
+
+<<dialog "Tam">>
+Three months. I've been in the garrison for three months. Standard recruitment   signing bonus, room and board, the promise of "honorable service." That's what the recruiter said. Honorable service. It sounded like safety. Like belonging. I was nineteen with no family and no trade and a city that didn't have a place for me, and a man in a uniform told me there was a place, and I believed him.
+<</dialog>>
+
+He pulled at a loose thread on his torn shoulder patch. Wrapped it around his finger. Unwrapped it.
+
+<<dialog "Tam">>
+The first month was fine. Training, drills, patrols. Standard work. I was good at it. Not great   I'm not built for great. But reliable. Showed up. Did what I was told. Followed orders.
+<</dialog>>
+
+<<dialog "Aldric">>
+What changed?
+<</dialog>>
+
+<<dialog "Tam">>
+The sergeant. Not Harsk   Harsk is decent. A different sergeant. Patrol division. Name of Kessler.
+<</dialog>>
+
+He said the name the way Dalla had said Sefton's   with the particular flat precision of someone naming a disease they'd survived.
+
+<<dialog "Tam">>
+Kessler started sending recruits on what he called "training exercises." Night patrols along the Ashenmoor Road. Goblin activity surveys. He said it was field experience. Said it would make us better soldiers. Said the garrison needed intelligence on warband movements and the recruits were the best option because we were young, fast, expendable 
+<</dialog>>
+
+He caught himself. Swallowed.
+
+<<dialog "Tam">>
+He didn't say expendable. Not out loud. But he meant it. You could hear it in the gaps between his words.
+<</dialog>>
+
+<<dialog "Aldric">>
+The exercises weren't surveys.
+<</dialog>>
+
+<<dialog "Tam">>
+No. They were combat sweeps. Unsanctioned. Unreported. Kessler was trying to thin the goblin warband before it became a big enough problem to require official garrison deployment   which would require official paperwork, which would require admitting that the garrison had let a goblin problem fester for months on his watch. So instead of filing a report and requesting reinforcements like he was supposed to, he sent recruits.
+<</dialog>>
+
+<<dialog "Aldric">>
+How many sweeps?
+<</dialog>>
+
+<<dialog "Tam">>
+Four. The first three were   they weren't good. Goblins in the dark, tunnels, screaming. But we came back. Bruised, bitten, scared shitless, but alive. We came back and Kessler wrote "training exercise completed" in the log and told us we were becoming real soldiers and sent us to the mess hall for an extra ration.
+<</dialog>>
+
+<<dialog "Aldric">>
+The fourth sweep.
+<</dialog>>
+
+Tam's hands stopped moving. The thread hung limp from his finger. His eyes fixed on a point in the middle distance that wasn't a point at all but a memory, vivid and permanent, burned into the backs of his eyelids like a brand.
+
+<<dialog "Tam">>
+Two of us died.
+<</dialog>>
+
+The words came out flat. Quiet. The way facts come out when they're too heavy for emphasis.
+
+<<dialog "Tam">>
+A boy named Edric. Eighteen. He was from a fishing village north of here. He talked about his mother all the time   her cooking, her garden, the way she sang when she hung the wash. He'd been in the garrison six weeks. He didn't know how to hold a sword properly. He held it with both hands like a broom because nobody had shown him the grip.
+<</dialog>>
+
+<<dialog "Tam">>
+A woman named Sorcha. Twenty. She was   she was good. Better than any of us. Fast, smart, brave in a way that made you brave by proximity. She should have been a sergeant herself. She went into the tunnels first because she always went first and the goblins were waiting and they 
+<</dialog>>
+
+He stopped. Breathed. The shallow, controlled breathing of someone holding back something that wanted very badly to come out.
+
+<<dialog "Tam">>
+Their deaths were reported as training accidents. Garrison record says they died during a supervised field exercise. Supervised. Kessler was in his quarters playing cards when it happened. He wasn't within a mile of those tunnels. But the paperwork says supervised, and the families got a condolence payment, and the bodies got a military burial with full honors, and Kessler got a commendation for "proactive threat management" and nobody   nobody   asked what proactive threat management means when it's two dead recruits in a hole in the ground.
+<</dialog>>
+
+I looked at him. At the torn insignia. At the packed bag. At the hands that had stopped trembling and gone still with the particular rigidity of a body that had spent its last reserves of emotion and was running on structural integrity alone.
+
+<<dialog "Tam">>
+I was there. I was in the rear rank. When the screaming started, I ran. I'm not proud of it. But I'm alive, and they're not, and the man who sent us there is sleeping in an officer's quarter with clean hands and a clean conscience and I can't   I can't stand next to him and salute and pretend. I can't do it. I'd rather hang.
+<</dialog>>
+
+The gate was ten feet away. The road was beyond it. The guards were still ignoring us   two men against a wall, one in a torn uniform, one with a sword. Not interesting enough to investigate. Not alarming enough to report.
+
+<<dialog "Aldric">>
+What do you want, Tam?
+<</dialog>>
+
+<<dialog "Tam">>
+I want Edric to be alive. I want Sorcha to be alive. I want Kessler to answer for what he did. I want none of this to have happened. I want to go back to the day I signed the recruitment papers and I want to tear them in half and walk away and become a farmer or a baker or anything that doesn't involve standing over a grave and being told it was a training accident.
+<</dialog>>
+
+<<dialog "Aldric">>
+Since you can't have any of that?
+<</dialog>>
+
+<<dialog "Tam">>
+I want to leave. I want to walk through that gate and keep walking until Valdmere is a memory and Kessler is a name I used to know and none of this can touch me anymore.
+<</dialog>>
+
+He looked at the gate. Ten feet. Three steps. The hardest three steps he'd ever take.
+
+<<dialog "Tam">>
+But I can't. I've been sitting here for   I don't know how long and I can't move. My legs won't   it's like they're part of the wall. Like the garrison has its hooks in me so deep that even deserting requires permission and nobody's given it.
+<</dialog>>
+
+I sat with him. Let the silence hold for a moment. The gate traffic flowed past   merchants, travelers, a woman with a handcart full of apples, two children chasing a dog. Life happening around us, ordinary and oblivious.
+
+<<dialog "Aldric">>
+You don't need permission, Tam. Not from Kessler. Not from the garrison. Not from me.
+<</dialog>>
+
+<<dialog "Tam">>
+Then why can't I move?
+<</dialog>>
+
+<<dialog "Aldric">>
+Because leaving is the easiest part. Living with having left   that's the weight you're feeling. You'll carry it either way. The question is where you want to be carrying it.
+<</dialog>>
+
+He looked at me. The wet brown eyes searching my face for something   conviction, maybe. Permission, despite what I'd said. Or just the simple, animal reassurance of another person saying you're not crazy, what happened to you was real, and what you're doing about it makes sense.
+
+[[Help him leave|deserter_help_leave]]
+[[Talk him into staying|deserter_talk_stay]]
+[[Walk past|deserter_walk_past]]
+
+
+
+:: deserter_help_leave [east_gate quest path_a]
+
+<<dialog "Aldric">>
+Stand up.
+<</dialog>>
+
+He looked at me. The brown eyes wide, questioning.
+
+<<dialog "Aldric">>
+Stand up. We're going through the gate.
+<</dialog>>
+
+I pulled my traveling cloak from my pack   the heavy wool one, road-stained and nondescript, the kind of garment that made a person look like every other traveler on every other road. I held it out to him.
+
+<<dialog "Aldric">>
+Put this on. Covers the uniform. You're not a garrison soldier walking through the East Gate. You're a civilian traveling with two sellswords. Nobody looks twice at that.
+<</dialog>>
+
+Tam stared at the cloak. At me. At the gate.
+
+<<dialog "Tam">>
+You'd   why? You don't know me. You don't owe me 
+<</dialog>>
+
+<<dialog "Aldric">>
+I know two people are dead because a man with authority used it to cover his own failures, and I know you're alive and trying to live with that, and I know the gate is ten feet away and your legs won't take you there alone. That's enough.
+<</dialog>>
+
+Mira appeared beside me. She'd been listening   of course she had, half-elf ears and the strategic patience of a woman who gathered intelligence the way other people gathered firewood. She looked at Tam. Looked at the cloak. Looked at me.
+
+<<dialog "Mira">>
+We're doing this?
+<</dialog>>
+
+<<dialog "Aldric">>
+We're doing this.
+<</dialog>>
+
+<<dialog "Mira">>
+Fine. But we walk at a normal pace. No hurrying. No looking over shoulders. We're travelers, we're bored, we're heading east because there's work on the road. That's the story if anyone asks, which they won't, because nobody cares about three people walking through a gate.
+<</dialog>>
+
+She was right. Nobody would care. The gate guards processed hundreds of travelers daily, and their threat assessment was calibrated for incoming danger, not outgoing deserters. A torn insignia under a borrowed cloak wouldn't register in their peripheral vision.
+
+Tam stood. His legs wobbled   the particular instability of a body that had been frozen in one position for too long and had forgotten that motion was an option. He took the cloak. Pulled it over his shoulders. The heavy wool swallowed the garrison uniform, the torn patch, the identity of a soldier who'd decided to stop being one.
+
+He fastened the clasp. His hands were shaking. But they were moving.
+
+<<dialog "Aldric">>
+Ready?
+<</dialog>>
+
+<<dialog "Tam">>
+No.
+<</dialog>>
+
+<<dialog "Aldric">>
+Good enough.
+<</dialog>>
+
+We walked. Three abreast   Aldric on the left, Mira on the right, Tam in the middle, the borrowed cloak hiding everything except his face and his fear. The gate guards didn't look up. The dice game on the guardhouse table was apparently more interesting than three travelers heading east, which was probably for the best because Tam's face was the color of old parchment and his eyes were doing something complicated that involved tears and willpower in roughly equal measure.
+
+We passed through the arch. The stone ceiling above us, three feet thick, the accumulated weight of Valdmere's defensive history pressing down. Then air. Light. The road opening ahead   packed earth, muddy from rain, stretching east toward the Ashenmoor forest and the rolling farmland beyond it.
+
+Tam stopped. Stood in the road. Breathed.
+
+The air didn't taste different outside the walls. It was the same air   salt from the river, earth from the fields, the faint vegetal rot of late autumn. But Tam breathed it like a man surfacing from underwater, gulping it in with the desperate relief of someone whose lungs had been compressed for months and were finally, finally expanding.
+
+<<dialog "Tam">>
+Thank you.
+<</dialog>>
+
+His voice was thin. A wire vibrating at its breaking point.
+
+<<dialog "Tam">>
+I don't   I don't know where to go.
+<</dialog>>
+
+<<dialog "Mira">>
+North. Farming villages along the river. They always need hands, especially before winter. You're young, you're strong, you can hold a hoe as well as a sword. Better, probably   hoes don't stab back.
+<</dialog>>
+
+<<dialog "Tam">>
+Will they ask about the uniform?
+<</dialog>>
+
+<<dialog "Mira">>
+Not if you burn it first. Find a stream, wash it off, start clean. Nobody in a farming village cares where you came from. They care whether you can lift a bale and wake up at dawn.
+<</dialog>>
+
+Tam nodded. Adjusted the pack on his shoulders. The straps dug into the cloak   too heavy, poorly balanced, the luggage of someone who'd packed in panic rather than planning. He'd learn to pack lighter. He'd learn a lot of things, out on the road, in the villages, in the long slow process of becoming someone who didn't carry a dead friend's name like a stone in his chest.
+
+He started walking. North, as Mira suggested. The road curved toward the river, and he followed it, his boots leaving prints in the mud that the next rain would erase.
+
+After ten paces, he stopped. Turned.
+
+<<dialog "Tam">>
+The sergeant. His name is Kessler. If anyone ever   if there's ever a way to 
+<</dialog>>
+
+<<dialog "Aldric">>
+We'll remember the name.
+<</dialog>>
+
+Kessler. I filed it where I filed all the names of people who used authority as a weapon against the people under their protection. Next to Sefton. Next to Grunn. A growing list that said something about the kind of world we lived in and the kind of people who ran it.
+
+<<dialog "Tam">>
+He has records. In his office at the garrison. Patrol logs. The real ones, not the ones he files with command. He keeps duplicates   dates, routes, casualties. Everything he covered up. He keeps them because he's the kind of man who documents his own crimes. In case he ever needs to prove he was in control.
+<</dialog>>
+
+<<dialog "Aldric">>
+Why are you telling me this?
+<</dialog>>
+
+<<dialog "Tam">>
+Because I can't go back. But someone should. Someone should walk into that office and take those records and make them mean something. Edric's mother thinks her son died in a training exercise. Sorcha's family thinks the same. They deserve the truth. Even if the truth doesn't bring anyone back, they deserve it.
+<</dialog>>
+
+He held my gaze for a long moment. Nineteen years old. Brown eyes. The face of a boy who was learning, right now, in this moment, that courage wasn't the absence of fear but the decision to act while you were drowning in it.
+
+<<dialog "Tam">>
+Thank you. For opening the door.
+<</dialog>>
+
+He turned. Walked. Grew smaller. A figure in a borrowed cloak on a muddy road, heading north toward farming villages and silence and the long, complicated work of building a life that didn't have a dead man's name attached to it.
+
+I watched him until he disappeared around the bend.
+
+<<dialog "Mira">>
+Kessler.
+<</dialog>>
+
+<<dialog "Aldric">>
+Kessler.
+<</dialog>>
+
+<<dialog "Mira">>
+Another name. Another thread. You collect them the way other people collect debts.
+<</dialog>>
+
+<<dialog "Aldric">>
+Maybe that's exactly what they are.
+<</dialog>>
+
+She looked at me. The amber eyes doing their calculation   the one that weighed what I'd just done against what it had cost us (a cloak, ten minutes, nothing material) and what it had gained (a name, a location, a thread that connected to the garrison's institutional rot like a root connecting to the trunk of a poisoned tree).
+
+<<dialog "Mira">>
+You gave him your cloak.
+<</dialog>>
+
+<<dialog "Aldric">>
+I have another one.
+<</dialog>>
+
+<<dialog "Mira">>
+You don't.
+<</dialog>>
+
+<<dialog "Aldric">>
+I'll buy one.
+<</dialog>>
+
+<<dialog "Mira">>
+With what money?
+<</dialog>>
+
+<<dialog "Aldric">>
+With the money I'll earn from the work we'll find.
+<</dialog>>
+
+<<dialog "Mira">>
+That's aspirational budgeting, which is your specialty and also the reason we're broke. But 
+<</dialog>>
+
+She paused. The arrowhead came out. Click against her canine. The thinking sound.
+
+<<dialog "Mira">>
+But you did a good thing. A stupid thing. An expensive thing. A thing that won't change anything about Kessler or the garrison or the two dead recruits rotting in a military cemetery under a headstone that says "training accident." But a good thing.
+<</dialog>>
+
+<<dialog "Aldric">>
+Thank you. I think.
+<</dialog>>
+
+<<dialog "Mira">>
+You're welcome. I think.
+<</dialog>>
+
+We stood outside the East Gate and looked at the road and didn't walk down it. Not yet. Not today.
+
+[[Chat with Mira|deserter_resolution]]
+
+
+
+
+:: deserter_talk_stay [east_gate quest path_b]
+
+I sat down next to him. Back against the wall. Two men at a threshold.
+
+<<dialog "Aldric">>
+I was nineteen once.
+<</dialog>>
+
+<<dialog "Tam">>
+Yeah?
+<</dialog>>
+
+<<dialog "Aldric">>
+Nineteen and scared and standing at a crossroads where every direction looked like a mistake. My father had just died. Drank himself into the ground after the local lord seized our farm. My mother moved in with relatives. My brother apprenticed to a smith and I was standing in a field that didn't belong to us anymore, holding a sword I barely knew how to use, staring at a world that didn't seem to have a place for me in it.
+<</dialog>>
+
+<<dialog "Tam">>
+What did you do?
+<</dialog>>
+
+<<dialog "Aldric">>
+I left. Took the sword, took the road, became a sellsword because it was the only trade that didn't require land or a guild membership or a conscience. Spent seven years fighting other people's wars, sleeping in other people's cities, carrying other people's problems for money and I've never stopped leaving. Every city is temporary. Every contract is a countdown. I walk in, I do the work, I walk out. That's the whole story.
+<</dialog>>
+
+<<dialog "Tam">>
+That's what you're telling me to do? Leave?
+<</dialog>>
+
+<<dialog "Aldric">>
+No. I'm telling you what leaving costs. Because you're looking at that gate like it's salvation, and it might be. But it's also a door that only opens one direction. Once you're through it, you're a deserter. You can never come back. You can never stand in front of Kessler and say his name to someone who can do something about it. You can never look Edric's mother in the eye and tell her what really happened.
+<</dialog>>
+
+Tam's hands tightened on the torn insignia patch. The thread he'd been pulling wound around his finger like a tourniquet.
+
+<<dialog "Aldric">>
+Running is easy. I know   I've been doing it for seven years. The hard thing is staying. Not because staying is safe. Not because staying is right. But because the people who died in those tunnels deserve a witness, and a witness who runs can't testify.
+<</dialog>>
+
+<<dialog "Tam">>
+If I stay and Kessler sends me into another tunnel?
+<</dialog>>
+
+<<dialog "Aldric">>
+Then you refuse and he writes you up for insubordination and you tell whoever handles the write-up why you refused and you name the dead. Edric. Sorcha. Out loud. On the record. Where someone who isn't Kessler has to hear it.
+<</dialog>>
+
+<<dialog "Tam">>
+That's   they'll make my life 
+<</dialog>>
+
+<<dialog "Aldric">>
+Hell? Probably. For a while. Maybe a long while. But the paperwork will exist. The names will be on record and eventually   maybe not tomorrow, maybe not next month, but eventually   someone with rank and a conscience will read that file and start asking the same questions you're asking and Kessler won't have answers.
+<</dialog>>
+
+Tam was quiet. The gate traffic flowed past us   ordinary people, ordinary lives. The guards played their dice game. A pigeon landed on the guardhouse roof and regarded proceedings with avian disinterest.
+
+<<dialog "Tam">>
+You really think someone would listen?
+<</dialog>>
+
+<<dialog "Aldric">>
+I think the truth has a way of working itself loose. Not fast. Not cleanly. But it doesn't stay buried. Not when someone's willing to keep digging.
+<</dialog>>
+
+<<dialog "Tam">>
+You sound like you believe that.
+<</dialog>>
+
+<<dialog "Aldric">>
+Some days.
+<</dialog>>
+
+<<dialog "Tam">>
+The other days?
+<</dialog>>
+
+<<dialog "Aldric">>
+The other days I keep digging anyway. Because the alternative is stopping, and stopping means Kessler wins, and men like Kessler winning is why men like Edric die holding a sword with both hands like a broom because nobody showed him the grip.
+<</dialog>>
+
+That hit something. I could see it land   the name, the image, the boy with the broom-grip sword who died in a tunnel because a sergeant couldn't be bothered to file the right paperwork. Tam's jaw tightened. His spine straightened against the wall   an inch, two inches, the incremental unbending of a body that had been folded into the posture of defeat.
+
+<<dialog "Tam">>
+Edric used to sing. While cleaning the barracks. Songs from his fishing village. He had a terrible voice but he sang anyway because nobody had told him to stop and the barracks were empty in the afternoon and he thought nobody was listening.
+<</dialog>>
+
+<<dialog "Aldric">>
+He deserves better than a forged accident report.
+<</dialog>>
+
+<<dialog "Tam">>
+He deserved better than a tunnel full of goblins and a sergeant who couldn't be bothered to walk him to a training yard and show him how to hold a sword.
+<</dialog>>
+
+<<dialog "Aldric">>
+Then stay and make sure someone knows his name.
+<</dialog>>
+
+Tam stood up. Slowly. The pack on his shoulders   the everything-he-owned, the luggage of flight   suddenly looked different. Not lighter. But differently weighted. The weight of a decision rather than the weight of surrender.
+
+He looked at the gate. Looked at the road beyond it. Looked back at the garrison.
+
+<<dialog "Tam">>
+Kessler has records. In his office. Patrol logs   the real ones. Dates, routes, who he sent, who didn't come back. He keeps them because he documents everything. In case he ever needs to prove he was in control.
+<</dialog>>
+
+<<dialog "Aldric">>
+We'll remember that.
+<</dialog>>
+
+<<dialog "Tam">>
+If you come back through here. If there's ever a way to   to get those records to someone who 
+<</dialog>>
+
+<<dialog "Aldric">>
+We'll remember.
+<</dialog>>
+
+He shouldered his pack   not the way a man shoulders luggage for a journey, but the way a soldier shoulders his kit for a watch. The difference was in the angle. In the set of his jaw. In the direction he turned.
+
+He walked back toward the garrison. Through the market traffic, past the guard post, his torn insignia hidden under the strap of his pack. Walking into a system that had chewed up two of his friends and spat their names into a lie.
+
+Walking back because running would have been easier, and Tam   nineteen, scared, still carrying the memory of a boy who sang in empty barracks   had chosen the harder thing.
+
+<<dialog "Mira">>
+You might have just sent him into something worse than desertion.
+<</dialog>>
+
+<<dialog "Aldric">>
+I might have.
+<</dialog>>
+
+<<dialog "Mira">>
+Kessler has enforcers the same way Sefton has enforcers. Different uniforms, same principle. If Tam makes noise about the sweeps 
+<</dialog>>
+
+<<dialog "Aldric">>
+Then Tam makes noise and whatever happens, it happens to a man who chose it. Not a boy who ran.
+<</dialog>>
+
+Mira was quiet. The arrowhead came out. Click. Click.
+
+<<dialog "Mira">>
+You gave him your war story. The father. The farm. I've never heard you tell that to anyone.
+<</dialog>>
+
+<<dialog "Aldric">>
+It's not a war story. It's just... what happened.
+<</dialog>>
+
+<<dialog "Mira">>
+Everything that happened to you is a war story, Aldric. You've just been telling them without realizing they are.
+<</dialog>>
+
+[[Chat with Mira|deserter_resolution]]
+
+
+
+:: deserter_walk_past [east_gate quest path_c]
+
+I saw him. The torn insignia. The packed bag. The shaking hands and the wet eyes and the wall he was leaning against like it was the last solid thing in his world.
+
+I kept walking.
+
+Mira glanced at Tam as we passed. A flicker of her amber eyes   the quick, professional assessment that she applied to everything, categorizing in a heartbeat: threat? opportunity? obligation? None of the above.
+
+She kept walking too.
+
+The gate was three steps past him. The guards waved us through without interest. The road opened ahead   packed earth, rain-softened, stretching east.
+
+Behind us, the boy against the wall. Sitting. Waiting. Not going anywhere.
+
+Not my war. Not my threshold. I had my own gates to get through, my own walls pressing in, my own decisions about staying and leaving and what it cost to do either one.
+
+But his face stayed with me. The brown eyes. The nineteen-year-old fear. The torn insignia and the packed bag and the three steps he couldn't take.
+
+<<dialog "Mira">>
+You're quiet.
+<</dialog>>
+
+<<dialog "Aldric">>
+Just thinking.
+<</dialog>>
+
+<<dialog "Mira">>
+About the boy at the gate?
+<</dialog>>
+
+<<dialog "Aldric">>
+About thresholds. About what makes some of them crossable and some of them not.
+<</dialog>>
+
+Mira didn't answer. She walked beside me, matching my pace, the way she always did   close enough to be present, far enough to let me be alone with whatever I was carrying.
+
+The boy's face faded. The road stretched on. Somewhere behind us, Tam was still sitting against a wall, waiting for permission that nobody would give him.
+
+I hadn't given it either. That fact settled into my chest and stayed.
+
+[[Chat with Mira|deserter_resolution]]
+
+
+
+:: deserter_resolution [east_gate quest]
+
+The East Gate stood behind us. Valdmere's walls, gray and rain-stained, rising above the rooftops like the sides of a box we kept crawling back into.
+
+Mira was beside me. Bow slung. Arrowhead clicking. The rhythm steady, meditative, the metronome of a woman processing information and deciding what to do with it.
+
+<<dialog "Mira">>
+Kessler.
+<</dialog>>
+
+She said it quietly. Not a question   a filing. The name dropping into the same mental cabinet where she stored everything useful: escape routes, ambush points, the location of every weapon on every person in every room she'd ever entered.
+
+<<dialog "Aldric">>
+Another name.
+<</dialog>>
+
+<<dialog "Mira">>
+You're building a list.
+<</dialog>>
+
+<<dialog "Aldric">>
+I'm not building anything. Things keep happening and the names accumulate.
+<</dialog>>
+
+<<dialog "Mira">>
+That's how lists work. You don't plan them. They plan you.
+<</dialog>>
+
+She pocketed the arrowhead. Looked at me with an expression that was part assessment, part something warmer, part the particular gaze of a woman who'd been watching a man make the same kind of decision over and over   stopping when he could walk past, helping when he could ignore, collecting names and debts and obligations like a man who couldn't pass a wound without touching it.
+
+<<dialog "Mira">>
+You know what you are, Aldric?
+<</dialog>>
+
+<<dialog "Aldric">>
+Broke?
+<</dialog>>
+
+<<dialog "Mira">>
+A witness. You keep stopping. You keep looking. You keep remembering the names. In a world full of people who walk past, you stop and you see and you carry what you saw. That's what a witness does.
+<</dialog>>
+
+<<dialog "Aldric">>
+That sounds exhausting.
+<</dialog>>
+
+<<dialog "Mira">>
+It is exhausting. That's why most people don't do it.
+<</dialog>>
+
+She started walking. I followed. The gate and the boy and the name behind us, the road and whatever came next ahead of us.
+
+A witness. Mira's word for it, not mine. I'd have said something simpler   a man who couldn't leave well enough alone. A man who stopped when stopping cost him something. A man who kept picking up weights that weren't his to carry because setting them down felt worse than carrying them.
+
+But witness worked. Witness was a word that had weight and purpose and the implication of something that mattered beyond the moment. I'd carry it. Like everything else.
+
+[[Check the East Gate|east_garrison]]
+
+
+
+
+
+:: board_sergeant_start [east_garrison quest]
+
+The East Garrison squatted at the junction of the Market District and the east road like a bulldog that had been told to sit and had interpreted the command as a personal philosophy. Stone walls. Timber reinforcements. Arrow slits that squinted at the street with the permanent suspicion of a building that had been designed to distrust everything in its field of vision.
+
+It wasn't elegant. Valdmere's garrison had never been elegant   it had been effective, which in military architecture meant thick walls, small windows, and the general aesthetic charm of a clenched fist. The stone was stained with decades of weather and what might have been the residue of thrown vegetables from citizens who considered the garrison a necessary evil and expressed their feelings about the "evil" part through the medium of overripe produce.
+
+The mercenary board was mounted on the outer wall, exposed to the elements, which meant exposed to rain, sun, pigeon droppings, and the slow degradation of hope that came from watching the same postings fade to illegibility while nothing better replaced them.
+
+I scanned the board.
+
+<<dialog "Aldric">>
+Rat clearing in a merchant's cellar. Three coppers.
+<</dialog>>
+
+<<dialog "Mira">>
+No.
+<</dialog>>
+
+<<dialog "Aldric">>
+Guard duty for a grain shipment. Two coppers an hour, four hours maximum.
+<</dialog>>
+
+<<dialog "Mira">>
+Eight coppers for standing next to wheat. We have more dignity than that.
+<</dialog>>
+
+<<dialog "Aldric">>
+Do we?
+<</dialog>>
+
+<<dialog "Mira">>
+Marginally. What else?
+<</dialog>>
+
+<<dialog "Aldric">>
+Escort a jeweler to Thornwall. Five silver.
+<</dialog>>
+
+<<dialog "Mira">>
+That posting is two weeks old. The ink is faded. The jeweler is either in Thornwall or dead in a ditch, and either way, the job's filled.
+<</dialog>>
+
+<<dialog "Aldric">>
+Three sealed postings. Garrison seal. Reserved for registered sellswords.
+<</dialog>>
+
+Mira leaned in. The sealed postings were at the bottom of the board   three folded parchments, each one secured with a wax stamp bearing the garrison's crossed-pike emblem. The wax was fresh. The parchment was clean. Whatever was behind those seals, it was current and it was real and it paid enough to justify the formality.
+
+<<dialog "Mira">>
+Registered sellswords.
+<</dialog>>
+
+<<dialog "Aldric">>
+Which we're not.
+<</dialog>>
+
+<<dialog "Mira">>
+Which we could be. Registration takes   what? An interview, a physical assessment, a name in a ledger?
+<</dialog>>
+
+<<dialog "Aldric">>
+And talking to the garrison sergeant.
+<</dialog>>
+
+<<dialog "Mira">>
+You talk to scary men for a living. This one's behind a desk instead of behind a sword. Marginally less dangerous.
+<</dialog>>
+
+<<dialog "Aldric">>
+Marginally.
+<</dialog>>
+
+<<dialog "Mira">>
+There's real money behind those seals, Aldric. The garrison doesn't waste wax on three-copper rat jobs. Sealed postings are the work that matters   the work that pays, that builds a reputation, that gets you invited back when the next sealed posting goes up. We need money. We need a reputation in this city. And we need both of them faster than standing next to grain sacks will provide.
+<</dialog>>
+
+She was right. She was annoyingly, consistently, pragmatically right   a trait I'd found endearing for approximately the first three days of our partnership and had since reclassified as a chronic condition.
+
+<<dialog "Aldric">>
+Fine. The sergeant.
+<</dialog>>
+
+<<dialog "Mira">>
+The sergeant.
+<</dialog>>
+
+We walked through the garrison gate.
+
+<<goto "board_sergeant_harsk">>
+
+
+
+:: board_sergeant_harsk [east_garrison quest]
+
+Harsk sat behind a desk the way a boulder sits in a riverbed   immovably, indifferently, with the absolute conviction that the world would flow around him rather than the other way around.
+
+He was fiftyish. Maybe older. The kind of age where the years stop being countable and start being visible   etched into the creases of his face, the silver-gray of his close-cropped hair, the particular weariness of a man who'd been doing the same job for long enough that competence had calcified into ritual. His face was a landscape of professional damage: a scar bisecting his left cheek from jaw to temple, a nose that had been broken so many times it had given up attempting its original shape, and a permanent squint that suggested either decades of sun exposure or a fundamental distrust of everything his eyes landed on. Possibly both.
+
+The desk was a fortress within a fortress   massive, scarred, buried under ledgers and inkwells and the accumulated paperwork of a military bureaucracy that had never met a form it didn't want to triplicate. A mug of something hot steamed at Harsk's elbow. Tea, probably. Or poison. With Harsk, both seemed equally likely and equally deliberate.
+
+He didn't look up when we entered. His quill moved across the current page of the massive ledger in front of him   the registration book, presumably, open to a page already half-filled with entries in his small, precise handwriting.
+
+<<dialog "Harsk">>
+Name.
+<</dialog>>
+
+<<dialog "Aldric">>
+Aldric Vane.
+<</dialog>>
+
+The quill scratched. The sound was distinctive   not the smooth glide of expensive parchment but the gritty, protesting scrape of a quill on paper that had been manufactured by someone whose relationship with the concept of quality was adversarial.
+
+<<dialog "Harsk">>
+Weapon.
+<</dialog>>
+
+<<dialog "Aldric">>
+Longsword. One-handed or two, depending on the situation.
+<</dialog>>
+
+<<dialog "Harsk">>
+Experience.
+<</dialog>>
+
+<<dialog "Aldric">>
+Seven years freelance. Thornwall, Kestwick, road work, caravan escort, pest clearing, the occasional bandit problem.
+<</dialog>>
+
+<<dialog "Harsk">>
+Pest clearing.
+<</dialog>>
+
+He said it the way a man might say embroidery   with the particular inflection of someone who didn't consider the activity serious enough to qualify as military experience.
+
+<<dialog "Aldric">>
+Rats, mostly. Some goblins. One very angry badger in a lady's garden in Thornwall that I'm not proud of and refuse to discuss further.
+<</dialog>>
+
+Harsk's quill paused. His squint deepened by a fraction   the tectonic shift of a man whose face had been carved into its current expression by decades of muscular commitment and was not about to change it for anything less than a natural disaster. But something in the eyes   a glint, a spark, the momentary light of a man who'd heard ten thousand mercenary registrations and had just heard one that was marginally less boring than the usual.
+
+<<dialog "Harsk">>
+Companion?
+<</dialog>>
+
+<<dialog "Mira">>
+Mira Dunhollow. Archer. Half-elf. Not registering   I'm here in a support capacity.
+<</dialog>>
+
+<<dialog "Harsk">>
+Support capacity.
+<</dialog>>
+
+<<dialog "Mira">>
+I watch his back, manage his finances, and prevent him from doing things that get him killed. It's a full-time position with no benefits and declining job satisfaction.
+<</dialog>>
+
+<<dialog "Harsk">>
+I see.
+<</dialog>>
+
+He looked at me. Then at Mira. Then back at me. The squint doing the work that conversation refused to   evaluating, assessing, filing. Two people. Armed. Competent-looking, which was different from competent but was the first step toward the second. The half-elf with the amber eyes and the archer's bearing. The swordsman with the green eyes and the scar through the eyebrow and the particular easy confidence of a man who'd been hit enough times to know what hitting felt like and was still standing.
+
+<<dialog "Harsk">>
+Physical assessment. Sparring yard. Ten minutes.
+<</dialog>>
+
+He went back to his ledger. We were dismissed.
+
+[[Check the Sparring Yard|board_sergeant_yard]]
+
+
+
+:: board_sergeant_yard [east_garrison quest]
+
+The sparring yard was a packed-dirt rectangle behind the garrison, marked with chalk lines that had been redrawn so many times the ground was more chalk than dirt. A weapons rack stood against the far wall   practice blades in various sizes, wooden shields, padded quarterstaves. Everything was worn, dented, well-used   the equipment of an institution that had been training soldiers longer than most of the soldiers had been alive.
+
+A young garrison soldier was waiting in the center of the yard. Twenty, maybe. Eager. Standing with the particular combination of confidence and inexperience that made senior soldiers wince and junior soldiers envious. His uniform was crisp. His practice sword was held in a textbook guard position   correct, precise, and utterly predictable.
+
+<<dialog "Mira">>
+He's going to open with a high diagonal.
+<</dialog>>
+
+<<dialog "Aldric">>
+You can tell from here?
+<</dialog>>
+
+<<dialog "Mira">>
+His right shoulder is pre-loaded. He's leaning into his front foot. His elbow is high. He's been trained to open with the strike they teach first   downward right-to-left diagonal. It's in the manual. Every garrison recruit learns it. Every garrison recruit opens with it. It's the most predictable first move in swordsmanship and he's going to throw it at you like it's a secret weapon.
+<</dialog>>
+
+<<dialog "Aldric">>
+You're taking the romance out of this.
+<</dialog>>
+
+<<dialog "Mira">>
+Romance is your department. Winning is mine. Parry the diagonal, step left, pommel check to the shoulder. He'll overcommit on the recovery. Take his center line. It'll be over in ten seconds.
+<</dialog>>
+
+<<dialog "Aldric">>
+Anything else?
+<</dialog>>
+
+<<dialog "Mira">>
+Don't show off. Harsk is watching. He respects economy. Flashy swordwork tells him you're compensating.
+<</dialog>>
+
+<<dialog "Aldric">>
+I'm not compensating.
+<</dialog>>
+
+<<dialog "Mira">>
+Then don't be flashy. Go.
+<</dialog>>
+
+I picked up a practice longsword from the rack. It was heavier than my real blade   weighted for training, the edge blunted to a rounded safety margin that would leave bruises instead of wounds. The balance was slightly off   point-heavy, the center of gravity forward of where I liked it. A teaching weapon. Designed to punish poor technique by amplifying every error.
+
+The young soldier stood in the yard. Ready. His eyes bright with the particular intensity of someone about to prove something to himself.
+
+I stepped into the ring.
+
+<<dialog "Soldier">>
+Ready when you are.
+<</dialog>>
+
+<<dialog "Aldric">>
+Go ahead.
+<</dialog>>
+
+He opened with a high diagonal.
+
+The blade came down exactly as Mira predicted   right-to-left, textbook angle, the manual's opening strike delivered with the full-body commitment of a soldier who'd practiced it a thousand times and believed in it the way some people believed in prayer. It was clean. Well-executed. The kind of strike that would end a fight against an opponent who'd never seen it before.
+
+I'd seen it before. About six thousand times. From training partners, from bandits, from goblins who didn't use swords but swung their cleavers on the same angle because diagonal-down was what bodies naturally did when they wanted to hit something.
+
+I parried. A smooth, compact deflection   blade meeting blade at the optimal intercept point, redirecting the diagonal's force rather than stopping it. The impact vibrated through my arms, the practice sword's extra weight making the parry harder than it would have been with my own blade. But the technique was sound and the angle was right and the soldier's strike slid off mine like water off stone.
+
+I stepped left. His blade carried past me, the overcommitment that Mira had predicted pulling his weight forward and his guard open. His center line was exposed   the vertical axis of the body, sternum to navel, where every critical target lived.
+
+I could have taken it. A thrust, a cut, a pommel strike   any of a dozen options that would have ended the spar in the first exchange. But Mira had said economy, not brutality. And Harsk was watching from the garrison gate, his mug of tea/poison in one hand, his squint narrowed to maximum evaluation intensity.
+
+I checked the soldier's shoulder with my pommel   a short, controlled tap, firm enough to throw his balance without injuring. He stumbled backward, his feet scrambling for purchase on the chalked dirt, his guard collapsing from textbook to improvised in a single heartbeat.
+
+He recovered. To his credit   he recovered. Reset his stance, raised his blade, came at me again. This time faster, more aggressive, the particular fury of a young fighter who'd been embarrassed by the first exchange and was determined not to repeat it.
+
+He feinted left. Good   a feint meant he was thinking, not just swinging. He followed with a low cut aimed at my leading knee   also good, a dirty shot that most training partners wouldn't expect because training was supposed to be civilized.
+
+I wasn't civilized. I'd learned to fight from other mercenaries in real combats against real threats, and my training hadn't included any of the gentlemanly conventions that garrison academies liked to pretend existed in actual combat. I checked the low cut with a downward parry, rotated my blade under his, and lifted. His sword went up. His arms went with it. His guard opened completely.
+
+I placed the flat of my practice blade against his throat. Gently. A touch. The universal signal in every sparring tradition: I had you.
+
+The yard was quiet. The soldier stood with his arms raised, his sword pointing at the sky, a practice blade resting against his neck with all the casualness of a cat's paw on a mouse.
+
+<<dialog "Soldier">>
+...fair enough.
+<</dialog>>
+
+I withdrew the blade. Stepped back. The soldier lowered his sword, rubbed his shoulder where the pommel check had landed, and gave me a look that was equal parts respect and annoyance   the expression of a young man who'd just learned something useful and resented the method of instruction.
+
+<<dialog "Soldier">>
+Where'd you learn to fight?
+<</dialog>>
+
+<<dialog "Aldric">>
+From people who were trying to kill me.
+<</dialog>>
+
+<<dialog "Soldier">>
+That explains a lot.
+<</dialog>>
+
+From the gate, a sound. Not a word. A sound   a short, nasal exhalation that might have been the Harsk equivalent of laughter, or might have been him clearing his throat, or might have been the involuntary response of a man who'd watched ten thousand sparring assessments and had just seen one that was slightly above average.
+
+He nodded. Once. Made a notation in a small leather book he'd produced from somewhere.
+
+[[Check the Registration|board_sergeant_record]]
+
+
+
+
+:: board_sergeant_record [east_garrison quest]
+
+We reconvened at Harsk's desk. He'd returned to his seat, his ledger, his mug of ambiguous liquid, and his default expression of institutional dissatisfaction. The quill was in his hand. The registration page was open.
+
+<<dialog "Harsk">>
+Registered. Physical description for the record.
+<</dialog>>
+
+He looked me over. Not the way a person looks at another person   the way a clerk looks at a form. Inputting data. Converting a human being into a series of words and numbers that would sit in a ledger gathering dust until someone needed to verify that the person matched the paperwork.
+
+His quill moved.
+
+Male. Height: 6'1". Weight: approximately 190 lbs. Build: athletic, broad shoulders, muscular. Hair: dark brown, short. Eyes: green. Distinguishing marks: scar through left eyebrow, scar on right ribcage (noted during assessment, visible through sparring tunic).
+
+He read each entry aloud as he wrote it   the standard procedure, I assumed, for allowing the registrant to confirm or correct. Each word was accurate. Each word was a measurement. Each word was a pin holding a butterfly to a board   the fixed, permanent, ink-on-paper description of a body at a specific moment in time.
+
+Male. 6'1". 190 lbs. Broad shoulders. Green eyes. Scar through left eyebrow.
+
+I listened to myself being described, and the description was correct, and the correctness of it sat in my chest with a weight that I couldn't explain. As if hearing the words made the body they described more real. More fixed. More permanent. A ledger entry that said this is what you are with the bureaucratic certainty of an institution that didn't deal in ambiguity.
+
+<<dialog "Harsk">>
+Confirm?
+<</dialog>>
+
+<<dialog "Aldric">>
+Confirmed.
+<</dialog>>
+
+He signed the entry. Pressed his seal into a small square of red wax beside the description. The garrison's crossed-pike emblem, embedded in wax, locked into the page beside my name and my body's exact specifications.
+
+Harsk tore a chit from a pad   a small square of stiff paper, stamped with the garrison seal   and handed it to me.
+
+<<dialog "Harsk">>
+Show this at the board for sealed postings. Check back regularly. The good contracts move fast.
+<</dialog>>
+
+I took the chit. It was warm from the proximity to his mug. Small. Light. The weight of a piece of paper and the weight of something larger   an official record, an institutional acknowledgment, a line of ink in a book that said Aldric Vane was here, and this is what he looked like.
+
+<<dialog "Aldric">>
+Thank you.
+<</dialog>>
+
+<<dialog "Harsk">>
+Don't thank me. Bring results. I've registered four hundred sellswords in this ledger. Three hundred and twelve of them brought nothing but excuses. Don't be number three hundred and thirteen.
+<</dialog>>
+
+<<dialog "Aldric">>
+I'll do my best.
+<</dialog>>
+
+<<dialog "Harsk">>
+Do better than your best. Your best is statistically insufficient.
+<</dialog>>
+
+He went back to his ledger. Dismissal by disengagement   the Harsk specialty.
+
+[[Check the Mercenary Board|board_sergeant_sealed]]
+
+
+
+
+:: board_sergeant_sealed [east_garrison quest]
+
+The sealed postings were waiting.
+
+I returned to the board, chit in hand, and broke the wax on the three envelopes marked with the garrison seal. The parchment inside each one was clean, formal, written in a hand that was either Harsk's or someone who shared his commitment to legibility.
+
+<<dialog "Aldric">>
+Three options.
+<</dialog>>
+
+Mira leaned over my shoulder. Her breath warm on my neck, her eyes scanning the postings with the rapid-fire assessment of a woman who treated job listings the way a general treated battlefield maps.
+
+<<dialog "Aldric">>
+First: warehouse security, overnight. Consortium-adjacent. Eight silver for a ten-hour shift. Legitimate, boring, well-paid.
+<</dialog>>
+
+<<dialog "Mira">>
+Eight silver for standing in a dark room. My favorite kind of work. What's the catch?
+<</dialog>>
+
+<<dialog "Aldric">>
+No catch listed. Consortium warehouse on Dockside, guarding sealed cargo overnight. Previous guard "resigned abruptly," which is garrison code for either "quit" or "disappeared under circumstances nobody wants to investigate."
+<</dialog>>
+
+<<dialog "Mira">>
+Charming. Next?
+<</dialog>>
+
+<<dialog "Aldric">>
+Second: missing person investigation. A merchant's daughter, not seen in three days. Family suspects she's in the Undercity. Fifteen silver for her safe return. Sensitive   the family doesn't want garrison involvement, hence the mercenary board posting.
+<</dialog>>
+
+<<dialog "Mira">>
+Fifteen silver is real money. Missing daughter in the Undercity could mean anything   kidnapping, elopement, voluntary disappearance, or something worse. Do we know the family?
+<</dialog>>
+
+<<dialog "Aldric">>
+Name is Trevant. Upper City. That's all the posting says.
+<</dialog>>
+
+<<dialog "Mira">>
+Upper City family, daughter in the Undercity. There's a story there that the posting isn't telling us. Could be complicated. Could be dangerous. Could be simple and the fifteen silver is the family paying for discretion rather than difficulty.
+<</dialog>>
+
+<<dialog "Aldric">>
+Third: goblin activity survey. Garrison wants updated intelligence on warband movements along the Ashenmoor Road. Survey, report, don't engage. Ten silver.
+<</dialog>>
+
+<<dialog "Mira">>
+"Don't engage." The garrison's favorite instruction. As if goblins have ever received the memo about not engaging.
+<</dialog>>
+
+She straightened. Stepped back. The arrowhead came out   click, click, against her canine. The thinking rhythm.
+
+<<dialog "Mira">>
+The warehouse job is guaranteed money for minimal risk. The missing daughter is high pay for unknown risk. The goblin survey is moderate pay for moderate risk plus walking through territory that may or may not be full of things that want to eat us.
+<</dialog>>
+
+<<dialog "Aldric">>
+Which one?
+<</dialog>>
+
+<<dialog "Mira">>
+That depends on what we need more   coin or information. The warehouse might teach us something about what the Consortium is storing. The missing daughter might give us Undercity connections. The goblin survey might give us tactical intelligence that has value beyond the ten silver.
+<</dialog>>
+
+She pocketed the arrowhead. Looked at me with the expression she wore when she was presenting a decision as a choice while already knowing which option she preferred.
+
+<<dialog "Mira">>
+Your call, sellsword. That's what you registered for.
+<</dialog>>
+
+> [SEALED POSTING CHOICE]
+>
+> Warehouse Security   Eight silver. One night. Standing in a dark room guarding sealed cargo. The boring option. The profitable option. The option that might, depending on which warehouse, involve the same sealed crates that Pip described.
+[[Choose Warehouse Security|board_warehouse]]
+>
+> Missing Daughter   Fifteen silver. An Upper City family, a daughter in the Undercity, a story nobody's telling. Higher risk. Higher reward. Higher chance of stumbling into something that isn't our business.
+[[Choose Missing Daughter|board_daughter]]
+>
+> Goblin Survey   Ten silver. The Ashenmoor Road. Goblins in the dark, counted from a distance. Tactical intelligence with a shelf life. The kind of work we know how to do.
+[[Choose Goblin Survey|board_goblins]]
+>
+> None   pocket the chit for later   We have options. We don't have to choose right now. The chit's valid indefinitely. Come back when the timing is right.
+[[Choose None|board_sergeant_resolution]]
+
+
+
+:: board_warehouse [east_garrison quest]
+
+<<dialog "Aldric">>
+The warehouse. Eight silver, one night, minimal variables.
+<</dialog>>
+
+<<dialog "Mira">>
+The boring option. I approve. Boring keeps us alive.
+<</dialog>>
+
+I folded the warehouse posting and tucked it into my belt. Eight silver for standing in the dark. Not glamorous. Not the kind of work that bards wrote songs about. But eight silver was eight silver, and the warehouse   Consortium-adjacent, Dockside, sealed cargo   might tell us something about the supply chain that moved through this city's underbelly while the surface-level commerce carried on pretending everything was legitimate.
+
+<<dialog "Mira">>
+When do we start?
+<</dialog>>
+
+<<dialog "Aldric">>
+Posting says report to the Consortium dock office at sunset. Ask for a man named Crewe. He'll assign the warehouse and the shift.
+<</dialog>>
+
+<<dialog "Mira">>
+Crewe. Another name for the collection.
+<</dialog>>
+
+<<dialog "Aldric">>
+I don't collect names.
+<</dialog>>
+
+<<dialog "Mira">>
+You absolutely collect names. You have more names in your head than a census taker. Grent. Harsk. Dorsa. The barmaid. The dock boy. You collect people the way I collect exit routes   compulsively, automatically, because you can't help it and because someday every single one of them will be useful.
+<</dialog>>
+
+She was right. The names accumulated. Each one a node in a network I hadn't consciously built but that was building itself   a web of faces and favors and obligations that spread across Valdmere like roots through soil, connecting the tavern to the docks to the garrison to the market to the Undercity, all of it anchored by a man named Aldric Vane who couldn't stop stopping for people.
+
+[[Check in with Crewe|board_warehouse_crewe]]
+
+
+
+
+:: board_daughter [east_garrison quest]
+
+<<dialog "Aldric">>
+The missing daughter. Fifteen silver.
+<</dialog>>
+
+<<dialog "Mira">>
+The complicated option. Of course.
+<</dialog>>
+
+<<dialog "Aldric">>
+Fifteen silver is fifteen silver.
+<</dialog>>
+
+<<dialog "Mira">>
+Fifteen silver is fifteen silver until the daughter turns out to be entangled with an Undercity crime lord or a political scandal or a love affair that her Upper City family finds more embarrassing than her disappearance. Then fifteen silver is the retainer for a mess.
+<</dialog>>
+
+<<dialog "Aldric">>
+You're always this optimistic.
+<</dialog>>
+
+<<dialog "Mira">>
+I'm always this realistic. Optimism is a luxury. Like your conscience. And your cloak, which you gave away. I'm surrounded by luxuries I can't afford.
+<</dialog>>
+
+I pocketed the missing daughter posting. The Trevant family. Upper City. A daughter who'd vanished into the part of Valdmere that Upper City families pretended didn't exist, and a price tag that suggested the family was either desperate or wealthy enough that fifteen silver was the cost of discretion rather than the cost of difficulty.
+
+<<dialog "Mira">>
+We'll need Undercity contacts for this. Someone who knows the ground. Someone who can ask questions without attracting the kind of attention that makes questions dangerous.
+<</dialog>>
+
+<<dialog "Aldric">>
+I might know someone.
+<</dialog>>
+
+<<dialog "Mira">>
+You always might know someone. It's your other compulsion.
+<</dialog>>
+
+[[Check in with Undercity contact|board_daughter_contact]]
+
+
+
+
+
+:: board_goblins [east_garrison quest]
+
+<<dialog "Aldric">>
+The goblin survey. Ten silver.
+<</dialog>>
+
+<<dialog "Mira">>
+The one that involves going back to the area where goblins live. In tunnels. Underground. Where my bow is useless and your judgment is historically questionable.
+<</dialog>>
+
+<<dialog "Aldric">>
+Survey. Not combat. We count them from a distance.
+<</dialog>>
+
+<<dialog "Mira">>
+Counting goblins from a distance is like watching fire from a distance. It's perfectly safe until the wind changes. And the wind always changes.
+<</dialog>>
+
+<<dialog "Aldric">>
+Ten silver, Mira.
+<</dialog>>
+
+<<dialog "Mira">>
+I heard you the first time. My objections are on record. Let's go count goblins.
+<</dialog>>
+
+She said "let's go count goblins" the way most people said "let's go to the dentist"   with the resigned certainty of someone who knew the experience would be unpleasant and was choosing to endure it because the alternative was worse.
+
+[[Choose Goblin Survey|board_sergeant_resolution]]
+
+
+
+
+:: board_sergeant_resolution [east_garrison quest]
+
+We walked out of the garrison. Through the gate. Past the guards who glanced at us with the professional disinterest of men whose job was to look at people and whose survival depended on not finding most of them interesting.
+
+I had the chit in my pocket. The registration. The piece of paper that said Aldric Vane   sellsword   registered and that opened doors that had been sealed to us three hours ago.
+
+And somewhere inside the garrison, on Harsk's desk, in a ledger that was probably as old as the building itself, a line of ink sat drying on a page.
+
+Male. 6'1". 190 lbs. Broad shoulders. Green eyes. Scar through left eyebrow.
+
+A description. A snapshot. A record of a body at a specific moment in a specific place, captured in the permanent medium of ink on paper by a man who didn't care about the body and only cared about the accuracy.
+
+Every word precise. Every measurement correct.
+
+<<dialog "Mira">>
+What?
+<</dialog>>
+
+She'd caught me looking back at the garrison gate. The stone arch. The walls. The building where a ledger held my name and my body's exact description and would hold them indefinitely, because garrison ledgers didn't expire and ink didn't fade and Harsk's handwriting was as permanent as the stone it was housed in.
+
+<<dialog "Aldric">>
+Nothing. Just thinking.
+<</dialog>>
+
+<<dialog "Mira">>
+About?
+<</dialog>>
+
+About records. About the particular weight of being described   measured, documented, pinned to a page with the clinical precision of a man who turned bodies into data. About the fact that somewhere in that building, a version of me existed that would outlast whatever version of me walked out of this city. A fixed point. An anchor.
+
+I didn't say any of this.
+
+<<dialog "Aldric">>
+About whether eight silver is worth a night in a warehouse.
+<</dialog>>
+
+<<dialog "Mira">>
+It is. Let's eat.
+<</dialog>>
+
+We walked. The garrison receded behind us. The Market District opened ahead   noise, smells, the churn of commerce and humanity doing what it always did, regardless of what was recorded in what ledger by what sergeant in what stone-walled fortress at the edge of a city that didn't care about any of us.
+
+The chit sat in my pocket. Light as paper. Heavy as a name carved into stone.
+
+> [END   THE BOARD AND THE SERGEANT]
+>
+> Item acquired: Garrison registration chit (unlocks sealed postings on the mercenary board)
+> Record created: Physical description of Aldric in the garrison ledger   Male, 6'1", 190 lbs, broad shoulders, green eyes, scar through left eyebrow, scar on right ribcage. This record becomes a ticking time bomb when Aldric returns mid-transformation   the body that walks up to Harsk's desk will match exactly one detail (the eyebrow scar) and nothing else.
+> NPC established: Harsk   garrison sergeant, professional, scarred, laconic. Respects results, not promises. "Your best is statistically insufficient." Returns mid-game as a gatekeeper who has to reconcile the woman in front of him with the man in his ledger.
+> Sealed postings: Three optional mini-quests available (warehouse security, missing daughter, goblin survey). Each can be pursued or saved for later.
+> Sparring soldier: Unnamed but friendly. Returns mid-game as someone who remembers sparring with a swordsman who "learned from people trying to kill him."

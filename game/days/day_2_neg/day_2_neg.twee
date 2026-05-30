@@ -1,0 +1,1584 @@
+
+:: day_1_1
+<<nobr>>
+    <<set $day_1_8_lenna = true>>
+    <<set $barmaid_done = true>>
+    <<set $arm_wrestler_done = true>>
+    <<set $day_1_4 = true>>
+    <<set $check_card_1 = true>>
+    <<set $grent_1 = true>>
+    <<set $leave_table_1 = true>>
+    <<set $day_1_8_lenna = true>>
+<</nobr>>
+<img src="img/locations/valdmere/broken_antler_room.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+I woke to the sound of coins. Small sound. Pathetic sound. The soft clink-clink of copper on copper, like a mouse clearing its throat. Mira was sitting on the edge of the bed   our bed, the one nearest the window, the one we'd stopped pretending wasn't shared about three weeks back   counting what was left of our fortune on her palm. 
+
+Her cropped copper hair caught the gray morning light filtering through the shutters and turned it into something almost pretty. The rest of the room was not pretty. Cracked plaster ceiling. A water stain shaped like a horse that I'd been staring at for five nights running. Walls the color of old teeth. The Broken Antler tavern, Valdmere's finest establishment for people whose life choices had gone spectacularly sideways.
+
+<<dialog "Mira">>
+Nine.
+<</dialog>>
+
+She said it without turning around. Just that one word, flat as a blade laid on a table.
+
+<<dialog "Aldric">>
+Nine silver?
+<</dialog>>
+
+<img src="img/scene/day_1/1.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+<<dialog "Mira">>
+Nine copper. Don't insult me by pretending you thought I meant silver.
+<</dialog>>
+
+I sat up. The mattress   more lump than cushion, more regret than comfort   groaned under me like it shared my opinion of the morning. I rubbed my face. Three days of stubble scraped against my palms, rough and familiar, the perpetual scruff I maintained because I was too lazy to shave daily and too vain to let it grow wild. My jaw was thick under my fingers, square-cornered, the heavy bone structure I'd inherited from my father along with his green eyes and his talent for making terrible financial decisions.
+
+<<dialog "Aldric">>
+Nine coppers is enough for breakfast. Maybe.
+<</dialog>>
+
+<<dialog "Mira">>
+Nine coppers is enough for the kind of breakfast that makes you wish you'd skipped it. Stale bread. Hard cheese. Ale that tastes like someone wrung out a dishrag and bottled the runoff.
+<</dialog>>
+
+<<dialog "Aldric">>
+So our usual, then.
+<</dialog>>
+
+She turned and looked at me. Those amber eyes   pale, luminous, the color that most half-elves carried like a badge of their mixed blood. In dim light they caught whatever illumination was available and threw it back at you, unsettling and beautiful in equal measure. Right now they were catching the gray morning and reflecting something that looked uncomfortably like worry.
+
+Mira didn't worry. Mira planned, assessed, strategized, and occasionally threatened. But she did not worry. The fact that her expression was edging toward it told me more about our situation than the nine coppers did.
+
+<<dialog "Mira">>
+Room's paid through today. After that, we're sleeping on the docks.
+<</dialog>>
+
+<<dialog "Aldric">>
+The docks aren't so bad.
+<</dialog>>
+
+<<dialog "Mira">>
+The fish-gutting docks, Aldric. The ones that smell like fish guts. Because they are covered in fish guts. Because that is where the fish are gutted.
+<</dialog>>
+
+<<dialog "Aldric">>
+Point taken.
+<</dialog>>
+
+I swung my legs out of bed. My body moved the way it always moved   heavy, solid, the predictable machinery of a man who'd been swinging a sword since he was sixteen and carrying everything he owned on his back since nineteen. Broad shoulders, thick arms, the working muscle of a sellsword who couldn't afford a training hall and didn't need one because the world was his training hall and it charged admission in blood and bruises. I stood, stretched, and felt my spine crack in three places.
+
+Twenty-six years old. Felt like forty on mornings like this.
+
+Mira pocketed the nine coppers   all of them, which I noted but didn't challenge because she was better with money than I was, which was like saying a fish was better at swimming than a stone   and stood. She was already dressed. She was always already dressed. In three months of sharing beds and roads and everything in between, I'd learned that Mira woke before dawn by instinct, dressed in the dark by habit, and had assessed every threat and opportunity within a hundred paces before I'd finished blinking the sleep from my eyes.
+
+Half-elf metabolism. Leaner, faster, more efficient than human in every measurable way. It was annoying as hell.
+
+<<dialog "Aldric">>
+We'll figure something out. We always do.
+<</dialog>>
+
+<<dialog "Mira">>
+We always figure something out because one of us is a relentless optimist and the other one actually makes plans. Guess which one you are.
+<</dialog>>
+
+<<dialog "Aldric">>
+The handsome one?
+<</dialog>>
+
+<<dialog "Mira">>
+Put your trousers on, handsome. We're going downstairs before the bread gets any staler.
+<</dialog>>
+<<addobjective "day_1" "Go downstairs for Breakfast">>
+[[Go downstairs for Breakfast|broken_antler]]
+
+:: day_1_2
+<<set $day_1_2 = true>>
+<<changestat "energy"   10>>
+Breakfast was exactly as bad as predicted. The common room of the Broken Antler was the architectural equivalent of a sigh   low ceilings stained brown with decades of pipe smoke, furniture that had been repaired so many times it was more nail than wood, a floor that stuck to your boots in ways that demanded you not investigate the cause. The hearth was cold. The windows were grimy. The innkeeper   a heavyset man with the conversational range of a brick   stood behind the bar doing something to his ledger that might have been arithmetic or might have been doodling. Hard to tell. Hard to care.
+
+He set two plates in front of us without being asked. Stale bread, hard cheese, two cups of the house ale. The bread had the consistency of a cobblestone's friendlier cousin. The cheese had achieved the kind of hardness that suggested it had ambitions of becoming furniture. The ale tasted like guilt dissolved in rainwater. I ate. You don't get picky when you're broke.
+
+Mira picked at the bread with her fingers, tearing it into small pieces and eating them one at a time. In her other hand, the arrowhead   one of her broadheads, wicked-looking thing with three razor edges   which she used to pick her teeth between bites. Click. Click. Click. The sound of the metal against her canines set my nerves on edge the same way it had since Thornwall, which was to say, constantly, persistently, and with the grim reliability of sunrise.
+
+<<dialog "Aldric">>
+Must you?
+<</dialog>>
+
+<<dialog "Mira">>
+Must I what?
+<</dialog>>
+
+<<dialog "Aldric">>
+The teeth thing. With the arrow. It sounds like a tiny blacksmith working on a tiny anvil inside your mouth.
+<</dialog>>
+
+<<dialog "Mira">>
+It helps me think.
+<</dialog>>
+
+<<dialog "Aldric">>
+About what?
+<</dialog>>
+
+<<dialog "Mira">>
+About how we're going to avoid sleeping next to a pile of fish intestines tomorrow night. Unless you'd prefer I stop thinking about that.
+<</dialog>>
+
+<<dialog "Aldric">>
+Think away.
+<</dialog>>
+
+<img src="img/scene/day_1/2.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Click. Click. Click. I drank the terrible ale and stared at the rain-streaked shutters. Outside, Valdmere was doing what Valdmere always did in autumn   drowning. It had been raining for two days straight, the kind of cold, relentless downpour that found every crack in your boots and every gap in your collar and settled into your bones like a tenant who'd lost the deposit and didn't care. The cobblestones would be rivers. The market stalls would be shuttered. The whole city would be wrapped in a wet gray misery that matched the wet gray misery sitting in my chest.
+
+<<dialog "Mira">>
+We have options.
+<</dialog>>
+
+<<dialog "Aldric">>
+Let's hear them.
+<</dialog>>
+
+<<dialog "Mira">>
+Day labor at the docks. They always need muscle to load cargo ships, especially in rain when the regular workers call in sick. Pays about three coppers a day.
+<</dialog>>
+
+<<dialog "Aldric">>
+Three coppers won't cover the room.
+<</dialog>>
+
+<<dialog "Mira">>
+I said we have options. I didn't say they were good options. Second, the mercenary board at the garrison. There might be something posted since last week.
+<</dialog>>
+
+<<dialog "Aldric">>
+Last week it was rat-clearing and escort jobs that paid in soup.
+<</dialog>>
+
+<<dialog "Mira">>
+Third option, we pawn something.
+<</dialog>>
+
+That landed on the table between us like a dead bird. We both looked at our weapons   my longsword leaning against the wall, her bow in its oilskin case beside the bed upstairs. The tools of our trade. The only things of value we owned.
+
+<<dialog "Aldric">>
+My sword might fetch five silver. If the pawnbroker's feeling generous, which pawnbrokers never are.
+<</dialog>>
+
+<<dialog "Mira">>
+My bow is worth thirty.
+<</dialog>>
+
+<<dialog "Aldric">>
+You'd sooner cut off your hand.
+<</dialog>>
+
+<<dialog "Mira">>
+I'd sooner cut off YOUR hand. My hand I need for the bow. Which I'm not pawning. So that option is dead.
+<</dialog>>
+
+<<dialog "Aldric">>
+Then we're back to dock labor and the garrison board.
+<</dialog>>
+
+<<dialog "Mira">>
+We're back to dock labor and the garrison board.
+<</dialog>>
+
+She put the arrowhead away. When Mira stopped picking her teeth, it meant she'd finished thinking and had arrived at a conclusion. The conclusion, from the set of her jaw and the flatness of her amber eyes, was not one that made her happy.
+
+<<dialog "Mira">>
+Let's try the garrison first. If there's nothing, we haul cargo in the rain and hate ourselves for it.
+<</dialog>>
+
+<<dialog "Aldric">>
+Sounds like a plan.
+<</dialog>>
+
+<<dialog "Mira">>
+It sounds like desperation with a schedule. But it's what we've got.
+<</dialog>>
+<<set $day_1_3 = false>>
+<<updateobjective "day_1" "Check the garrison board for mercenary work">>
+<<link "Go to the garrison board at east garrison">>
+    <<regionmap "valdmere">>
+<</link>>
+
+:: day_1_3
+<<set $mcLocation = "east_garrison">>
+<<set $day_1_3 = true>>
+The east garrison mercenary board was a slab of weathered oak nailed to the wall beside the guardhouse, protected from the rain by an overhang that didn't quite do its job. Half the postings were water-damaged, the ink bleeding into illegibility. The other half were legible and depressing.
+
+I stood in front of it, rain dripping off the brim of my hood, and read each one with the desperate optimism of a man looking for a diamond in a pile of horse manure.
+
+<img src="img/scene/day_1/3.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+<<dialog "Aldric">>
+Rat-clearing. Three coppers, bring your own poison. Same posting from last week.
+<</dialog>>
+
+<<dialog "Mira">>
+Next.
+<</dialog>>
+
+<<dialog "Aldric">>
+Escort contract   merchant family heading north. Payment in meals and lodging, no coin.
+<</dialog>>
+
+<<dialog "Mira">>
+We can't eat lodging. Next.
+<</dialog>>
+
+<<dialog "Aldric">>
+Bounty on a pickpocket. Two silver. Been posted for three weeks. Either the pickpocket is very good or two silver isn't worth the effort.
+<</dialog>>
+
+<<dialog "Mira">>
+Both. Next.
+<</dialog>>
+
+<<dialog "Aldric">>
+That's it.
+<</dialog>>
+
+<<dialog "Mira">>
+That can't be it.
+<</dialog>>
+
+<<dialog "Aldric">>
+There's one more, but it's asking for a wizard and I checked this morning   I'm still not a wizard.
+<</dialog>>
+
+<<dialog "Mira">>
+Have you tried?
+<</dialog>>
+
+<<dialog "Aldric">>
+Tried what? Being a wizard? You don't just try being a wizard, Mira. It requires years of training and a fundamental connection to the arcane that 
+<</dialog>>
+
+<<dialog "Mira">>
+I meant have you tried reading the fine print. Sometimes wizard-required postings accept armed escort as a substitute if the client is desperate enough.
+<</dialog>>
+
+I leaned closer. Squinted through the rain at the smudged text. The client wanted a wizard to clear a haunted cellar. Specifically, the ghost of a cat that was scaring the household staff. Payment, one silver and a basket of turnips.
+
+<<dialog "Aldric">>
+It's a ghost cat. For turnips.
+<</dialog>>
+
+<<dialog "Mira">>
+I hate this city.
+<</dialog>>
+
+We left the garrison. The rain was still falling. Valdmere was between conflicts   the border dispute with the northern provinces had settled, the pirate activity off the coast had been quelled by a naval expedition last month, and the internal guild wars had reached a temporary truce that left everyone armed and unemployed. The mercenary market was flooded with idle swords, and the pay had cratered to the point where honest labor at the docks was starting to look competitive.
+
+We walked through the market district because it was on the way back and because sometimes walking past things you can't afford is its own kind of entertainment. The stalls were half-shuttered against the rain, their awnings sagging with pooled water, the merchants huddled under them like refugees from joy.
+
+Mira stopped at a fletcher's stall. The fletcher   a lean, sun-browned woman with arms like braided rope   had her wares displayed under a waxed canvas tent, arrows, bowstrings, quivers, a pair of hand-carved crossbow bolts that were more art than weapon.
+
+<img src="img/scene/day_1/4.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+<<dialog "Mira">>
+Look at that bowstring.
+<</dialog>>
+
+She said it the way another woman might say "look at that necklace" or "look at that dress." With longing. With the hungry reverence of someone who appreciated the craft behind the object. The bowstring was silk-and-sinew blend, treated with something that gave it a faint luster even in the gray light. Professional grade. The kind of string that turned a good bow into a great one.
+
+<<dialog "Aldric">>
+How much?
+<</dialog>>
+
+<<dialog "Mira">>
+More than nine coppers. Don't ask.
+<</dialog>>
+
+She walked away. Didn't look back. I filed it away   the way she'd looked at the bowstring, the particular angle of her chin when she'd forced herself to move on. If we ever had money again, I'd come back and buy it for her. I wouldn't tell her I was doing it. She'd punch me for being sentimental and then she'd string her bow with it and never mention it again, and that would be her way of saying thank you.
+
+Two stalls down, a blacksmith was repairing a sword with a technique I'd never seen   folding the heated metal at an angle that shouldn't have worked but somehow did, the hammer strikes producing a tone like a bell rather than the usual dull ring. I stopped to watch. The rhythm was hypnotic. Strike, fold, strike, turn, strike, fold. The metal glowed cherry-red under the rain, steam rising from the anvil in thin white ghosts.
+
+<img src="img/scene/day_1/5.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Ten minutes passed. The blade took shape   a short sword, curved slightly, with a single edge and a fuller groove that would make it whistle when swung. Beautiful work. The kind of craft that separated a smith who made swords from a smith who made weapons.
+
+<<dialog "Mira">>
+Are you going to stand here all day watching a man hit metal?
+<</dialog>>
+
+<<dialog "Aldric">>
+He's not just hitting metal. Look at the fold angle   that's a northern technique. You don't see that this far south. The grain structure will be 
+<</dialog>>
+
+<<dialog "Mira">>
+Aldric.
+<</dialog>>
+
+<<dialog "Aldric">>
+What?
+<</dialog>>
+
+<<dialog "Mira">>
+We are broke. We are homeless as of tomorrow. I love that you appreciate craftsmanship. I do. It's charming. But if I stand in this rain for one more minute watching you watch a blacksmith, I am going to take that glowing sword and insert it somewhere creative.
+<</dialog>>
+
+<<dialog "Aldric">>
+Fine. We're going.
+<</dialog>>
+
+<<dialog "Mira">>
+We're going.
+<</dialog>>
+
+We went. But I looked back once. The smith caught my eye and gave me a nod   one craftsman to another, even though my craft was using the blade rather than making it. I nodded back. Nice moment. Didn't pay the rent.
+
+On the way back, Mira suggested we spend two coppers on decent ale from a proper taproom rather than the Broken Antler's liquid punishment.
+
+<<dialog "Aldric">>
+We could. Two coppers for something that actually tastes like ale instead of like regret.
+<</dialog>>
+
+<<dialog "Mira">>
+Or we save the two coppers and drink regret at the Antler for free. Since we're already paying for the room.
+<</dialog>>
+
+We looked at each other. The rain dripped off our hoods. A cart rolled past, splashing mud across both our boots. Somewhere nearby, a dog barked at nothing.
+
+<<dialog "Aldric">>
+Save it.
+<</dialog>>
+
+<<dialog "Mira">>
+Save it.
+<</dialog>>
+
+We walked back to the Broken Antler in silence. Sometimes saving two coppers feels like winning. Most of the time it just feels like being poor.
+<<nobr>>
+    <<set $barmaid_done = false>>
+    <<set $arm_wrestler_done = false>>
+    <<set $day_1_4 = false>>
+    <<set $board_sergeant_start = false>>
+    <<addsidequest "barmaids_eye" "The Barmaid's Eye" "Talk with Her">>
+    <<addsidequest "arm_wrestler" "The Arm Wrestler" "Challenge Him">>
+<</nobr>>
+<<updateobjective "day_1" "Go back to the Broken Antler">>
+<<link "Walk back to the Broken Antler">>
+    <<regionmap "valdmere">>
+<</link>>
+
+:: day_1_4
+<<set $mcLocation = "broken_antler">>
+The common room was emptier in the afternoon. A few day-drinkers nursing their tankards like the ale might run away if they let go. The old man in the corner   the one who'd been there every single day since we arrived, asleep with a fat orange cat on his chest, both of them breathing in synchronized wheezes   was still there. Still asleep. The cat opened one eye when we walked in, judged us, and closed it again.
+
+I ordered two of the terrible house ales. Three coppers each. Six total. That left us three coppers to our name. Three coppers between two armed professionals who'd been traveling together for three months and had somehow managed to spend every coin they earned faster than they earned it.
+
+My father would have been proud. He'd been a master of the same trick, back before the lord took the farm and the drink took him.
+
+Mira settled into our corner booth   the one with the high-backed seats that let us keep our backs to the wall and our eyes on the door. Old habit. Professional paranoia. She arranged herself the way she always did, bow case under the table within reach, short sword at her hip, a clear line of sight to both exits.
+
+<<dialog "Mira">>
+We need to think differently.
+<</dialog>>
+
+<<dialog "Aldric">>
+Differently how?
+<</dialog>>
+
+<<dialog "Mira">>
+The garrison board is dead. The docks pay pennies. We're not pawning weapons. So we need a different channel. Private contracts. Under-the-table work. The kind of jobs that don't get posted on public boards because the people offering them don't want public attention.
+<</dialog>>
+
+<<dialog "Aldric">>
+You're talking about the kind of work that gets you stabbed in an alley.
+<</dialog>>
+
+<<dialog "Mira">>
+I'm talking about the kind of work that pays in silver instead of turnips. There's a difference. Slim difference, admittedly. But present.
+<</dialog>>
+
+I drank my ale. Tasted like defeat with a frothy head. The common room was dim, the afternoon light barely making it through the grimy windows. Rain hammered the shutters in irregular bursts, each one a reminder that the world outside was wet and cold and not interested in our problems. That's when I noticed the board.
+
+Not the garrison board   a different one. Smaller, nailed to the wall near the bar, half-hidden behind a hanging lamp that hadn't been lit. I'd walked past it every day for five days and never looked closely. Tavern-specific postings. Local noise. Lost items, rooms for let, a notice about a missing tabby cat that was probably living with the old man in the corner based on the description.
+
+But one card stood out. Hand-lettered on thick parchment, the kind of paper that cost money, which meant whoever wrote it had some. The ink was dark, the letters precise.
+<<set $check_card_1 = false>>
+<<set $day_1_4 = true>>
+<<updateobjective "day_1" "Check the card on the tavern board">>
+[[Check the Card|broken_antler]]
+
+:: check_card_1
+<<set $check_card_1 = true>>
+<span style="color: red;">Discrete procurement services   inquire at bar.</span>
+
+<img src="img/scene/day_1/6.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+I stared at it. "Discrete procurement services" could mean anything from fetching a noble's lost jewelry to smuggling contraband through the harbor gates. The vagueness was deliberate. The kind of posting that filtered out people who needed too many details before committing.
+
+I flagged down the innkeeper. He looked up from his ledger with the enthusiasm of a man being asked to do anything at all.
+
+<<dialog "Aldric">>
+That card on the board. The procurement services. Who posted it?
+<</dialog>>
+
+The innkeeper shrugged   a minimal movement involving exactly one shoulder and zero additional effort.
+
+<<dialog "Innkeeper">>
+Man comes in most evenings. Big fellow. Scarred up. Sits at the back, waits for people to ask about the card. Been doing it for about a week.
+<</dialog>>
+
+<<dialog "Aldric">>
+What kind of work?
+<</dialog>>
+
+<<dialog "Innkeeper">>
+The kind I don't ask about. That's the kind of tavern this is.
+<</dialog>>
+
+<<dialog "Aldric">>
+What time does he usually come in?
+<</dialog>>
+
+<<dialog "Innkeeper">>
+Sunset. Give or take. Orders whiskey, sits, waits. Sometimes people talk to him. Sometimes they don't. Either way, he drinks his whiskey and leaves.
+<</dialog>>
+
+He went back to his ledger. Conversation over. I returned to the booth and told Mira.
+
+<<dialog "Mira">>
+Discrete procurement services. That's a smuggling job.
+<</dialog>>
+
+<<dialog "Aldric">>
+Or a recovery job. Or a delivery job. Or an assassination, I suppose, if we're being thorough about the possibilities.
+<</dialog>>
+
+<<dialog "Mira">>
+We don't do assassinations.
+<</dialog>>
+
+<<dialog "Aldric">>
+I know we don't do assassinations. I'm listing options.
+<</dialog>>
+
+<<dialog "Mira">>
+Well, stop listing that one. What time did the innkeeper say?
+<</dialog>>
+
+<<dialog "Aldric">>
+Sunset. We wait?
+<</dialog>>
+
+<<dialog "Mira">>
+We wait.
+<</dialog>>
+
+She picked up her arrowhead. Click. Click. Click. Thinking again. I drank my ale and watched the rain and tried to calculate how many hours of terrible ale I could stretch three coppers across. The answer was, not enough.
+<<updateobjective "day_1" "Wait for sunset">>
+<<link "Wait for sunset">>
+    <<goto "day_1_5">>
+<</link>>
+
+:: day_1_5
+Sunset in Valdmere was less an event and more a negotiation. The sun didn't so much set as give up, the gray sky darkening by degrees until the lamplighters came out with their poles and the city shifted from daytime misery to nighttime misery with marginally better lighting.
+
+The Broken Antler's evening crowd filtered in. Dock workers with calloused hands and hollow eyes, looking for the particular kind of oblivion that three-copper ale provided. A pair of off-duty city guards sharing a pitcher and trading complaints about their sergeant. A group of merchants' apprentices   young, loud, soft-handed   occupying a table near the hearth and laughing at things that weren't funny. The fire popped and crackled, throwing warm shadows across the low ceiling and making the common room almost bearable if you squinted hard enough and drank fast enough.
+
+Mira had switched to water an hour ago. I was on my second ale and beginning to regret spending the copper. The common room smelled like pipe smoke, wet wool, and the particular funk of twenty human bodies crammed into a space designed for ten. The cat on the old man's chest had relocated to the bar, where it sat washing itself with the serene indifference of a creature that had never worried about money in its life.
+
+The door opened. The sound of the storm rushed in   wind, rain, the distant clatter of cart wheels on wet cobblestones   and with it came a man who matched the innkeeper's description the way a landslide matches the word "inconvenient." Wide as a wardrobe. Face that was mostly scar tissue, the kind of face that suggested he'd lost a fight with a cheese grater and won the rematch by eating it. Heavy jaw. Small eyes that moved fast and missed nothing. An oilskin cloak that pooled water on the floor as he crossed the threshold.
+
+<img src="img/scene/day_1/7.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Mira's elbow found my ribs. She didn't look at me. Didn't need to.
+
+<<dialog "Mira">>
+That's him.
+<</dialog>>
+
+<<dialog "Aldric">>
+You think?
+<</dialog>>
+
+<<dialog "Mira">>
+Big. Scarred. Oilskin. Ordering whiskey. Either that's our man or the innkeeper's description applies to half the muscle in Valdmere.
+<</dialog>>
+
+The man   Grent, presumably   collected his whiskey from the bar, exchanged exactly zero words with the innkeeper, and moved to a table at the back of the room. He sat with his shoulders to the wall and his eyes on the door. The same instinct Mira and I had. Professional paranoia recognizes its own kind.
+
+He didn't look at us. Didn't look at anyone. He drank his whiskey with the patient stillness of a man who'd done this every evening for a week and would do it every evening for a week more if necessary. A man who understood that the right kind of work found the right kind of people, and the right kind of people were the ones desperate enough to approach a stranger in a tavern based on a card with three vague words on it.
+
+I looked at Mira. She looked at our three coppers.
+
+<<dialog "Mira">>
+Well? You going to sit here until we can't afford to sit here anymore?
+<</dialog>>
+
+<<dialog "Aldric">>
+I was hoping you'd go. You're more intimidating.
+<</dialog>>
+
+<<dialog "Mira">>
+I'm an archer. You're the one with the sword and the jaw. Go sell us.
+<</dialog>>
+<<set $grent_1 = false>>
+<<updateobjective "day_1" "Approch Grent about the card">>
+[[Approch Grent about the card|broken_antler]]
+
+:: grent_1
+<<set $grent_1 = true>>
+I picked up my ale   mostly for something to do with my hands   and crossed the common room. The man watched me approach. Not with alarm, not with welcome. With the flat, evaluating attention of someone who assessed threats and opportunities through the same lens.
+
+I sat down across from him without waiting for an invitation. If he wanted people to approach him about that card, he could tolerate the lack of ceremony.
+
+<<dialog "Aldric">>
+Saw your card on the board. Discrete procurement services. I'm here to ask about it.
+<</dialog>>
+
+He looked at me. Then past me, at Mira in our corner booth   the bow case visible under the table, the short sword at her hip, the particular coiled readiness of someone who could kill you from fifty paces and was mildly annoyed about being alive.
+
+<<dialog "Grent">>
+Name's Grent. Merchant Consortium, Valdmere chapter. You two sellswords?
+<</dialog>>
+
+<<dialog "Aldric">>
+I'm a sellsword. She's an archer. She'll tell you there's a difference.
+<</dialog>>
+
+<<dialog "Grent">>
+Same thing with extra steps. Bring her over.
+<</dialog>>
+
+I waved Mira across. She came   unhurried, ale in hand, settling into the chair beside me with the deliberate ease of someone who wanted you to know she was armed and comfortable and not particularly impressed by you. Grent watched her sit with the same flat appraisal he'd given me. Then he reached inside his oilskin cloak, produced a folded parchment, and placed it on the table between us with the precise, deliberate placement of a man laying down a card he knew would change the game.
+
+<<dialog "Grent">>
+Got a contract. Night work. Twenty silver each, half up front.
+<</dialog>>
+
+Twenty silver. The number hit me like a physical force. Twenty silver was a month of rooms and meals. It was new boots and a proper sharpening stone and ale that didn't taste like someone's worst memory. It was the difference between sleeping on a bed and sleeping on a pile of fish guts. My hand was reaching for the parchment before my brain finished processing, the instinct of a man who'd been broke long enough that money had its own gravitational pull.
+
+Under the table, Mira kicked me. Hard. Right in the shin. The universal signal for don't look desperate, you idiot. I pulled my hand back. But I could see the number working behind her eyes too   those amber half-elf eyes doing the same math mine were doing, calculating room costs and food budgets and how far twenty silver could stretch if you spent it carefully.
+
+Neither of us spent anything carefully. But it was nice to imagine.
+
+<<dialog "Mira">>
+What kind of night work?
+<</dialog>>
+
+<img src="img/scene/day_1/8.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Grent leaned back. The chair creaked under him like a ship in heavy seas.
+
+<<dialog "Grent">>
+Supply caravan got hit three days ago on the Ashenmoor Road. Four leagues east, give or take. Whole wagon of alchemical reagents   sealed crates, specialty goods. Valuable stuff. The guards were killed.
+<</dialog>>
+
+<<dialog "Mira">>
+By what?
+<</dialog>>
+
+<<dialog "Grent">>
+Goblins. Warband operating out of the old Greymire mine. Scouts put them at fifteen, maybe twenty strong. Been hitting shipments for weeks   grab and run, nothing organized. The Consortium wants the cargo recovered. Whatever's still intact.
+<</dialog>>
+
+<<dialog "Mira">>
+Fifteen to twenty goblins. In a mine.
+<</dialog>>
+
+<<dialog "Grent">>
+Small goblins. Big mine.
+<</dialog>>
+
+<<dialog "Mira">>
+There's no such thing as a small goblin when you're underground with fifteen of them. They fight dirty, they know the terrain, and they have the kind of morale that comes from being too stupid to be afraid.
+<</dialog>>
+
+<<dialog "Grent">>
+Which is why I'm paying twenty silver each and not five. The Consortium is aware that this job carries risk. We're also aware that the cargo sitting in that mine is worth considerably more than forty silver, which means your compensation is generous but not unreasonable. Think of it as a fair exchange   your skills and your risk tolerance for our money and our problem.
+<</dialog>>
+
+Mira's arrowhead came out. She held it between two fingers, turning it slowly, the broadhead catching the firelight. Click against her thumbnail. Click. Click. Her thinking tell. Grent watched the arrowhead with the careful attention of a man who recognized a weapon when he saw one, even a small one being used for dental hygiene.
+
+<<dialog "Mira">>
+What's in the crates?
+<</dialog>>
+
+<<dialog "Grent">>
+Sealed alchemical reagents. Specialty compounds for clients who pay premium rates and prefer discretion. The specifics are above your pay grade and below your interest, unless you're planning to open an apothecary.
+<</dialog>>
+
+<<dialog "Mira">>
+I'm planning to not get killed by something that leaks out of a broken crate while I'm carrying it through a goblin-infested tunnel in the dark. What kind of reagents? Volatile? Toxic? Corrosive?
+<</dialog>>
+
+<<dialog "Grent">>
+Some of all three. Which is why the sealed crates matter and the broken ones don't. If a seal's intact, the contents are stable. If a seal's broken, leave it. Don't open them. Don't drink them. Don't sniff them. Some of that stuff is meant for controlled application by trained alchemists, and the results of uncontrolled exposure range from unpleasant to fatal, with several creative stops in between.
+<</dialog>>
+
+He shrugged   a gesture that involved so much shoulder it was practically a geological event. The oilskin cloak rustled like a tent in a gale.
+
+<<dialog "Grent">>
+Twenty silver each guaranteed. Plus a two-silver bonus per sealed crate you bring back. The Consortium doesn't expect all of it. Just whatever you can carry.
+<</dialog>>
+
+I looked at Mira. She looked at my nine coppers sitting on the table next to the ale tankards, a tiny monument to our failure as functional adults. She looked at the folded parchment with the Consortium seal. She looked at me.
+
+The conversation happened in the space between her blinks.
+
+Her: This is dangerous.
+
+Me: Everything we do is dangerous.
+
+Her: Underground. Close quarters. My bow is useless in a tunnel.
+
+Me: You have the short sword.
+
+Her: I hate that sword.
+
+Me: Twenty silver.
+
+Her: ... Twenty silver.
+
+She put the arrowhead away.
+
+<<dialog "Mira">>
+When?
+<</dialog>>
+
+<<dialog "Grent">>
+Tonight, if you're smart. Tomorrow at the latest. The longer those crates sit in a goblin nest, the less likely anything inside them survives. Goblins are curious creatures. They poke things. They taste things. Eventually they break things. The window for recovery narrows every hour.
+<</dialog>>
+
+I picked up the parchment. The Consortium seal was pressed into the wax   a pair of scales over a ship's wheel, the universal symbol of people who had money and wanted more of it. The contract was straightforward. Recover sealed cargo from the Greymire mine. Return to Consortium warehouse on Dockside Row. Ask for a woman named Voss. She'd handle payment.
+
+<<dialog "Aldric">>
+We'll go tonight.
+<</dialog>>
+
+Under the table, Mira kicked me again. Harder this time. I was going to have a bruise the shape of her boot heel on my shin for a week.
+
+<<dialog "Aldric">>
+Sorry, We'll go tomorrow night.
+<</dialog>>
+
+<<dialog "Grent">>
+Good. Half up front.
+<</dialog>>
+
+He produced a small leather pouch from inside his oilskin cloak and counted out twenty silver coins on the table. The sound they made   that particular music, that bright metallic chime of real money hitting wood   was the most beautiful noise I'd heard in weeks. Maybe months. Each coin caught the firelight as it landed, winking like a tiny promise.
+
+Grent divided them into two piles. Ten and ten. He pushed one toward me, one toward Mira. I picked mine up and the weight of them   warm from his pocket, solid, real   settled against my palm like an answer to a prayer I'd been too proud to say.
+
+<<dialog "Grent">>
+You get the rest plus bonuses when you deliver the crates. Dockside Row. Voss. She's thorough, so have the cargo count ready.
+<</dialog>>
+
+He stood. Reached into his cloak and pulled out a thick charcoal pencil and the napkin from under his whiskey glass. He spread the napkin flat and began sketching   quick, sure lines, the practiced hand of a man who'd drawn tactical maps on worse surfaces.
+
+<<dialog "Grent">>
+Upper tunnels branch off the main shaft about fifty paces in. The camp is here   central chamber, old crew quarters. This is where they'll be sleeping. The storage shafts angle down from a junction point here.
+<</dialog>>
+
+He jabbed a thick finger at the napkin. The map was crude but clear   entrance, main shaft, junction, the branching paths of upper and lower tunnels.
+
+<<dialog "Grent">>
+That's where your crates should be. Heavy things go down. Sleeping things go up. Food goes near the fire. Goblins are simple creatures with simple organizational systems.
+<</dialog>>
+
+<<dialog "Mira">>
+Neither are bear traps. That's what makes them effective.
+<</dialog>>
+
+Grent folded the napkin and pushed it across the table.
+
+<<dialog "Grent">>
+One more thing. The alchemical reagents in those crates   don't open them. Don't drink them. Don't sniff them. I said this already but I'm saying it again because the last pair of sellswords I hired didn't listen and one of them spent three days convinced he was a chicken. The other one still can't taste salt. These are not recreational substances. They are expensive, volatile professional compounds. Treat them accordingly. Understood?
+<</dialog>>
+
+<<dialog "Aldric">>
+Understood.
+<</dialog>>
+
+<<dialog "Grent">>
+Good. Don't die. Dead sellswords are bad for my quarterly reports.
+<</dialog>>
+<<set $leave_table_1 = false>>
+<<updateobjective "day_1" "Leave the table and prepare for the job">>
+[[Leave the table|broken_antler]]
+
+:: leave_table_1
+<<set $leave_table_1 = true>>
+He pulled his oilskin hood back up and headed for the door. At the threshold, the storm reached in and grabbed him   wind whipping his cloak, rain lashing the floor   and he stepped into it without hesitation, the way a man steps into water he's already accepted will be cold. The door closed. The noise died. The common room settled back into its usual background hum of quiet desperation and bad ale.
+
+Mira picked up her ten silver and weighed them in her palm. Her fingers closed around them, the archer's grip, and I watched the tension in her hand   the way she held the coins like they might escape if she loosened her grip even slightly.
+
+<<dialog "Mira">>
+I don't like mines.
+<</dialog>>
+
+<<dialog "Aldric">>
+Nobody likes mines.
+<</dialog>>
+
+<<dialog "Mira">>
+I'm serious, Aldric. Underground, confined, no sightlines   my bow is a long-range weapon. In a tunnel, I might as well be throwing rocks. I'll be fighting with the short sword the entire time.
+<</dialog>>
+
+<<dialog "Aldric">>
+Then bring the short sword.
+<</dialog>>
+
+<<dialog "Mira">>
+I hate that sword. The balance is wrong. The grip smells like old cheese. Every time I hold it, I feel like I'm wielding a very aggressive kitchen utensil.
+<</dialog>>
+
+<<dialog "Aldric">>
+Your short sword has saved your life twice.
+<</dialog>>
+
+<<dialog "Mira">>
+I resented it both times. I want that on the record.
+<</dialog>>
+
+She pocketed the coins and stood up. The firelight caught her face in profile   the sharp jaw, the high forehead, the slightly pointed ears that she kept hidden under her cropped hair or a hood, not from shame but from the pragmatic desire to avoid conversations that started with "are you an elf?" and ended with her explaining, for the thousandth time, that half-elves existed and no, they did not grant wishes.
+
+<<dialog "Mira">>
+Two hours after sunset. I need to sleep first.
+<</dialog>>
+
+<<dialog "Aldric">>
+Sleep? We just got paid more money than we've seen in 
+<</dialog>>
+
+<<dialog "Mira">>
+Two hours. Wake me. I fight better rested, and one of us should be at peak performance for the goblin mine we're about to willingly enter like two people who've collectively decided that survival is optional.
+<</dialog>>
+
+She walked toward the stairs without looking back. Her hips moved with the lean, efficient gait of a woman who never wasted a motion, every step purposeful, her short sword swinging at her hip in the rhythm I'd memorized over three months of following her into situations exactly like this one.
+
+<<dialog "Mira">>
+Sharpen my short sword. If I'm going to die holding it, I'd rather it be sharp.
+<</dialog>>
+
+<<dialog "Aldric">>
+I thought you hated that sword.
+<</dialog>>
+
+<<dialog "Mira">>
+I do. But I'd rather die holding a sharp sword I hate than a dull one I hate. Standards, Aldric. We maintain standards.
+<</dialog>>
+
+<img src="img/scene/day_1/9.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+She disappeared up the stairs. The sound of her boots faded. The common room resumed its gentle background noise   murmured conversations, the pop of the fire, the old man's synchronized snoring with his cat.
+
+I sat there for a moment. Ten silver in my belt. A contract in my pocket. A job that might kill me in a few hours and the warm, complicated feeling in my chest that I got every time Mira walked away from me, which was the feeling of watching the person you trusted most in the world put their back to you because they trusted you not to let anything get to it.
+
+I pulled out my longsword and laid it across the table.
+<<updateobjective "day_1" "Sharpen the longsword">>
+[[Sharpen the longsword|day_1_6]]
+
+:: day_1_6
+
+The blade was good steel   nothing fancy, no enchantments, no master smith's mark. Just honest iron folded and hammered by a smith in Thornwall who'd learned his trade from his father who'd learned it from his. The kind of sword that working sellswords carried   reliable, balanced, responsive to a trained hand, and completely unremarkable. A blade that wouldn't start a conversation at a noble's table but would end one in an alley.
+
+The edge had nicks from the last job   the rat job, in Thornwall, which I was never going to mention again for the rest of my natural life. Six days clearing a tanner's basement of dire rats, each one the size of a terrier with teeth like broken glass. Five coppers each for the work. Six coppers for the healer afterward. Net loss, one copper and whatever remained of my dignity, which wasn't much.
+
+I drew my whetstone from my belt pouch and began working the edge. Long, steady strokes. The sound of steel on stone filled the corner booth like a meditation. Shhhhk. Shhhhk. Shhhhk. The rhythm was automatic   muscle memory from a thousand evenings just like this one, sitting in a hundred different taverns, sharpening a blade for a hundred different jobs. The whetstone was almost as old as the sword. Flat on one side, slightly concave on the other from years of use. The stone had shaped the blade. The blade had shaped the stone. Together, they'd shaped me.
+
+<img src="img/scene/day_1/10.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+I worked the edge methodically. Base to tip, maintaining the angle, feeling for the burr that told me the metal was thin enough. Turn the blade. Other side. Base to tip. The nicks from the rat job smoothed out under the stone's patient attention. The edge emerged   not razor-sharp, that was for daggers and kitchen knives   but keen. Working-sharp. The kind of edge that would bite into leather, part mail, and find the soft spaces between a goblin's ribs without hesitation.
+
+When I was done, I set my longsword aside and picked up Mira's short sword. The cheese-smelling one.
+
+She was right about the grip. It did smell like old cheese. Not aggressively, not the kind of smell that announced itself from across the room, but a persistent, low-grade funkiness that became apparent the moment you wrapped your hand around the leather binding. I'd asked her once where she'd gotten it. She'd said she took it off a dead bandit outside Kestwick who'd apparently used it to cut cheese with more enthusiasm than hygiene. The blade itself was decent steel   single-edged, slightly curved, good for close-quarters work. The balance was, as she perpetually complained, wrong   slightly blade-heavy, which made it want to chop rather than thrust.
+
+But the edge was good, and it took the whetstone well. I worked it from base to tip, the shorter blade requiring a different stroke rhythm than my longsword. Shhhhk. Shhhhk. By the time I was done, the cheese sword could split a hair lengthwise. She'd still complain about it. She always did.
+
+I oiled both blades with the rag from my belt kit. Drew my fingers along the flat of each one, checking for burrs I might have missed. Clean. Sharp. Ready.
+
+I set the swords aside and looked at the common room.
+<<updateobjective "day_1" "Look around the common room/Focus on sharpen swords">>
+[[Look around the common room|day_1_7_lenna]]
+[[Focus on sharpen swords|day_1_7_mira]]
+
+:: day_1_7_lenna
+
+The evening crowd had thickened while I worked. The noise level had risen from murmur to roar   the particular volume of a tavern hitting its stride, when the ale was flowing and the conversations were getting louder and the hearth fire was roaring and the whole room felt like a living thing, breathing and pulsing with the collective warmth of thirty people who'd come here to forget, briefly, that their lives were hard.
+
+Dock workers with hands like leather and eyes like stones, drinking fast, talking about the ships. City guards off duty, armor stacked under the table, laughing about something their captain had said. The merchants' apprentices were getting drunker and louder, their laughter high and sharp, the laughter of people who'd never been hungry and didn't know what it felt like. The old man and his cat slept through all of it, undisturbed, a monument to the power of not giving a damn and there was a woman at the bar.
+
+I noticed her the way you notice anyone   peripherally at first, a shape in the crowd, and then with increasing detail as the eye found reasons to return. She was leaning against the bar with one elbow, a tankard in her other hand, watching the room with a lazy, appraising gaze. The look of someone who was exactly where she wanted to be and in no hurry to be anywhere else.
+
+Chestnut hair, loose around her shoulders, catching the firelight in auburn streaks. Brown eyes with gold flecks that reminded me of creek water in autumn. A scatter of freckles across her nose and cheeks, so many I'd need an hour and better light to count them. A bodice laced up the front   laced loosely, deliberately loosely, the kind of looseness that was a statement rather than an oversight. The swell of her breasts visible in the gap, soft and warm-looking, the skin there paler than her freckled face. Full hips under a skirt hemmed high enough to show her calves   strong calves, working calves, the kind that came from standing and walking and living in a body that did things. A soft belly visible in the way the fabric hung. She was built the way real women were built   no sharp angles, no aristocratic thinness, just curves and warmth and the comfortable solidity of a person who used her body every day and took care of it without being precious about it.
+
+<img src="img/scene/day_1/11.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Not stunning. Not the kind of beauty that stopped conversations and started wars. But warm. Real. Available and in that moment   sitting alone in a tavern with a mine job in two hours and the uncertainty of whether I'd see tomorrow   warm and real and available was worth more than stunning could ever be.
+
+She caught me looking. Of course she did. A working girl's eyes were her best tool   she'd spotted me watching before I'd finished deciding to watch. She smiled. A professional smile, warm and inviting, with just enough heat behind the friendliness to communicate the transaction being offered. Not crude. Not aggressive. Just, I see you seeing me. Here's what I can do about it.
+
+She picked up her tankard and walked over. Her walk was unhurried, confident, her hips swaying with the natural rhythm of a woman who was comfortable in her own skin and wanted you to notice that comfort.
+<<set $day_1_8_lenna = false>>
+<<updateobjective "day_1" "Talk with Lenna">>
+[[Talk with her|broken_antler]]
+
+
+:: day_1_8_lenna
+<<set $day_1_8_lenna = true>>
+<<dialog "Lenna">>
+You look like a man who's had a long day.
+<</dialog>>
+
+Her voice was warm. A little husky. The accent was local   Valdmere born and bred, the flattened vowels and crisp consonants of the river district.
+
+<<dialog "Aldric">>
+It's about to get longer.
+<</dialog>>
+
+<<dialog "Lenna">>
+Is that so?
+<</dialog>>
+
+<img src="img/scene/day_1/12.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+She slid into the booth across from me, where Mira had been sitting. Up close, she was prettier than I'd thought. The freckles were everywhere   nose, cheeks, the tops of her shoulders where the neckline of the bodice dipped. Her mouth curved naturally upward at the corners, like she was always halfway to smiling even when she wasn't trying. There were tiny laugh lines at the corners of her eyes. She was maybe twenty-four. Maybe younger, maybe older. The kind of face that age would improve rather than diminish.
+
+<<dialog "Lenna">>
+I'm Lenna.
+<</dialog>>
+
+<<dialog "Aldric">>
+Aldric.
+<</dialog>>
+
+<<dialog "Lenna">>
+Well, Aldric.
+<</dialog>>
+
+She glanced at the swords on the table   both of them, my longsword and Mira's short sword, freshly sharpened, the oil still gleaming on the blades. The whetstone and rag beside them. The practical evidence of violence, laid out like a craftsman's tools.
+
+<<dialog "Lenna">>
+Sellsword?
+<</dialog>>
+
+<<dialog "Aldric">>
+Is it that obvious?
+<</dialog>>
+
+<<dialog "Lenna">>
+The swords are a clue. Two of them, which means you're either very dangerous or you're sharpening someone else's, which means you're the thoughtful kind of dangerous. I like the thoughtful kind.
+<</dialog>>
+
+<<dialog "Aldric">>
+The second one's my partner's. She's sleeping upstairs.
+<</dialog>>
+
+<<dialog "Lenna">>
+Partner. Business partner?
+<</dialog>>
+
+<<dialog "Aldric">>
+Something like that.
+<</dialog>>
+
+<<dialog "Lenna">>
+Mmhm.
+<</dialog>>
+
+The sound she made was knowing, amused, and completely unimpressed by whatever arrangement Mira and I did or didn't have. She sipped her ale, watching me over the rim of the tankard, and I noticed her hands   strong, capable, with short nails and a small callus on the inside of her right thumb. Hands that worked.
+
+<<dialog "Lenna">>
+You look tense. Tight in the shoulders. Like you're carrying something heavy up there and your body hasn't figured out how to set it down.
+<</dialog>>
+
+<<dialog "Aldric">>
+Just the usual. Broke, about to do something stupid, probably going to die. Standard mercenary evening.
+<</dialog>>
+
+<<dialog "Lenna">>
+The usual, then. At least you're honest about it. Half the men in here are pretending they're having a wonderful time. You're the only one who looks like he knows exactly how much trouble he's in.
+<</dialog>>
+
+She set her tankard down. The smile shifted   less professional, more direct. The heat behind it coming closer to the surface.
+
+<<dialog "Lenna">>
+I could help with the tension. If you're interested. Two silver for the hour. I've got a room upstairs   nicer than whatever you're sleeping in, I promise. Real blankets. A candle that doesn't smell like tallow. I've made it livable.
+<</dialog>>
+
+Two silver. I had ten from Grent's advance. I could afford it. The question was whether I should   practical math, cold-blooded arithmetic, the kind of calculation that sellswords made every day. Every coin mattered. We had a job in two hours. Spending money on pleasure before a job was irresponsible, impractical, and the kind of decision my father would have made right before drinking the rest.
+
+But under the practical math, something else was pulling. Something that didn't deal in coppers and silver but in the raw, uncomfortable calculus of mortality. I was twenty-six. Healthy. About to walk into a dark hole full of things that wanted to kill me. The math of mercenary life was simple and brutal, you might not come back. Every night might be the last one. Every ale might be the final taste. Every touch might be the last warmth your skin ever felt and here was Lenna. Warm, willing, gold-flecked eyes, freckles like a constellation chart. Offering me something that had nothing to do with swords or survival.
+
+I opened my mouth to answer and heard footsteps on the stairs behind me. Mira.
+<<updateobjective "day_1" "Accept or decline Lenna's offer">>
+[[Accept Lenna's offer|day_1_9_lenna]]
+[[Decline Lenna's offer|day_1_7_mira]]
+/* ---
+
+> [BRANCH POINT: THE LAST NIGHT]
+>
+> The player chooses how Aldric spends his final night as a fully male body   a choice that will echo through the transformation, coloring how he experiences the changes, how he relates to intimacy, and which memories haunt him when his body becomes something new.
+>
+> Choice A: Lenna   The Tavern Girl
+> A night of uncomplicated physical pleasure with a stranger. No history, no strings, no morning-after awkwardness. Just two bodies and an hour.
+>
+> Choice B: Mira   The Companion
+> Three months of unspoken tension given a name. A night that changes everything between them   and makes the coming transformation infinitely more complicated.
+
+--- */
+
+:: day_1_9_lenna
+
+Mira appeared at the foot of the stairs, her bow slung over one shoulder, her short sword belted at her hip. She'd slept in her clothes   she always did before a job, ready to move at a moment's notice. Her cropped copper hair was pressed flat on one side where she'd lain against the pillow, which somehow made her look both younger and more dangerous.
+
+<img src="img/scene/day_1/13.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+She saw Lenna in the booth. Saw me. Read the situation in about half a second   because Mira read everything in half a second, the same way her eyes read terrain and distance and wind speed before a bowshot. Her expression processed the scene, filed it, categorized it, and moved on in the space between heartbeats.
+
+<<dialog "Aldric">>
+I sharpened your sword.
+<</dialog>>
+
+<<dialog "Mira">>
+I can see that.
+<</dialog>>
+
+Her eyes flicked to Lenna, then back to me. Something moved across her face   complex, brief, a weather system passing over a landscape. Amusement? Disapproval? The particular flicker of a woman who'd been sharing my bed for two months and had opinions about finding another woman in the seat she considered hers? Whatever it was, it passed. Replaced by her usual expression of tolerant exasperation   the face she wore the way other people wore hats. Her default setting.
+
+<<dialog "Mira">>
+I'm going to eat. Don't be late.
+<</dialog>>
+
+She walked to the bar, sat down, and ordered food without looking back. Her spine was straight, her shoulders set, her attention deliberately elsewhere. She was giving me permission by refusing to acknowledge the need for it. Classic Mira.
+
+Lenna raised an eyebrow. The professional assessment behind her eyes was quick and accurate.
+
+<<dialog "Lenna">>
+Yours?
+<</dialog>>
+
+<<dialog "Aldric">>
+My partner. Business partner.
+<</dialog>>
+
+<<dialog "Lenna">>
+Mmhm. The kind of business partner who sleeps in the same room and doesn't like finding strange women in her seat. I've met that kind of business partner before. Many times, actually. It's a popular arrangement.
+<</dialog>>
+
+<<dialog "Aldric">>
+It's complicated.
+<</dialog>>
+
+<<dialog "Lenna">>
+Most things worth having are. So. The hour?
+<</dialog>>
+
+I looked at my ten silver. At the swords on the table. At the rain on the shutters. At Mira's back, straight and deliberate at the bar, a masterwork of carefully performed indifference.
+
+<<dialog "Aldric">>
+Lead the way.
+<</dialog>>
+<<updateobjective "day_1" "Go to Lenna's room">>
+[[Go to Lenna's room|day_1_10_lenna]]
+
+:: day_1_10_lenna
+
+Lenna's room was at the end of the upstairs hall   a small, clean space that she'd claimed and transformed in the way that people who live in temporary places always do, by filling it with enough personal touches that the impermanence became bearable. The bed was comfortable   actually comfortable, not the lumpy torture device I'd been sleeping on   with a patterned quilt in blues and greens that looked handmade. A dried flower arrangement sat on the windowsill, the petals dusty but still holding their shape. A small mirror propped against the wall, polished brass rather than the common tin. A washbasin on a stand, the water clean, a cake of soap that smelled like rosemary beside it.
+
+Someone's home. Not a rented room. The distinction mattered more than I expected.
+
+She closed the door. The bolt clicked. The sounds of the common room   the laughter, the fire, the bad bard   faded to a muffle. The candle on the nightstand threw warm, flickering light across the walls, painting everything in gold and shadow.
+
+Lenna turned to face me. The professional warmth was still there, the working smile, but something had joined it   a directness, an honesty that came from doing this enough times that pretense was wasted effort. She was a woman about to do her job, and she was good at her job, and there was no shame in either of those facts.
+
+<img src="img/scene/day_1/14.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+<<dialog "Lenna">>
+First things first.
+<</dialog>>
+
+She unlaced her bodice.
+
+She did it slowly, not as a tease but as a statement. Look at me. See what I am. See what you're getting. The laces loosened and the fabric parted and she shrugged it off her shoulders in a single motion, the garment falling to the floor with a soft sound. Beneath it, a thin linen shift   and beneath that, the shapes of her body, visible through the fabric like landscape through morning fog. The swell of her breasts heavy and round, her dark nipples pressing against the linen, the curve of her waist flowing into full hips.
+
+She pulled the shift over her head.
+
+She stood in the candlelight, naked from the waist up, and let me look. Full breasts that sat heavy and natural on her chest, round and soft, the kind that filled your hand and overflowed. Dark pink nipples, wide areolae, the skin there a shade lighter than the freckled warmth of her chest and shoulders. The freckles continued   a scattering of copper marks across her collarbones, the tops of her shoulders, fading as they traveled down toward her breasts but a few brave ones making it all the way to the curves themselves. A soft belly, the gentle roundness of a woman who ate enough and didn't apologize for it. Strong arms. Working muscles. A body that was lived in, enjoyed, and maintained with the practical care of someone whose livelihood depended on it.
+
+<<dialog "Lenna">>
+Your turn.
+<</dialog>>
+
+I pulled my tunic over my head. The leather armor was already off   I'd removed it for the sword work   so it was just fabric and skin. I stood in the candlelight the same way she had, letting her see me. Broad shoulders. Thick chest, dark hair concentrated on the pectorals with a trail running down the midline of my abdomen. Defined muscle   not pretty muscle, not the sculpted aesthetics of a nobleman's fitness, but working muscle, the functional mass of a man who swung steel for a living. Scars here and there   the one on my right ribcage from the Thornwall job, a thin white line on my left thigh from a dire rat with ambition, a diagonal mark across my right shoulder blade from an ambush on the road to Kestwick.
+
+She looked me over. Her eyes did the same slow, appreciative sweep mine had done   appraising, direct, the honest assessment of one professional to another.
+
+<<dialog "Lenna">>
+Nice shoulders. You actually use those muscles, don't you? Not decorative. Functional. I can tell the difference   the men who work and the men who pose. You're the working kind.
+<</dialog>>
+
+<<dialog "Aldric">>
+Can't afford to pose. Posing gets you killed.
+<</dialog>>
+
+<<dialog "Lenna">>
+It does. Come here.
+<</dialog>>
+
+She stepped forward and put her hands on my chest. Her fingers were warm, the palms slightly calloused   different calluses than mine, in different places, but the mark of hands that worked. She traced the line of my pectorals with her fingertips, the ridge of my collarbone, the trail of dark hair running down my midline. Her touch was confident, unhurried, the hands of a woman who'd mapped a hundred men's bodies and had learned that every one of them had its own geography.
+
+<<dialog "Lenna">>
+Tense. I wasn't kidding about that. Your traps are like rocks and here   the deltoids, the upper back   you're knotted up tight.
+<</dialog>>
+
+<<dialog "Aldric">>
+Long month.
+<</dialog>>
+
+<<dialog "Lenna">>
+Mmhm.
+<</dialog>>
+
+Her hands moved lower. Thumbs hooking into the waistband of my trousers, knuckles brushing the skin below my navel. Not grabbing. Not rushing. Just, this is where we're going, and I'll get us there at my pace.
+
+<<dialog "Lenna">>
+Let me help.
+<</dialog>>
+
+She pushed me back onto the bed. I went willingly   no resistance, no performance. Her hands were expert, working my trousers down over my hips while her mouth found the side of my neck, the spot just below the ear where the skin thins and the pulse races close to the surface. She kissed it   warm, soft pressure   and then bit. Gently. A scrape of teeth that sent a jolt down my spine and straight into my cock like a current through water.
+
+I was hard already. Had been since the bodice came off, if I was honest about it. She noticed   her hand finding me through the thin fabric of my smallclothes, wrapping around the outline of my shaft with a grip that was firm enough to feel and gentle enough to make me want more.
+
+<<dialog "Lenna">>
+Mmm. There we go.
+<</dialog>>
+
+She stripped me the rest of the way. Efficient, practiced, the smallclothes pulled down and tossed aside. I was naked on her bed, my cock standing hard against my stomach, the cool air of the room raising goosebumps across my skin. She stood over me for a moment   still half-dressed in her skirt, looking down at me with those gold-flecked eyes. The candlelight painted her breasts in warm amber, the shadows deepening the valley between them.
+
+Then she dropped the skirt.
+
+Naked underneath. A thick thatch of chestnut curls between her thighs, darker than the hair on her head. Strong legs, smooth skin, her hips wide enough that my hands could grip them and still not span the distance from bone to bone. She climbed onto the bed, straddling my thighs, and the heat of her   the actual physical warmth of her body, the slick warmth where she pressed against the underside of my cock   hit me like a wave.
+
+<<dialog "Lenna">>
+Tell me what you want.
+<</dialog>>
+
+<<dialog "Aldric">>
+You. Like this.
+<</dialog>>
+
+She reached between us. Took me in hand   her grip firm, position precise, the head of my cock aligned against her opening. I could feel her   slick, hot, the folds of her parting around the tip, the wet heat of her body already welcoming me in before she'd moved an inch.
+
+She held my eyes as she sank down.
+
+The sound she made was small and real   not performance, not theater. Just the involuntary "nnnh" of a body being filled, the honest response of flesh to flesh. I echoed it, my hands finding her hips, fingers pressing into the soft skin as she took me deeper, inch by slow inch, the wet heat of her clenching around my shaft, tight and slick and overwhelming, until she was seated fully and I was buried to the hilt inside her and the warmth was everywhere.
+
+She rolled her hips. Slow, grinding circles that moved me inside her without rising, the friction deep and constant. Her breasts swayed with the motion   heavy, soft, hypnotic   and I reached up and cupped one. Filled my palm with it. Felt the weight, the warmth, the nipple hardening against my skin like a small stone under velvet.
+
+<<dialog "Lenna">>
+There you go. See? Less tense already.
+<</dialog>>
+
+She began to ride me. Not fast   measured, deliberate, her thighs flexing as she rose and fell, her cunt gripping my shaft with each stroke like a fist sheathed in silk. The wet sounds filled the room   rhythmic, slick, obscene in the way that honest sex always was, without apology. Her hands braced on my chest, nails leaving faint crescents in my skin.
+
+I watched her move. The candlelight loved her   catching the sheen of sweat on her stomach, the bounce of her breasts at the peak of each rise, the way her lips parted when a particular angle hit a spot inside her that made her brow furrow and her breath catch. She was good at this. Experienced. Skilled in the way that comes from practice and attention and a genuine understanding of what bodies need and somewhere in the middle of the experience, the professionalism melted away and she was just a woman enjoying a man she found attractive enough, her breath getting shorter, her rhythm getting rougher, her grinding getting more urgent. The mask slipping. The real person underneath emerging, hungry and honest.
+
+I gripped her hips and thrust upward. Hard. She gasped   a real gasp, startled, her eyes widening   and I did it again, driving deeper, angling for the spot inside her that had made her breath catch moments ago. Found it. Her back arched and her fingers clawed at my chest.
+
+<<dialog "Lenna">>
+Oh   fuck   there, right there 
+<</dialog>>
+
+I gave her what she asked for. Both hands on her hips, pulling her down onto me as I drove upward, the bed creaking beneath us, the headboard tapping against the wall in a steady percussion. She was loud now   not screaming, but moaning freely, unguarded, the sounds raw and guttural and genuine, her head thrown back, her chestnut hair swinging.
+
+<<dialog "Lenna">>
+Aaahh   gods   harder   nnnh   don't stop 
+<</dialog>>
+
+I flipped her. She went with it, her back hitting the mattress, her legs wrapping around my waist, her heels digging into my ass and pulling me deeper. I braced myself over her and fucked her the way she was begging for   deep, hard, relentless, the slap of my hips against hers filling the room. Her breasts bounced with each thrust, her nipples dark and hard, and I dropped my mouth to one and sucked, tasting salt and skin.
+
+Her cunt clenched around me   tight, rhythmic, the muscles inside her gripping and releasing in waves that told me she was close. I could feel it building in her body   the tension in her thighs, the desperate grip of her hands on my shoulders, the way her moans had shortened to staccato gasps, each one punched out of her by the force of my hips.
+
+<<dialog "Lenna">>
+Don't   stop   don't you dare   aaahhhh 
+<</dialog>>
+
+She came with her whole body. Arching off the mattress, her cunt seizing around me like a fist, her nails raking down my back hard enough that I felt the sting even through the roaring pleasure. The sound she made was wordless, primal   a long, shuddering "aaaaahhhhh" that vibrated through both of us like a bell being struck.
+
+I lasted maybe ten seconds longer. The grip of her, the heat, the sound she'd made   too much, all of it, the orgasm building at the base of my spine and crashing through me like a wave breaking a seawall. I pulled out at the last moment, spilling across her stomach, my cock pulsing in my fist, hot ropes of come landing on her skin while every muscle in my body locked and released in waves.
+
+I collapsed beside her. The candle guttered. The rain whispered against the shutters. Our breathing filled the small room like a duet   ragged, slowing, two bodies returning to baseline after the storm.
+
+<<dialog "Lenna">>
+Better?
+<</dialog>>
+
+<<dialog "Aldric">>
+Better.
+<</dialog>>
+
+She laughed   genuine, warm, easy. The laugh of a woman who was good at her work and not ashamed of it.
+
+<<dialog "Lenna">>
+Good. That's what I'm here for.
+<</dialog>>
+
+She cleaned us both up with a cloth from the washbasin   warm water, gentle hands, the practical care of someone who'd done this part a thousand times and still treated it as important. She handed me my clothes, piece by piece, and kissed me on the cheek while I was pulling on my trousers. A tender gesture. Surprising, from a woman whose body I'd just been inside. More intimate, somehow, than the sex itself.
+
+<<dialog "Lenna">>
+Good luck. With whatever stupid thing you're about to do.
+<</dialog>>
+
+<<dialog "Aldric">>
+How do you know it's stupid?
+<</dialog>>
+
+<<dialog "Lenna">>
+You're a sellsword going out in the rain at midnight. All the smart options happen during daylight. Whatever this is, it's stupid and dangerous and probably necessary, and you're going to do it anyway because that's the kind of man you are. I can tell.
+<</dialog>>
+
+<<dialog "Aldric">>
+You can tell that from an hour?
+<</dialog>>
+
+<<dialog "Lenna">>
+I can tell that from the way you sharpened someone else's sword before your own. Come back alive, Aldric. I'll give you a discount next time.
+<</dialog>>
+<<updateobjective "day_1" "Leave Lenna's room">>
+[[Leave Lenna's room|day_1_11_lenna]]
+
+:: day_1_11_lenna
+
+I paid her the two silver. They passed from my hand to hers with the weight of a transaction that was simpler and more honest than most things in my life. She tucked them into a small wooden box on the nightstand   her savings, I realized. The accumulation of hours and work and the kind of intimacy that didn't pretend to be more than it was.
+
+I left the room. In the hallway, I paused. My body felt loose, relaxed, the tension genuinely gone. The knots in my shoulders had dissolved. My mind was clear, focused, the restless itch that had been crawling under my skin all evening fucked right out of me and replaced by a calm readiness.
+
+<img src="img/scene/day_1/15.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+<<updateobjective "day_1" "Go to sleep">>
+[[Sleep|day_2_1]]
+
+
+
+:: day_1_7_mira
+
+Mira appeared at the foot of the stairs, her bow slung over one shoulder, her short sword belted at her hip. She'd slept in her clothes   she always did before a job. Her cropped copper hair was flat on one side. Her amber eyes swept the booth, found Lenna sitting where she herself usually sat, and processed the scene with the speed and accuracy of someone sighting down a drawn bow.
+
+<img src="img/scene/day_1/13.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Her left eyebrow went up. Just the one. The expression that meant really? and you have got to be kidding me and I will remember this all at once, compressed into a single, devastating arch of copper-red hair over amber eye.
+
+<<dialog "Aldric">>
+I sharpened your sword.
+<</dialog>>
+
+<<dialog "Mira">>
+Mmhm.
+<</dialog>>
+
+She looked at Lenna. Then at me. Then back at Lenna with the particular territorial flatness of a woman who'd been sleeping with me for two months and didn't appreciate finding competition she hadn't authorized. Not jealousy   Mira didn't do jealousy, or at least she'd never admit to it under torture. But something adjacent. Something that said this seat is mine and I don't recall posting a vacancy.
+
+<<dialog "Mira">>
+Am I interrupting?
+<</dialog>>
+
+Lenna glanced between us. She was a professional   she could read a room better than most soldiers, better than most spies. The calculation took her about two heartbeats, the territorial woman, the guilty-looking man, the arrangement that was obviously more than business no matter what either of them called it.
+
+She picked up her tankard, gave me a small knowing smile   the kind that said you were going to say yes, weren't you?   and slipped away without a word. Professional grace. No scene, no hurt feelings, no wasted energy on a deal that wasn't going to close.
+<<updateobjective "day_1" "Respond to Mira">>
+[[Mira's reaction|day_1_7_mira_reaction]]
+
+:: day_1_7_mira_reaction
+
+Mira slid into the vacated seat. She picked up my tankard and drank from it without asking, the way she'd been doing since Thornwall. The way she did everything   helping herself, assuming access, treating the boundary between her life and mine as a suggestion rather than a rule.
+
+<<dialog "Mira">>
+Making friends?
+<</dialog>>
+
+<<dialog "Aldric">>
+She was offering stress relief.
+<</dialog>>
+
+<<dialog "Mira">>
+I bet she was.
+<</dialog>>
+
+<<dialog "Aldric">>
+Purely professional.
+<</dialog>>
+
+<img src="img/scene/day_1/16.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+<<dialog "Mira">>
+Purely professional. Two silver for the hour, I imagine. Standard rate for this kind of establishment. Was she going to rub your shoulders, or was the stress relief of the more... comprehensive variety?
+<</dialog>>
+
+<<dialog "Aldric">>
+Mira.
+<</dialog>>
+
+<<dialog "Mira">>
+You don't need to pay for stress relief. You have me.
+<</dialog>>
+
+The words landed between us like a stone dropped in still water. Ripples spreading outward, touching everything. She said it with her usual directness   no coyness, no euphemism, just the flat statement of fact that was Mira's version of vulnerability. You have me. Three words that acknowledged everything we'd been doing for two months without once using the language that would make it real.
+
+<<dialog "Aldric">>
+I know.
+<</dialog>>
+
+<<dialog "Mira">>
+Do you? Because you were giving her your "I'm considering it" face. The one where your right eyebrow lifts slightly and your jaw gets this particular set to it and your eyes go soft, like you're already imagining what you'd see with her clothes off.
+<</dialog>>
+
+<<dialog "Aldric">>
+I don't have an "I'm considering it" face.
+<</dialog>>
+
+<<dialog "Mira">>
+You absolutely do. You're making it right now, in fact, except now it's directed at me, which I'm choosing to take as a compliment rather than an insult.
+<</dialog>>
+
+She set the tankard down. Looked at me   really looked, with those amber eyes that saw everything and forgave most of it. The fire cast shifting light across her face, catching the sharp line of her jaw, the high forehead, the slightly pointed tips of her ears peeking through the cropped copper hair. A face that was more striking than conventionally pretty   arresting rather than soft. The kind of face that made you look twice and then made you unable to look away.
+
+We'd been doing this since Kestwick. Six weeks into our partnership, the night after the dwarf arm-wrestling incident   which I'd lost so badly my shoulder had clicked for a month   she'd offered to rub the muscle. One thing had led to another. Hands on shoulders had become hands on skin had become mouths on mouths had become my back hitting the mattress and her body on top of mine and both of us making sounds that the walls of the inn were too thin to contain.
+
+We never talked about what it was. That was the arrangement   the unspoken contract, the silent agreement that made the whole thing function without either of us having to be brave enough to name it. We traveled together, fought together, split our earnings, and some nights we fucked each other senseless and woke up the next morning and went back to being partners without a word. No declarations. No promises. No expectations beyond the current moment.
+
+It worked. It had been working for two months. I didn't ask questions and neither did she.
+
+<<dialog "Mira">>
+Come upstairs.
+<</dialog>>
+
+Not a request. Not quite a command. The particular tone she used when she'd already decided what was happening and was extending me the courtesy of phrasing it as if I had a choice in the matter.
+
+/* <<dialog "Aldric">>
+We have a job in two hours.
+<</dialog>>
+
+<<dialog "Mira">>
+Then we'd better not waste time talking about it.
+<</dialog>>
+
+--- */
+<<updateobjective "day_1" "Go upstairs with Mira">>
+[[Go upstairs with Mira|day_1_8_mira]]
+
+:: day_1_8_mira
+<<changestat "mira"  5>>
+Our room was small and cramped and smelled like damp wool and old wood. Two beds   technically. We'd stopped pretending to use both of them about three weeks ago. My bed was the one we slept in   the lumpy one near the window. Hers was where we threw our gear. The arrangement was so domestic in its quiet practicality that neither of us had ever acknowledged it, because acknowledging it would mean admitting we'd moved past "sometimes" and into "always" without ever having the conversation.
+
+Mira closed the door. Threw the bolt. Started unlacing her leather vest before she'd even finished turning around.
+
+<<dialog "Mira">>
+We might die.
+<</dialog>>
+
+She said it the way someone else might say "it might rain later." Factual. Unworried. A weather report for their mortality.
+
+<<dialog "Aldric">>
+We might.
+<</dialog>>
+
+<<dialog "Mira">>
+So.
+<</dialog>>
+
+She turned. Bare from the waist up. The linen undershirt already off, tossed onto the gear bed. Lean and tawny and precise in the candlelight   the body of a woman built for speed and distance, not softness. Small breasts high on her chest, barely a handful each, firm and perfect, dark nipples already tight from the cool air. The flat plane of her stomach, the faint ridge of muscle along her sides, the archer's back visible when she turned slightly   strong lats, prominent shoulder blades, the musculature of a woman who'd spent her life drawing a longbow. A body I knew by touch as well as sight. Every scar. Every spot that made her gasp. Every freckle, and there weren't many   a few scattered across her shoulders, tawny marks on golden-brown skin.
+
+<<dialog "Mira">>
+Are you going to stand there, or are you going to come fuck me like it's the last time?
+<</dialog>>
+
+<img src="img/scene/day_1/17.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+I crossed the room in three steps.
+
+We collided. My hands on her waist   narrow, lean, the warm skin sliding under my calloused palms. Her hands on my jaw   gripping, pulling, her fingers threading into the stubble along my cheeks. Our mouths met with the practiced ease of two people who'd memorized each other's angles. No clumsiness   not anymore. We'd burned through the clumsy phase in Kestwick and refined the rest over dozens of nights in dozens of beds and three memorable occasions against walls, one against a tree, and one incident involving a horse cart that we'd agreed never to mention because the carter had almost caught us and the explaining would have been worse than the dying.
+
+Her tongue found mine. The taste of her   bad ale, road dust, something sharp and green that was just Mira, the underlying flavor of half-elf that was different from human in ways I'd never been able to articulate   hit me like a homecoming. Like walking through a door you didn't know was yours until you were inside.
+
+She pulled my tunic up. I raised my arms, let her strip me. Her hands went straight to my chest   palms flat, fingers spread, mapping the terrain she already knew. The ridge of my pectorals. The dark hair trailing down my midline. The scar on my right ribcage from the Thornwall job. She touched all of it with the unhurried confidence of ownership. Hers. This body was hers. She might never say it in those words, but her hands said it every time they moved across my skin.
+
+<<dialog "Mira">>
+You're tense.
+<</dialog>>
+
+<<dialog "Aldric">>
+You keep saying that.
+<</dialog>>
+
+<<dialog "Mira">>
+Because you keep being tense. Your shoulders are like stone. Your jaw is clenched. Relax.
+<</dialog>>
+
+<<dialog "Aldric">>
+Hard to relax when 
+<</dialog>>
+
+<<dialog "Mira">>
+Take these off.
+<</dialog>>
+
+Her hands were at my waistband. I took them off. She took hers off. Ten seconds, maybe less   no ceremony, no slow reveal, just the efficient shedding of fabric between two people who'd seen everything the other had and wanted to see it again.
+
+She pushed me back onto the bed. Our bed. The lumpy one. I went, and she climbed on top   the position she'd claimed since the first time, taking the top the way she took point on patrol. Natural. Instinctive. Because Mira led and I followed and that was how we worked best, in bed and out of it.
+
+Her thighs straddled my hips, her weight settling against me. The wet heat of her cunt pressed against the underside of my cock   hard now, straining against my stomach   and she rocked. Once. A slow, deliberate grind that dragged her slick folds along my entire length, root to tip, coating me in her. The sensation made my hands fly to her hips   the sharp bones, the lean muscle, the architecture of her that I knew by touch like I knew my own sword.
+
+<<dialog "Mira">>
+Nnh.
+<</dialog>>
+
+Not a word. Just a sound. The sound she always made at first contact   involuntary, honest, the acknowledgment of yes, this, you.
+
+She reached between us. Took me in hand   archer's grip, strong fingers, the calluses on her pads dragging against the sensitive skin of my shaft. She knew exactly how to hold me. Exactly how much pressure. The precise mechanics of my cock, learned through two months of practice and attention and the kind of focused determination she brought to every skill she mastered.
+
+She positioned me at her entrance and sank down.
+
+No preamble. No teasing. No slow descent. She took me in one decisive stroke   a swift, complete impalement that buried me to the hilt and punched a groan out of both of us. She was tight   always tight, that half-elf physiology, lean muscle everywhere, including the muscles inside her   and slick enough that the friction was pleasure rather than resistance.
+
+<<dialog "Mira">>
+Fuck.
+<</dialog>>
+
+Her eyes closed. Lips parted. The candlelight caught the sheen of sweat forming on her collarbones, turning the tawny skin gold.
+
+<<dialog "Mira">>
+I needed this.
+<</dialog>>
+
+<<dialog "Aldric">>
+I can tell.
+<</dialog>>
+
+<<dialog "Mira">>
+Shut up.
+<</dialog>>
+
+She began to move. Not slowly   Mira didn't do slowly. She rode me with the same focused intensity she brought to a bowshot   controlled, precise, relentless. Her hips rolled in tight circles, grinding her clit against my pelvis on the downstroke, her thighs flexing as she rose and fell. The bed creaked beneath us, the frame protesting, the headboard tapping the wall in a rhythm that every room on this floor had learned to recognize and tolerate.
+
+I knew her body the way I knew my sword   by feel, by weight, by the way it responded. I knew that if I gripped her hips and pulled her down hard on the upstroke, she'd gasp. I did it. She gasped. I knew that if I slid my thumb across her clit   the small, swollen nub peeking from its hood where our bodies joined   she'd clench around me hard enough to make my vision blur. I did it. She clenched. My vision blurred.
+
+<<dialog "Mira">>
+Aahh   right there   don't you dare stop 
+<</dialog>>
+
+I didn't stop. My thumb worked her clit in tight circles while I thrust upward, meeting her rhythm, our bodies moving together with the seamless coordination of long practice. Her small breasts bounced with each stroke   not the dramatic swing of fuller curves, but a tight, rhythmic jolt that I watched with the fascination I always had. I reached up with my free hand and rolled her nipple between my fingers, pinching lightly, and she hissed through her teeth and ground down harder.
+
+<<dialog "Mira">>
+Harder. Fuck me harder.
+<</dialog>>
+
+I sat up. The motion changed everything   angle, depth, contact. She was in my lap now, her legs wrapped around my waist, her arms around my neck, our chests pressed together. I could feel her heartbeat against mine   fast, strong, alive. Her small breasts pressed flat against the hair on my chest, her nipples hard points against my skin. I gripped her ass with both hands   lean, firm, the muscles clenching under my palms   and drove up into her with everything I had.
+
+The sounds filled the room. Wet, rhythmic, obscene   the slap of flesh on flesh, the creak of the bed, her moans getting louder and more ragged. She buried her face in my neck, biting the muscle where it met the shoulder   the same spot she always bit, the spot that was already mapped with faded bruises from previous nights. A constellation of her teeth on my skin, the history of every time she'd needed to muffle a scream.
+
+<<dialog "Mira">>
+Nnnh   fuck   yes   aahh 
+<</dialog>>
+
+I knew she was close. The signs were as readable as tracks in soft earth   her breathing shortening to staccato bursts, her cunt tightening rhythmically around me, her nails digging crescents into my back with escalating intensity. Two months of learning this woman's body, and I could read her orgasm approaching the way she read wind speed before a long shot   invisible to anyone else, perfectly legible to me.
+
+<<dialog "Aldric">>
+Come for me.
+<</dialog>>
+
+<<dialog "Mira">>
+Don't   tell me   what to   aahh 
+<</dialog>>
+
+She came. Her whole body locked   thighs clamping, arms tightening, cunt seizing around my cock in hard rhythmic contractions. The sound she made was muffled against my shoulder, teeth sinking into muscle, a long shuddering moan that vibrated through my bones and into the center of me.
+
+<<dialog "Mira">>
+Aaahhhh   nngh   fuck   FUCK 
+<</dialog>>
+
+I held her through it. Buried deep. Feeling every wave, every pulse, every aftershock. She trembled against me like a bowstring after the shot   that same vibrating tension, slowly releasing, the energy dissipating through her body in diminishing oscillations.
+
+<<dialog "Mira">>
+Your turn.
+<</dialog>>
+
+She pushed me flat and started riding me again   harder now, faster, her oversensitive body flinching with each stroke but refusing to stop. She was doing this for me now   focused, determined, watching my face the way she watched a target. Reading me. Adjusting.
+
+It didn't take long. She knew exactly what to do   the angle, the speed, the way she squeezed me on the upstroke. She reached behind her and cupped my balls, rolling them gently in her fingers, and the combination of her cunt gripping me and her hand on me was too much. The orgasm crested and broke.
+
+<<dialog "Aldric">>
+Mira   fuck   I'm 
+<</dialog>>
+
+She didn't pull off. Never did. She ground down, taking me as deep as she could, and I came inside her with a groan that I tried to bury in the pillow but couldn't quite contain, my hips jerking, my cock pulsing, emptying into the clenching heat of her while she held perfectly still and let me finish.
+[[We collapsed|day_1_9_mira]]
+
+:: day_1_9_mira
+
+We collapsed together. Tangled, sweaty, breathing hard. Her head on my chest, her short hair tickling my chin. My arm around her shoulders, my hand resting on the curve of her back where her spine met the swell of her ass. The room smelled like sex and sweat and the particular musk that the two of us made together, our bodies' shared signature.
+
+This was the part I liked best. Not the sex itself   though the sex was excellent, had always been excellent, the particular chemistry of two people who'd learned each other thoroughly and kept finding new notes in a familiar song. But this. The afterward. The silence that wasn't empty but full. The feeling of her breathing against me, her heartbeat slowing, her body going loose and heavy with the specific bonelessness of a woman who trusted the man underneath her enough to let go completely.
+
+<img src="img/scene/day_1/18.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+We didn't talk about what this was. We never had. But in these moments, with her weight on my chest and her breath on my skin and the rain whispering against the shutters like the world was sharing a secret, I thought I knew and I thought she knew and I thought maybe neither of us said it because saying it would make it real, and real things could be lost, and we'd both lost enough.
+
+/* <<dialog "Mira">>
+We have a job.
+<</dialog>>
+
+Her voice was drowsy, sated, the sharp edges filed down to something warm and almost soft. Almost. Mira was never fully soft. Even at her most relaxed, there was a wire of alertness running through her, the half-elf instinct that never quite shut down.
+
+<<dialog "Aldric">>
+We do.
+<</dialog>>
+
+<<dialog "Mira">>
+Forty-five minutes.
+<</dialog>>
+
+<<dialog "Aldric">>
+Plenty of time.
+<</dialog>>
+
+<<dialog "Mira">>
+For what?
+<</dialog>>
+
+<<dialog "Aldric">>
+To lie here.
+<</dialog>> */
+
+She was quiet for a moment. Her fingers traced the scar on my ribcage   the one from Thornwall, the one she'd stitched closed herself while calling me six different kinds of idiot. She knew every ridge of the healed tissue, every bump where the thread had pulled. She'd sewn my skin back together. There was an intimacy in that which had nothing to do with sex and everything to do with trust.
+<<updateobjective "day_1" "Go to sleep">>
+[[Sleep|day_2_1]]
+/* <<dialog "Mira">>
+Your shoulders.
+<</dialog>>
+
+<<dialog "Aldric">>
+What about them?
+<</dialog>>
+
+<<dialog "Mira">>
+They're good shoulders. Broad. Strong. I like the way they feel when I hold onto them. When I'm   you know. When we're   this. The way they flex when you thrust. The way they feel under my hands when I'm holding on.
+<</dialog>>
+
+<<dialog "Aldric">>
+Getting sentimental?
+<</dialog>>
+
+<<dialog "Mira">>
+Getting observant. We might die. I'm cataloging.
+<</dialog>>
+
+<<dialog "Aldric">>
+Cataloging.
+<</dialog>>
+
+<<dialog "Mira">>
+The things I'd miss.
+<</dialog>>
+
+She propped her chin on my chest and looked up at me. The amber eyes. The cropped copper hair, tousled now, sticking up at angles. No smile   Mira didn't smile when she was being serious. But something warm in her expression. Something unguarded. Something she only showed in these after-moments when her defenses were down and her body was still humming and the walls she built around herself had temporary cracks in them.
+
+<<dialog "Mira">>
+I'd miss your hands. The size of them. The way they feel on my hips when you're pulling me down. The calluses on your palms   rough against my skin. Swordsman's hands.
+<</dialog>>
+
+<<dialog "Aldric">>
+Mira 
+<</dialog>>
+
+<<dialog "Mira">>
+Your jaw. The stubble. The way it scratches when you kiss my neck. Like fine sandpaper. It leaves marks sometimes. Pink marks on my skin that last an hour. I like seeing them.
+<</dialog>>
+
+<<dialog "Aldric">>
+You're being weird.
+<</dialog>>
+
+<<dialog "Mira">>
+I'm being honest. There's a difference and your chest. The hair. The way it feels against my breasts when we're pressed together. Rough and warm. Like lying against something alive.
+<</dialog>>
+
+She laid her head back down. Her ear against my breastbone, listening to my heart the way she listened to everything   with complete attention and the kind of quiet focus that made you feel like the only sound in the world.
+
+<<dialog "Mira">>
+Don't die, Aldric.
+<</dialog>>
+
+<<dialog "Aldric">>
+I'll do my best.
+<</dialog>>
+
+<<dialog "Mira">>
+Do better than your best. Your best includes the time you tried to arm-wrestle a dwarf in Kestwick. Your best has a spotty track record.
+<</dialog>>
+
+<<dialog "Aldric">>
+I let him win.
+<</dialog>>
+
+<<dialog "Mira">>
+You dislocated your shoulder.
+<</dialog>>
+
+<<dialog "Aldric">>
+Strategically.
+<</dialog>>
+
+She laughed. A real laugh, quiet but real, felt more than heard   a vibration against my chest, her breath warm on my skin. The rarest sound she made. The one I'd trade twenty silver to hear again.
+
+I held her. The rain fell. The candle flickered. My body was warm and loose and exactly the way it had always been   broad shoulders, hairy chest, big hands, strong jaw, the stubble she liked, the cock softening against my thigh still wet from being inside her. Everything she'd just cataloged. Everything she said she'd miss.
+
+Shoulders. Chest. Hands. Jaw. Stubble.
+
+All the things that made me the man she'd been sleeping with for two months.
+
+All the things that were about to change.
+
+But I didn't know that yet.
+
+She dozed for twenty minutes. Exactly twenty   she had an internal clock that was better than any timepiece. Then she woke with the instant alertness of a soldier, kissed me once   hard, quick, a stamp of ownership pressed into my lips   and rolled out of bed to dress.
+
+<<dialog "Mira">>
+Thirty minutes. Sharp my sword?
+<</dialog>>
+
+<<dialog "Aldric">>
+Already done.
+<</dialog>>
+
+<<dialog "Mira">>
+Good man.
+<</dialog>>
+
+She buckled her belt, slung her bow, checked her quiver. Drew the short sword, tested the edge with her thumb, and slid it back into the sheath with the expression of a woman handling something she despised but grudgingly respected.
+
+<<dialog "Mira">>
+Still smells like cheese.
+<</dialog>>
+
+<<dialog "Aldric">>
+I sharpened the blade, not the grip.
+<</dialog>>
+
+<<dialog "Mira">>
+Next time, sharpen the grip. Or burn it. Burning would also be acceptable.
+<</dialog>>
+
+She looked at me over her shoulder. The amber eyes. The copper hair. The sharp, striking face that was more beautiful to me now than any soft prettiness could ever be. She stood in the doorway of our room   the room we shared, the bed we shared, the life we shared without ever admitting that sharing it was a choice rather than a convenience.
+
+<<dialog "Mira">>
+Let's go kill some goblins.
+<</dialog>>
+
+I got dressed. Picked up the swords   mine and hers. Followed her downstairs and out the door into the rain and the dark and whatever came next.
+
+We had a mine to clear.
+
+---
+
+[End of Day -2   Day -1 begins, The Greymire Mine. The goblins. The fall. The wound and Ysolde's vial, waiting in the dark like a seed waiting for soil.] */

@@ -1,0 +1,305 @@
+:: StoryTitle
+The Long Hunt
+
+:: StoryData
+{
+	"ifid": "14B28384-716E-44B0-B2B2-CD047E9AAA18",
+	"format": "SugarCube",
+	"format-version": "2.37.3",
+	"start": "day_1_1", 
+	"zoom": 0.6
+}
+
+:: Story Stylesheet [stylesheet]
+
+.passage, .passage p {
+  text-align: justify !important;
+  text-justify: inter-word;
+}
+
+:: Story JavaScript [script]
+
+(function () {
+	var link = document.createElement('link');
+	link.rel = 'icon';
+	link.type = 'image/svg+xml';
+	link.href = 'favicon.svg';
+	document.head.appendChild(link);
+}());
+
+:: StoryMenu
+<a href="https://www.patreon.com/c/xxx" target="_blank">Patreon</a>
+
+:: StoryInit
+<<set $mcRegion   = "valdmere">>      /* which region — shows dot on world map */
+<<set $mcLocation = "broken_antler">> /* location id — shows dot on sub-map */
+<<set $mcMapX     = 55>>              /* manual sub-map X if location not in list */
+<<set $mcMapY     = 50>>              /* manual sub-map Y if location not in list */
+
+<<set $day = 1>>
+<<set $timeOfDay = "Morning">>
+<<set $inventory = [
+  { 
+    icon: "⚔️", 
+    name: "Longsword", 
+    count: 1, 
+    category: "weapon",
+    desc: "Good steel from a Thornwall smith. Honest iron, no enchantments. Freshly sharpened."
+  },
+  { 
+    icon: "🔪", 
+    name: "Belt Knife", 
+    count: 1, 
+    category: "weapon",
+    desc: "Short, heavy. Good for close work if things get desperate."
+  },
+  { 
+    icon: "🛡️", 
+    name: "Leather Armor", 
+    count: 1, 
+    category: "armor",
+    desc: "Hardened cowhide with metal studs at shoulders and chest. Stops a glancing blow and not much else."
+  },
+  { 
+    icon: "👕", 
+    name: "Linen Tunic", 
+    count: 1, 
+    category: "clothing",
+    desc: "Roughspun. Worn under armor. Starting to chafe in new places."
+  },
+  { 
+    icon: "👖", 
+    name: "Trousers", 
+    count: 1, 
+    category: "clothing",
+    desc: "Sturdy wool. Belt sits at the usual notch — for now."
+  },
+  { 
+    icon: "🥾", 
+    name: "Boots", 
+    count: 1, 
+    category: "clothing",
+    desc: "Road-worn leather. The right one presses against the swollen ankle."
+  },
+  { 
+    icon: "📿", 
+    name: "Belt & Pouch", 
+    count: 1, 
+    category: "gear",
+    desc: "Leather belt with attached coin pouch. Holds whetstone and flint."
+  },
+  { 
+    icon: "🪨", 
+    name: "Whetstone", 
+    count: 1, 
+    category: "gear",
+    desc: "Nearly as old as the sword. Flat on one side, concave on the other from years of use."
+  },
+  { 
+    icon: "🔥", 
+    name: "Flint & Steel", 
+    count: 1, 
+    category: "gear",
+    desc: "Standard fire kit. Works when dry, which is rarely."
+  },
+  { 
+    icon: "🪢", 
+    name: "Hemp Rope", 
+    count: 1, 
+    category: "gear",
+    desc: "Thirty feet. Coiled and tied to pack."
+  },
+  { 
+    icon: "🏮", 
+    name: "Small Lantern", 
+    count: 1, 
+    category: "gear",
+    desc: "Three hours of oil remaining. Used sparingly."
+  },
+  { 
+    icon: "💧", 
+    name: "Waterskin", 
+    count: 1, 
+    category: "gear",
+    desc: "Leather. Leaks slightly at the seam. Needs replacing."
+  },
+  { 
+    icon: "🧴", 
+    name: "Wound Salve", 
+    count: 1, 
+    category: "consumable",
+    desc: "Tin of salve from the Undercity market. Pine resin and tannin extract."
+  },
+  { 
+    icon: "🩹", 
+    name: "Clean Bandages", 
+    count: 2, 
+    category: "consumable",
+    desc: "Rolled linen strips. One roll currently wrapped around calf and ankle."
+  },
+  { 
+    icon: "🧪", 
+    name: "Healing Potion", 
+    count: 1, 
+    category: "consumable",
+    desc: "Minor healing draught from the Undercity apothecary. Stops bleeding, dulls pain. One used at the mine, one remaining."
+  },
+  /* { 
+    icon: "🪙", 
+    name: "Silver Coins", 
+    count: 5, 
+    category: "currency",
+    desc: "What remains of Grent's advance after supplies and healing."
+  },
+  { 
+    icon: "🟤", 
+    name: "Copper Coins", 
+    count: 3, 
+    category: "currency",
+    desc: "The dregs. Enough for one terrible ale."
+  }, */
+  { 
+    icon: "🗺️", 
+    name: "Grent's Napkin Map", 
+    count: 1, 
+    category: "quest",
+    desc: "Charcoal sketch of the Greymire Mine layout. Greasy, crumpled, still legible."
+  },
+  { 
+    icon: "📜", 
+    name: "Consortium Contract", 
+    count: 1, 
+    category: "quest",
+    desc: "Sealed parchment. Scales over ship's wheel. Cargo recovery — failed. Escort job — pending."
+  }
+]>>
+
+<<set $energy   = 80>>   /* also $maxEnergy   = 100 */
+<<set $strength = 60>>   /* also $maxStrength = 100 */
+<<set $mood     = 45>>   /* also $maxMood     = 100 */
+<<set $health   = 100>>  /* also $maxHealth   = 100 */
+
+<<set $bodyImgFrontClothed = "img/body/body_0/front_clothed.png">>
+<<set $bodyImgBackClothed  = "img/body/body_0/back_clothed.png">>
+<<set $bodyImgFrontNude    = "img/body/body_0/front_nude.png">>
+<<set $bodyImgBackNude     = "img/body/body_0/back_nude.png">>
+
+
+<<set $mira_inventory = [
+  { 
+    icon: "🏹", 
+    name: "Longbow", 
+    count: 1, 
+    category: "weapon",
+    desc: "Yew and horn composite. Six years old. Her most prized possession."
+  },
+  { 
+    icon: "🗡️", 
+    name: "Short Sword", 
+    count: 1, 
+    category: "weapon",
+    desc: "The cheese-smelling one. Wrong balance. Has saved her life twice. She resents it both times."
+  },
+  { 
+    icon: "🔪", 
+    name: "Belt Knife", 
+    count: 1, 
+    category: "weapon",
+    desc: "Plus at least two hidden blades she won't disclose the location of."
+  },
+  { 
+    icon: "🏹", 
+    name: "Arrows", 
+    count: 16, 
+    category: "ammo",
+    desc: "Goose-fletched broadheads. Started with 20, spent 4 in the mine."
+  },
+  { 
+    icon: "🧵", 
+    name: "Field Surgery Kit", 
+    count: 1, 
+    category: "gear",
+    desc: "Clean cloth strips, numbing salve, curved needle, waxed thread. Compact leather pouch."
+  },
+  { 
+    icon: "🌿", 
+    name: "Spare Bowstring", 
+    count: 1, 
+    category: "gear",
+    desc: "Silk-and-sinew. Currently strung on the bow. She wants the good one from the fletcher's stall."
+  }
+]>>
+
+<<set $companions = [{
+  id:        'mira',
+  name:      'Mira',
+  affection: 50,
+  avatar:              'img/characters/mira/avatar.png',
+  bodyImgFrontClothed: 'img/characters/mira/front_clothed.png',
+  bodyImgBackClothed:  'img/characters/mira/back_clothed.png',
+  bodyImgFrontNude:    'img/characters/mira/front_nude.png',
+  bodyImgBackNude:     'img/characters/mira/back_nude.png',
+  inventory: $mira_inventory,
+  stats: []
+}]>>
+
+<<set $mainObjectives = []>>
+<<set $sideQuests = []>>
+
+<<set $day_1_3 = true>>
+<<set $day_2_4 = true>>
+<<set $day_2_5 = true>>
+<<set $broken_antler_room = true>>
+<<set $day_2_7 = true>>
+<<set $lenna_chat_1 = true>>
+<<set $broken_antler_room_1 = true>>
+<<set $broken_antler_room = true>>
+<<set $day_2_17 = true>>
+<<set $day_2_18 = true>>
+<<set $day_2_20 = true>>
+<<set $board_sergeant_start = true>>
+<<set $barmaid_2 = true>>
+<<set $day_3_3 = true>>
+<<set $day_3_voss_warehouse = true>>
+<<set $day_3_6_a = true>>
+<<set $day_3_8 = true>>
+<<addsidequest "deserter" "Deserter" "Find him at East Gate">>
+
+
+
+
+:: start
+
+<<dialog "Aldra">>
+  I'm not drinking the antidote. Not today. Not tomorrow.
+<</dialog>>
+
+<<dialog "Mira">>
+  It's yours. The choice and the vial. Both.
+<</dialog>>
+
+<<dialog "Edric" "portrait">>
+  For what it's worth — I'm glad.
+<</dialog>>
+
+<<dialog "Aldric" "portrait">>
+  For what it's worth — I'm glad.
+<</dialog>>
+
+<<dialog "Aldra" "portrait">>
+  Something about this town feels different.
+<</dialog>>
+
+<<dialog "Mira" "portrait">>
+  Different how? Dangerous different or interesting different? Different how? Dangerous different or interesting different? Different how? Dangerous different or interesting different?
+<</dialog>>
+
+[[Dangerous|dangerous]]
+
+:: dangerous
+
+<<set $day += 1>>
+<<set $timeOfDay = "Evening">>
+<<set $mcRegion = "greymire">>
+<<set $mcLocation = "mine_entrance">>
+

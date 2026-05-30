@@ -1,0 +1,166 @@
+# The Wrong Potion — Game Design Document
+
+## Core Concept
+
+**Title:** *The Wrong Potion* (working title)
+**Engine:** Twine (SugarCube format for variable tracking and UI customization)
+**Tone:** Romantic, sensual, adventurous — with transformation scenes that linger on every detail
+**Playtime:** 4–6 hours per playthrough, high replayability via branching paths and romance routes
+
+---
+
+## Premise
+
+**Aldric** — a down-on-his-luck sellsword in the city of **Valdmere** — blows his last coin on a black-market "strength enhancement" potion from a hooded alchemist called **Vex** in the Undercity market. He needs the edge for a mercenary contract that could change his life.
+
+The potion tastes like burnt copper and lightning.
+
+By morning, something is very wrong.
+
+Vex has vanished. The stall is gone. Nobody in the Undercity remembers him. And Aldric's body has begun to change in ways no strength potion should cause.
+
+He has **30 days** before the transformation becomes permanent. Somewhere in Valdmere or beyond, Vex has the antidote — if one even exists. But every day the changes deepen, and every day Aldric discovers that the person emerging in the mirror might not be someone who *wants* to go back.
+
+---
+
+## The Protagonist
+
+**Aldric Vane**, 26. Tall, broad-shouldered, rough-edged. Former farmboy turned mercenary after his family's land was seized by a local lord. Not dumb but not scholarly — street-smart, stubborn, dry sense of humor. Has a habit of talking to himself when stressed (doubles as internal monologue device for the player).
+
+The player names the character (Aldric is default) and chooses a few background details that affect dialogue and relationships:
+
+- **Why he came to Valdmere** — revenge, fortune, or running from something
+- **His attitude toward women** — respectful, awkward, or charming (affects how he processes the transformation)
+- **One person he left behind** — a lover, a sibling, or nobody (affects emotional stakes)
+
+---
+
+## The 30-Day Structure
+
+Each in-game day has three segments:
+
+### Morning — The Mirror
+The player wakes up, examines themselves, and reacts to overnight changes. This is where the detailed transformation writing lives. The scene describes exactly what's different — texture of skin, shape of the body, the way fabric sits, how the bed feels, the sound of their own breathing. The player chooses an emotional response that tracks on two axes:
+
+- **Identity Axis:** Resistance ←→ Acceptance
+- **Desire Axis:** Fear ←→ Curiosity
+
+These aren't moral judgments — both directions lead to compelling stories. They shape internal monologue, romantic dynamics, and the ending.
+
+### Afternoon — The World
+The action segment. The player pursues leads on Vex, takes on mercenary work to fund the search, navigates social situations with a changing body, or spends time with companions. This is where branching choices, adventure, and relationship building happen.
+
+### Evening — The Intimate
+Quieter, more personal. Conversations by firelight. Bathing scenes where the character confronts their body alone or with someone they trust. Dreams that blur memory and desire. Romance scenes escalate here. This segment is optional some days — the player can choose to sleep early, which skips it but misses relationship content.
+
+---
+
+## Transformation Timeline
+
+### Phase 1 — The Whisper (Days 1–7)
+
+Changes are subtle, deniable, private.
+
+**Day 1** — Skin softens. Body hair growth slows. A strange warmth pooling low in the belly that won't fade. Dreams are vivid and confusing — he's himself but also *not*.
+
+**Day 2** — Hands slim slightly. Fingernails grow faster, with a clean sheen. The calluses on his sword hand are thinning. His grip feels different — not weaker, but *different*. Smell sharpens. He catches scents he never noticed before — the lavender in the innkeeper's soap, the musk of the stable hand passing in the hall.
+
+**Day 3** — Waist pulls inward a fraction. Belt tightened one notch. Lips feel fuller, tender, like he's been biting them. His voice doesn't crack, but there's a new softness at the edges of certain words. He catches himself mid-sentence and clears his throat.
+
+**Day 4** — Hips ache with a deep bone-level throb. Something is *widening*. He can feel it when he walks — a slight difference in his gait that he has to consciously correct. His ass fills his trousers differently. He avoids sitting where anyone can see him shift uncomfortably.
+
+**Day 5** — Chest becomes tender. Not visible yet, but the skin around the nipples is puffy, sensitive. His roughspun shirt chafes in a way it never did. He flinches when his arm brushes his own chest while reaching for a mug. A companion raises an eyebrow.
+
+**Day 6** — Facial bone structure begins migrating. The jaw softens. Cheekbones lift. He looks in a polished shield and sees someone younger, softer staring back. His stubble grows thinner, patchy in places it never was. He cuts himself shaving and the skin heals faintly faster than it should.
+
+**Day 7** — First major crisis moment. He wakes up and his smallclothes don't fit right. His hips have widened enough overnight that the waistband digs in on the sides. His chest has the faintest swell — visible only when shirtless, but *there*. He can't deny it anymore. Mirror scene is a full emotional set piece. The player's chosen reaction here sets the tone for Phase 2.
+
+**Phase 1 Gameplay:** The player can still pass as male without any effort. NPCs don't notice. The tension is entirely internal. Leads on Vex are fresh — the Undercity has clues. One or two companions can be met during this phase and early trust is built.
+
+---
+
+### Phase 2 — The Shift (Days 8–16)
+
+Changes become visible to observant eyes. The double life begins.
+
+**Day 8** — Breasts are undeniably developing. Small, tender swells that press against his shirt. He starts layering — a vest over the tunic, arms crossed more often. His skin has a new smoothness that catches lamplight differently. A barmaid tells him he has "pretty skin for a sellsword."
+
+**Day 10** — Hips and thighs have filled out enough that his trousers strain at the seams. He needs new clothes but dreads the fitting. His waist is narrow enough now that his sword belt slides unless cinched tight. Body shape is becoming visibly feminine in silhouette, though bulky clothing still hides it.
+
+**Day 12** — Voice has settled into an androgynous range. He can push it lower with effort, but his natural speaking voice now reads as a soft tenor or a husky contralto. A merchant calls him "miss" from behind, then apologizes when he turns around — but the apology is uncertain. First moment of public ambiguity.
+
+**Day 14** — Midpoint. The character's face is undeniably feminine to anyone paying attention. Soft jaw, full lips, large eyes with longer lashes. Hair is growing faster and thicker — if he started with short hair, it's now past the ears and unruly. Breasts fill a cupped hand. Hips sway naturally when he stops consciously controlling his walk. Genitalia have begun reducing — not gone, but noticeably smaller, and sensitivity has *shifted* in confusing, sometimes overwhelming ways. The first explicitly sexual scene can trigger here — alone, exploring the new sensations with trembling hands and a locked door.
+
+**Day 16** — Passing as male now requires active effort: binding the chest, pitching the voice down, wearing oversized armor. It's exhausting. Without the disguise, she (the pronoun shift can happen here based on player choice) reads as a young woman to strangers. Old acquaintances squint and say, *"Have we met? You remind me of someone."*
+
+**Phase 2 Gameplay:** The concealment mechanic kicks in. Choosing to present male costs energy and limits social options. Presenting female opens new paths but risks exposure to people who knew Aldric. Vex's trail leads outside the city — a traveling segment begins. Companion relationships deepen, and at least one romance route can begin physically.
+
+---
+
+### Phase 3 — The Bloom (Days 17–25)
+
+Concealment is nearly impossible. The character's new body is settling into itself.
+
+**Day 18** — Breasts have grown to a full, soft handful. Sensitive enough that rough fabric is unbearable — she needs a proper breast band or stays. Her figure is distinctly hourglass now. The old armor doesn't fit at all. She either acquires women's armor or modifies what she has. The first time she puts on clothing that actually *fits* her new shape is a pivotal scene — relief, grief, arousal, identity vertigo, all tangled together.
+
+**Day 21** — Three weeks in. Her face is fully feminine — delicate, striking. If the player chose a romantic path, a partner sees her fully for the first time and reacts (scene varies by love interest). Her voice is naturally a warm alto. Speaking in her old baritone is like doing an impression — possible but feels fake. Her genitalia have significantly reduced. New erogenous zones have developed — inner thighs, the curve of the neck, the lower belly. Sexual sensation is dramatically different and a scene explores this with whatever partner (or solo).
+
+**Day 24** — Body is nearly at its final form. She's shorter by two inches — didn't notice it happening gradually until she reached for a shelf she used to grab easily. Her hands are elegant, her feet smaller. She moves differently without thinking about it — fluid, hip-led, a natural grace replacing the old heavy-footed stride. Muscle mass has redistributed into a lean, toned femininity rather than disappearing entirely. She's still strong — just differently so.
+
+**Phase 3 Gameplay:** The hunt for Vex reaches a critical juncture. Major revelations about *why* the potion exists and what Vex actually intended. Romance routes hit their emotional and physical peaks. The player must make decisions about identity that will shape the ending.
+
+---
+
+### Phase 4 — The Threshold (Days 26–30)
+
+The final stretch. The antidote window is closing.
+
+**Day 27** — Transformation is essentially complete. She looks in the mirror and sees a woman who bears a ghost-echo resemblance to the man she was — same eye color, same crooked smile, but everything else is new. The remaining changes are refinements: skin reaching its final softness, curves settling into their permanent shape, the last vestiges of her old anatomy fading.
+
+**Day 29** — The antidote is either in hand or confirmed unreachable. If in hand, she holds it and feels its weight. Tomorrow is the last day. Tonight is the decision.
+
+**Day 30** — The final morning mirror. Whatever she chooses, this is who she wakes up as for the rest of her life.
+
+---
+
+## Romance Routes
+
+### Sera — The Herbalist
+A sharp-tongued woman who runs an apothecary in the Undercity. She's the first person the character goes to for answers about the potion. Sera is pragmatic, bisexual, and deeply curious about the transformation from a scientific perspective — which initially feels clinical and invasive, but evolves into genuine fascination with and attraction to the person emerging. Her romance is slow-burn intellectual chemistry that ignites into fierce physical passion around Day 16–18. She's the route where the character's transformation is *studied* in intimate detail — Sera wants to see, touch, catalog every change, and the eroticism of being so thoroughly *seen* is the core of their dynamic.
+
+### Lorn — The Old Comrade
+A male mercenary who served alongside Aldric in a previous company. Loyal, quiet, built like a wall. He shows up in Valdmere on Day 5 looking for work and recognizes Aldric immediately — and keeps recognizing her no matter how much she changes. His feelings were always there, buried under soldierly brotherhood. The transformation doesn't create his desire — it gives him permission to stop hiding it. His romance is tender, protective, and slow to become physical because he's terrified of doing something wrong. When it does, it's intense and emotional — he touches her like she's made of something precious and she has to pull him in harder. Best route for the "he loved *you*, not your body" emotional beat.
+
+### Vex — The Alchemist
+Yes, romanceable. When found, Vex turns out to be a transgender woman herself — the potion is her own creation, refined through self-experimentation. She didn't sell it to Aldric by accident. She saw something in him she recognized. This doesn't excuse what she did, and the route is charged with anger, betrayal, and a furious attraction that neither of them can rationalize. Their romance is volatile, dominant-switching, and deeply cathartic. She's the only one who truly understands what the character is going through because she *chose* to go through it herself. The sex is rough and raw and wrecked with emotion.
+
+### Kael — The Nobleman's Child
+Non-binary, uses they/them. Sheltered but rebellious, fascinated by the world beyond their father's estate. They meet the character mid-transformation and never knew Aldric-the-man — they only know the woman emerging. Their romance is the "blank slate" route — no baggage of the old identity, just pure attraction to who she is *now*. Young, eager, surprisingly bold in private. The eroticism is exploratory and joyful — two people figuring each other's bodies out with enthusiasm and laughter. The lightest route tonally.
+
+---
+
+## Key Narrative Themes
+
+**Bodily autonomy** — The transformation was forced, but the response to it is the character's own. Every choice about presentation, identity, and desire belongs to the player.
+
+**Intimacy as discovery** — Sex scenes aren't just spicy content; they're the character learning a new body through another person's hands. Each encounter reveals something — a new sensitivity, a reaction she didn't expect, a pleasure that scares her or sets her free.
+
+**The cure as question, not answer** — Finding the antidote isn't the climax. *Deciding whether to drink it* is. The game is structured so the player has lived in this body, loved in this body, fought in this body for 30 days. The antidote bottle is a mirror of the original potion — another vial that will change everything. Does she drink it?
+
+---
+
+## Endings
+
+**The Return** — She takes the antidote. Aldric returns. But he's not the same man — he carries 30 days of experience, sensation, and memory that will never leave him. Bittersweet. Some romances survive this, some don't.
+
+**The Bloom** — She pours the antidote out. Day 31 is the first day of her real life. She chooses a new name or keeps Aldric. The world is terrifying and wide open. The most emotionally triumphant ending.
+
+**The Between** — She takes a partial dose (Sera's route unlocks this option). The transformation halts and partially reverses, leaving her in an androgynous state she can shape with continued alchemy. She becomes something entirely her own.
+
+**The Pact** — Vex's route exclusive. She doesn't take the antidote — she *refines* it. Together with Vex, she begins offering the potion to others who want it, but openly, honestly, with full knowledge. The curse becomes a gift. They build something together.
+
+**The Fade** — She never finds Vex. Day 30 arrives and the transformation locks in with no choice, no agency. She has to build a life from nothing. The most melancholic ending, but it can still resolve into quiet hope depending on companion choices.
+
+---
+
+Want me to start writing actual Twine passages — the Day 1 opening, the first mirror scene, or one of the romance routes?

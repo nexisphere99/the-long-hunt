@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Background -->
+  <rect width="32" height="32" rx="4" fill="#1a0a00"/>
+
+  <!-- Potion bottle body -->
+  <ellipse cx="16" cy="22" rx="8" ry="7" fill="#2d0a4e"/>
+  <ellipse cx="16" cy="22" rx="8" ry="7" fill="url(#potionGlow)" opacity="0.8"/>
+
+  <!-- Potion liquid glow inside bottle -->
+  <ellipse cx="16" cy="23" rx="6" ry="5" fill="#7b00cc" opacity="0.9"/>
+  <ellipse cx="16" cy="24" rx="5" ry="3.5" fill="#a020f0"/>
+
+  <!-- Bubble highlights inside potion -->
+  <circle cx="13" cy="22" r="1" fill="#cc66ff" opacity="0.7"/>
+  <circle cx="18" cy="25" r="0.7" fill="#dd88ff" opacity="0.6"/>
+
+  <!-- Bottle neck -->
+  <rect x="13" y="12" width="6" height="5" rx="1" fill="#3a1a5c"/>
+  <rect x="13.5" y="12.5" width="5" height="4" rx="0.5" fill="#4a2272" opacity="0.8"/>
+
+  <!-- Bottle cork -->
+  <rect x="12.5" y="9" width="7" height="4" rx="1.5" fill="#8b5a2b"/>
+  <rect x="13" y="9.5" width="6" height="2.5" rx="1" fill="#a06830" opacity="0.7"/>
+
+  <!-- Cork rope/wax seal line -->
+  <line x1="16" y1="5" x2="16" y2="9" stroke="#cc8844" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Wax seal top -->
+  <circle cx="16" cy="5" r="2.5" fill="#cc2200"/>
+  <circle cx="16" cy="5" r="1.5" fill="#ee3300" opacity="0.8"/>
+  <!-- Skull on wax seal (skull = wrong potion warning) -->
+  <circle cx="16" cy="4.5" r="0.8" fill="#1a0a00"/>
+  <rect x="15.3" y="5.2" width="1.4" height="0.8" rx="0.2" fill="#1a0a00"/>
+
+  <!-- Bottle shine highlight -->
+  <ellipse cx="12" cy="19" rx="1.5" ry="3" fill="white" opacity="0.15" transform="rotate(-20 12 19)"/>
+
+  <!-- Stars/magic sparkles around bottle -->
+  <path d="M6 14 L6.5 15.5 L8 16 L6.5 16.5 L6 18 L5.5 16.5 L4 16 L5.5 15.5 Z" fill="#ffd700" opacity="0.8"/>
+  <path d="M25 18 L25.3 19 L26.3 19.3 L25.3 19.6 L25 20.6 L24.7 19.6 L23.7 19.3 L24.7 19 Z" fill="#ffd700" opacity="0.6"/>
+
+  <defs>
+    <radialGradient id="potionGlow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#cc44ff" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#2d0a4e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

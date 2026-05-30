@@ -1,0 +1,1654 @@
+
+
+:: day_2_1
+<img src="img/locations/valdmere/broken_antler_room.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+Sleep didn't come. Not properly. I drifted in and out of a shallow, restless half-consciousness, the kind where your body lies still but your brain runs laps around a dark track, reviewing every contingency, every exit strategy, every way tonight could go sideways and spill you into the dirt.
+<<removeobjective "day_1">>
+<img src="img/scene/day_2/1.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+<<addobjective "day_2" "Wake up and prepare for the mine job">>
+The room was dark. Rain had stopped an hour ago   I'd heard it taper off, the hammering on the shutters fading to a patter and then to silence, the silence somehow louder than the storm. Through the window, the sky was the deep indigo of pre-dawn, starless, the clouds still thick but emptied.
+
+[[Wake Up|day_2_2]]
+
+:: day_2_2
+<img src="img/locations/valdmere/broken_antler_room.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Mira was awake beside me. I knew because her breathing had changed   the slow, measured rhythm of sleep replaced by the slightly faster, slightly shallower pattern of someone lying still with their eyes open, thinking hard. She hadn't moved. Neither had I. Two professional liars, pretending to sleep for each other's benefit.
+
+<<dialog "Aldric">>
+You're awake.
+<</dialog>>
+
+<<dialog "Mira">>
+I'm resting my eyes.
+<</dialog>>
+
+<<dialog "Aldric">>
+Your eyes are open. I can see them glowing.
+<</dialog>>
+
+<<dialog "Mira">>
+Half-elf eyes don't glow. They reflect ambient light. There's a difference.
+<</dialog>>
+
+<<dialog "Aldric">>
+They're glowing, Mira.
+<</dialog>>
+
+<<dialog "Mira">>
+Fine. I'm awake. I've been awake for twenty minutes, running scenarios in my head. The junction at fifty paces is the choke point. If they come from both sides, we're done. We need to hit the storage shaft, grab what we can, and be out before the warband mobilizes.
+<</dialog>>
+
+<<dialog "Aldric">>
+Good morning to you too.
+<</dialog>>
+
+She sat up. In the blue-dark of the room, she was all angles and shadow   the sharp line of her jaw, the pale amber of her eyes catching the faint pre-dawn glow from the window, the cropped copper hair sticking up on one side in the way I'd grown unreasonably fond of. She reached under the pillow and pulled out an arrowhead   she slept with one there, always, the way another woman might keep a prayer book or a lucky charm.
+
+<<dialog "Mira">>
+Get up. We need to check gear and eat before we go.
+<</dialog>>
+
+I swung my legs out of bed. My body was the same body it had always been   heavy, reliable, the thick-muscled frame of a man who'd been swinging steel since his teens. Broad shoulders that bumped the doorframe if I wasn't careful. Chest dark with hair. Big calloused hands that wrapped around a sword hilt with the comfortable familiarity of a handshake. I rolled my neck, felt the vertebrae pop, and scratched the three-day stubble along my jaw.
+
+We ate in the room   cold breakfast from Mira's travel kit. Dried meat, hard bread that was only marginally worse than what the Broken Antler served on purpose, a few strips of salted pork that had seen better weeks. Mira ate with the mechanical efficiency of a soldier fueling up before a march, chewing without tasting, her eyes already somewhere else. I managed half the bread and a few bites of meat before my stomach decided that nerves were more filling than food.
+
+<<dialog "Mira">>
+Eat more.
+<</dialog>>
+
+<<dialog "Aldric">>
+I'm not hungry.
+<</dialog>>
+
+<<dialog "Mira">>
+You're going to be swinging a longsword in a tunnel full of goblins in approximately four hours. Your muscles need fuel. Eat the bread or I'll feed it to you, and I won't be gentle about it.
+<</dialog>>
+
+<<dialog "Aldric">>
+Is that a threat or a promise?
+<</dialog>>
+
+<<dialog "Mira">>
+It's a nutritional recommendation delivered with appropriate urgency. Eat.
+<</dialog>>
+<<updateobjective "day_2" "Eat breakfast and check your gear">>
+[[Finish eating bread|day_2_3]]
+
+:: day_2_3
+
+We laid out our gear on Mira's bed   the one that served as our equipment rack, since neither of us used it for sleeping anymore. The inventory was the grim arithmetic of survival.
+
+<img src="img/scene/day_2/2.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Mine: longsword, recently sharpened. Belt knife   short, heavy, good for close work if things got desperate. Leather armor   nothing fancy, hardened cowhide with metal studs at the shoulders and chest, the kind that would stop a glancing blow and not much else. A coil of rope, thirty feet, hemp. A small lantern with three hours of oil, though we'd try to avoid using it   light in a goblin tunnel was an invitation, not an advantage. Flint and steel. Waterskin and five silver from the advance, tucked into my belt pouch. The other five were hidden under the mattress, insurance against the possibility that we didn't come back and someone needed to pay for the room.
+
+<<dialog "Aldric">>
+Morbid, hiding money under the mattress.
+<</dialog>>
+
+<<dialog "Mira">>
+Practical. If we die, the innkeeper finds it, covers our tab, and doesn't sell our gear to recoup. If we live, it's beer money. Either way, the math works.
+<</dialog>>
+
+Hers: the longbow, restrung with her spare string, the limbs oiled and supple. Two quivers   twenty-four arrows total, though she'd culled four during yesterday's inspection for imperfect fletching, leaving twenty. The short sword   the cheese-smelling one, freshly sharpened, which she picked up with the expression of a woman lifting a dead rat by the tail. Belt knife. A small leather pouch that she kept in her vest pocket, close to her body: medicinal supplies. Clean cloth strips. A tin of numbing salve. A curved needle and waxed thread for field sutures.
+
+<<dialog "Aldric">>
+The needle and thread. That's optimistic.
+<</dialog>>
+
+<<dialog "Mira">>
+The needle and thread is realistic. One of us is going to get cut. I'd rather stitch it in the field than bleed out discussing the philosophical implications. You ready?
+<</dialog>>
+
+<<dialog "Aldric">>
+Almost. Run me through the plan one more time.
+<</dialog>>
+
+<<dialog "Mira">>
+In. Find crates. Carry what we can. Out. In that order. Without dying. Ideally.
+<</dialog>>
+
+<<dialog "Aldric">>
+Short plan.
+<</dialog>>
+
+<<dialog "Mira">>
+Best plans are short. Long plans break the moment they meet reality. Short plans bend. We go in quiet, we locate the storage shaft, we grab sealed crates, we leave before anything with teeth notices we were there.
+<</dialog>>
+
+<<dialog "Aldric">>
+If something with teeth does notice?
+<</dialog>>
+
+<<dialog "Mira">>
+Then we introduce those teeth to our weapons and proceed with the plan. No heroics, Aldric.
+<</dialog>>
+
+She said that last part with the flat, deliberate emphasis of someone who'd learned through painful experience that the man she worked with had a definition of "no heroics" that was creative at best and suicidal at worst.
+
+<<dialog "Aldric">>
+No heroics. Agreed.
+<</dialog>>
+
+<<dialog "Mira">>
+You're saying the words but your face is doing the thing.
+<</dialog>>
+
+<<dialog "Aldric">>
+What thing?
+<</dialog>>
+
+<<dialog "Mira">>
+The thing where your jaw gets that particular set and your eyes go slightly distant and you're already imagining some dramatic last stand in a tunnel with your sword held high and a battle cry on your lips. I've seen it before. In Thornwall. Right before the rat incident.
+<</dialog>>
+
+<<dialog "Aldric">>
+We agreed never to mention the rat incident.
+<</dialog>>
+
+<<dialog "Mira">>
+We agreed YOU would never mention it. I bring it up whenever it serves as a cautionary tale. Which is frequently. No heroics. Say it again and mean it this time.
+<</dialog>>
+
+<<dialog "Aldric">>
+No heroics. I mean it.
+<</dialog>>
+
+<<dialog "Mira">>
+Good. Now put your armor on. We're going shopping.
+<</dialog>>
+<<set $day_2_4 = false>>
+<<updateobjective "day_2" "Go to the Undercity market and buy supplies for the mine job">>
+<<link "Go to the Undercity Market market">>
+    <<regionmap "valdmere">>
+<</link>>
+
+:: day_2_4
+<<set $day_2_4 = true>>
+<<set $mcLocation = "undercity">>
+The Undercity market operated on a different schedule than the rest of Valdmere. While the merchant quarter opened at dawn with the respectability of a banking institution, the Undercity's stalls and dealers didn't stir until mid-morning, when the clientele   nocturnal by profession or habit   had finished sleeping off whatever they'd done the night before. By the time Mira and I descended the narrow, damp-stone steps into the market district, the underground bazaar was hitting its stride.
+
+It was a strange place. Built into the vaulted cellars of a structure that had once been something official   a courthouse, maybe, or a guild hall   the market was a series of interconnected chambers with arched ceilings and stone pillars, lit by a combination of oil lamps, alchemical glow-jars, and the occasional shaft of sunlight that found its way down through grates in the street above. Stalls crowded every available space, their wares spilling into the walkways: dried herbs hanging in bundles from overhead beams, bins of minerals and reagents, racks of secondhand weapons, bolts of cloth in colors that suggested the dyer had access to compounds not available through conventional channels.
+
+The clientele was equally varied. Mercenaries checking blades at a weapons dealer. A woman with elaborate tattoos on her forearms haggling for something in a dark glass bottle. Two men in hooded cloaks having a very quiet conversation over a table covered in small leather pouches. A group of children   street kids, by the look of them   running between stalls with the practiced ease of pickpockets in training, though one of them appeared to be genuinely shopping for turnips, which was either endearing or the best cover story I'd ever seen.
+
+<<dialog "Mira">>
+This way. The apothecary row is in the back chambers.
+<</dialog>>
+
+<img src="img/scene/day_2/3.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+<<dialog "Aldric">>
+You know your way around down here.
+<</dialog>>
+
+<<dialog "Mira">>
+I've been operating out of Valdmere for six years, on and off. You learn the geography. Especially the parts of the geography that sell things you need at prices the guild vendors won't match.
+<</dialog>>
+
+<<dialog "Aldric">>
+Is that a polite way of saying this is the black market?
+<</dialog>>
+
+<<dialog "Mira">>
+It's an efficient way of saying that licensed apothecaries charge three silver for a healing draught that costs them six coppers to make, and down here, the markup is only half that outrageous. Come on.
+<</dialog>>
+
+The apothecary stall was tucked into a corner of the back chamber, wedged between a candlemaker and a stall selling animal bones arranged in patterns that suggested either divination or interior decoration. The proprietor was a hunched old man with a face like a walnut   brown, deeply creased, and presenting the general impression of something that had been left in the sun too long. He sat on a stool behind a narrow counter covered in glass bottles, each one labeled in a cramped, spidery hand.
+<<set $day_2_5 = false>>
+<<updateobjective "day_2" "Buy healing draughts and bandages for the mine job">>
+[[Enter the apothecary stall|Undercity]]
+
+:: day_2_5
+<<set $day_2_5 = true>>
+<<dialog "Mira">>
+Healing draughts. Two. Standard grade   pain reduction, anti-bleeding, anti-inflammatory.
+<</dialog>>
+
+The old man looked at her. Then at me. Then back at her. His eyes were sharp behind the wrinkles   the eyes of a man who'd been selling to sellswords for decades and could calculate the desperation coefficient of any customer within three seconds of eye contact.
+
+<<dialog "Apothecary">>
+Three silver each. Six total.
+<</dialog>>
+
+<img src="img/scene/day_2/4.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+<<dialog "Mira">>
+Five for the pair and you throw in an extra dram of numbing concentrate.
+<</dialog>>
+
+<<dialog "Apothecary">>
+Five and a half. No extras.
+<</dialog>>
+
+<<dialog "Mira">>
+Five. Or I walk to Kellam's stall on the second row and buy his, which are the same formula in uglier bottles for half a silver less.
+<</dialog>>
+
+<<dialog "Apothecary">>
+Kellam's draughts are brewed with creek water and wishful thinking. They'll stop your bleeding the way a prayer stops a sword   technically possible, practically useless.
+<</dialog>>
+
+<<dialog "Mira">>
+Then you should be confident enough in your product to match his price and keep the customer who knows the difference. Five silver. Two draughts. Final offer.
+<</dialog>>
+
+The old man's face compressed into an expression that had been seen on the faces of merchants dealing with half-elves since the dawn of commerce. The look of a man who knew he was going to lose and was trying to calculate how to make the loss feel like a victory.
+
+<<dialog "Apothecary">>
+Five silver. Two draughts and you tell people where you got them.
+<</dialog>>
+
+<<dialog "Mira">>
+Done.
+<</dialog>>
+
+She counted out five silver coins and swept the two vials off the counter in a single motion, tucking them into the padded belt pouches she'd designated for exactly this purpose. The draughts were small   each one a finger-length glass tube sealed with wax, containing a liquid the color of diluted blood. Standard healing fare. They wouldn't regrow a limb or mend a broken bone, but they'd slow bleeding, reduce swelling, and dull pain for a few hours. Enough to keep a wounded sellsword moving until proper treatment was available. Good enough for goblin work.
+
+We also bought a small tin of wound salve   one silver   and an extra roll of clean bandages for a few coppers. The salve smelled like pine resin and something bitter that Mira identified as tannin extract.
+
+<<dialog "Aldric">>
+You're good at that. The haggling.
+<</dialog>>
+
+<<dialog "Mira">>
+Half-elf. We're raised bilingual   Common and Negotiation.
+<</dialog>>
+
+<<dialog "Aldric">>
+I thought half-elves were raised bilingual in Common and Elven.
+<</dialog>>
+
+<<dialog "Mira">>
+That too. But Negotiation is the one that pays rent.
+<</dialog>>
+<<updateobjective "day_2" "Buy healing draughts and bandages for the mine job">>
+[[Leave the apothecary row|day_2_5_1]]
+
+:: day_2_5_1
+
+We were leaving the apothecary row when Mira stopped. Her body did that thing   the sudden stillness, the locked attention, the shift from walking to targeting that happened between one step and the next. I followed her gaze.
+
+An enchanter's stall. Small, tasteful, the wares displayed on black velvet like jewelry and on the velvet, glinting under the lamplight: arrowheads. Three of them, laid in a row, their edges catching the light with a faint orange shimmer that wasn't just reflection. Fire enchantments. Minor ones   they wouldn't turn an arrow into a fireball, but they'd heat the tip on impact, cauterizing the wound they made, making every hit significantly nastier. Goblin-killers, in the right hands.
+
+The enchanter   a young woman with braided hair and steady eyes   noticed Mira's attention.
+
+<<dialog "Enchanter">>
+Fire-touched broadheads. Minor enchantment, guaranteed for twenty impacts or six months, whichever comes first. Five silver for three.
+<</dialog>>
+
+Mira looked at the arrowheads. I watched her look at them. Her fingers twitched at her sides   the unconscious reaching motion of an archer who's spotted the tool she needs and can't have. Her jaw tightened. Her amber eyes went flat in the way that meant she was suppressing something   desire, frustration, the particular pain of being good at what you do and unable to afford the equipment to do it better.
+
+<img src="img/scene/day_2/5.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Five silver. We'd just spent five on healing draughts and another silver and change on salve and bandages. We had eight silver left between us. We needed those for the room, for food, for the hundred small expenses that kept two people alive in a city that charged for breathing.
+
+<<dialog "Mira">>
+Beautiful work. Maybe next time.
+<</dialog>>
+
+She walked away. Didn't look back. Her spine was straight, her stride even, her face composed. Nothing in her bearing betrayed the want I'd seen in her eyes for those three burning seconds.
+
+I filed it away. The arrowheads, the five silver price, the stall's location in the back row of the Undercity market. If we came back from the mine with the cargo bonus, I'd buy them for her. I wouldn't say I was doing it. I wouldn't make a thing of it. I'd just leave them on her bowstring one morning and let her figure it out.
+
+She'd know. She always knew. She'd punch me for being sentimental and then she'd use them and never miss a shot and that would be worth more than the money.
+<<set $broken_antler_room = false>>
+<<set $step = 2.5>>
+<<updateobjective "day_2" "Go to Back to Broken Antler">>
+<<link "Go to Back to Broken Antler">>
+    <<regionmap "valdmere">>
+<</link>>
+
+
+:: day_2_6
+<<set $mcLocation = "broken_antler">>
+<<set $broken_antler_room = true>>
+The waiting was the worst part. We'd done the preparation. Gear checked, supplies bought, plan reviewed. Now there was nothing to do but sit in our room at the Broken Antler and wait for sunset, and waiting for sunset when you have a goblin mine to clear is the particular kind of torture that no enemy could improve upon, because the enemy is your own brain.
+
+I tried to nap. Laid on the bed, closed my eyes, and instructed my mind to shut down for two hours. My mind responded by playing a detailed visualization of every possible way the mine job could go wrong, presented in vivid color with accompanying sound effects. Floor collapses. Ambushes from side tunnels. Getting lost in the dark. Running out of oil for the lantern. Goblin poison. Goblin traps. A goblin warband twice the size Grent estimated, waiting in the main chamber with weapons drawn and crude goblin smiles.
+
+I opened my eyes after twenty minutes and stared at the water stain on the ceiling. Still shaped like a horse. The horse stared back with the implacable judgment of a plaster equine that had seen a lot of sellswords lie in this bed and worry about dying and then go out and either die or not die and either way the horse didn't care.
+
+<<dialog "Aldric">>
+I can't sleep.
+<</dialog>>
+
+<<dialog "Mira">>
+I know. You've been grinding your teeth for fifteen minutes. It sounds like a grain mill.
+<</dialog>>
+
+She was sitting by the window, her bow disassembled on her lap, performing the meditative ritual she did before every job. She'd removed the string   coiling it carefully, checking each inch for fraying or wear   and was now oiling the limbs with a soft cloth and a small pot of linseed oil. The motion was rhythmic, almost hypnotic. Long, slow strokes along the yew wood, following the grain, the oil darkening the surface and bringing out the warmth of the color. Her hands moved with the tenderness of a lover and the precision of a surgeon.
+
+<<dialog "Aldric">>
+How do you do that?
+<</dialog>>
+
+<<dialog "Mira">>
+Oil a bow? You apply the oil and then you rub it in. It's not complicated.
+<</dialog>>
+
+<img src="img/scene/day_2/6.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+<<dialog "Aldric">>
+Not the bow. The calm. How are you calm right now? We're about to crawl into a goblin hole in the dark and fight things that want to eat us, and you're sitting there oiling your bow like it's a pleasant afternoon at a spa.
+<</dialog>>
+
+<<dialog "Mira">>
+Because the bow needs oiling and because being calm is more useful than being anxious. My hands are steady. My breathing is even. My heart rate is resting pace. In approximately five hours, all three of those things will be necessary to keep us alive. If I spend those five hours panicking, my hands shake, my breathing gets ragged, and my heart rate is already elevated before the first goblin shows its face. Panic is a resource you spend before you need it and then can't access when you do.
+<</dialog>>
+
+<<dialog "Aldric">>
+That's very logical.
+<</dialog>>
+
+<<dialog "Mira">>
+I'm a very logical person.
+<</dialog>>
+
+<<dialog "Aldric">>
+You once threw a boot at a stable hand because he looked at your horse wrong.
+<</dialog>>
+
+<<dialog "Mira">>
+He was going to feed him oats without checking for mold. That's not illogical, that's equine welfare. Different category entirely.
+<</dialog>>
+
+I watched her work. The bow was beautiful   not decoratively, not with filigree or carving, but with the simple beauty of a tool at the peak of its function. Yew wood, laminated with strips of horn on the belly and sinew on the back, the composite construction that gave half-elf bows their legendary draw weight without the bulk of a full longbow. She'd had it for six years, she'd once told me. Longer than any relationship, longer than any home, longer than any friendship except the one with the bow itself.
+
+She checked each arrow next. Pulled them from the quivers one by one, rolling them between her fingers to check for straightness, squinting along the shaft for warps, testing the fletching   three feathers per arrow, goose, trimmed to identical shapes   for looseness or damage. Four failed the inspection. She set them aside with the resigned efficiency of a general cutting troops who weren't battle-ready.
+
+<<dialog "Aldric">>
+Four bad arrows. That leaves twenty.
+<</dialog>>
+
+<<dialog "Mira">>
+Twenty is enough. I don't plan to miss.
+<</dialog>>
+
+<<dialog "Aldric">>
+Nobody plans to miss.
+<</dialog>>
+
+<<dialog "Mira">>
+Nobody else is me.
+<</dialog>>
+
+She said it without arrogance. Just fact. The same way she might say "the sky is up" or "water is wet." She was the best archer I'd ever seen   and I'd seen a few, including a full elf in Kestwick who could thread a needle at a hundred paces. Mira was better. Not by much, not with the supernatural grace of pure elven blood, but with something more dangerous: practice. Thousands and thousands of hours of practice, the obsessive repetition of a woman who'd spent her entire adult life perfecting one skill until it was less a skill and more an extension of her nervous system.
+
+Twenty arrows. Twenty chances to kill something before it killed us. In Mira's hands, that was almost overkill. Almost.
+
+I got up and went to the window, standing behind her. The market district was visible below   foot traffic thinner than usual in the post-rain dampness, merchants adjusting their awnings, a cart loaded with barrels navigating the narrow street with the careful precision of a ship through a reef. Normal life. The kind of life that happened to people who hadn't chosen to fight things for money.
+
+<<dialog "Aldric">>
+Tell me about the worst job you've done. Before me. Before us.
+<</dialog>>
+
+She paused the oiling. Looked up at me with those amber eyes, evaluating the question the way she evaluated everything   quickly, thoroughly, deciding what level of honesty the moment deserved.
+
+<<dialog "Mira">>
+Why?
+<</dialog>>
+
+<<dialog "Aldric">>
+Because I can't nap, and thinking about someone else's worst day is better than thinking about my own upcoming one.
+<</dialog>>
+
+<<dialog "Mira">>
+Fair enough. Three years ago. Vaelith   my mother's settlement, near the elven border. A merchant hired me to escort a wagon of goods from Vaelith to a trading post in the northern hills. Didn't tell me the goods were stolen from a local lord. Didn't tell me the lord had sent trackers.
+<</dialog>>
+
+<<dialog "Aldric">>
+How many trackers?
+<</dialog>>
+
+<<dialog "Mira">>
+Six. All elven. Full-blooded. Do you know what it's like to be tracked by full elves in a forest?
+<</dialog>>
+
+<<dialog "Aldric">>
+No.
+<</dialog>>
+
+<<dialog "Mira">>
+It's like being hunted by the trees themselves. They don't make sounds. They don't leave tracks. They move through the canopy like wind. I spent three days sleeping in a creek bed because it was the only place they couldn't approach without me hearing them. I ate raw fish and drank silty water and had a bow and twelve arrows and the absolute certainty that I was going to die.
+<</dialog>>
+
+<<dialog "Aldric">>
+But you didn't die.
+<</dialog>>
+
+<<dialog "Mira">>
+I killed two of them on the second night. Ambush at a stream crossing. The other four decided the merchant's goods weren't worth losing more people and pulled back. The merchant was furious   said I should have killed all six. I told him that four full-blooded elven trackers deciding to leave you alone was the best outcome a half-elf could hope for and that he should consider it a professional miracle. Then I took my pay and left.
+<</dialog>>
+
+<<dialog "Aldric">>
+The worst part?
+<</dialog>>
+
+<<dialog "Mira">>
+The worst part was that I recognized one of the two I killed. He'd been a friend of my mother's. I'd sat at his table when I was a child and eaten his wife's cooking. He probably didn't recognize me   I was eight the last time he saw me   but I recognized him. I recognized the way he fell.
+<</dialog>>
+
+She went back to oiling the bow. The motion was the same   steady, rhythmic, careful   but something in her hands had changed. A tightness. A deliberation. The hands of a woman who'd learned that the things you do to survive follow you home and sit at your table and eat your sleep.
+
+<<dialog "Aldric">>
+I'm sorry.
+<</dialog>>
+
+<<dialog "Mira">>
+Don't be. It's the job. We do what the job requires and we live with the residue. Tonight we're going to kill goblins. Tomorrow we'll live with it and the day after, we'll find another job and do it again. That's the life.
+<</dialog>>
+
+<<dialog "Aldric">>
+That's the life.
+<</dialog>>
+
+<<dialog "Mira">>
+Now stop asking me emotional questions and let me finish oiling this bow. We leave in four hours and I'd like to spend at least one of those not talking about my feelings.
+<</dialog>>
+
+I put my hand on her shoulder. Squeezed once. She didn't look up, but she leaned into the pressure   a fraction of an inch, barely perceptible, the Mira equivalent of a full embrace. The archer's version of holding hands.
+
+I let go. Went back to the bed. Laid down. Stared at the horse stain.
+
+Four hours to sunset. Four hours of waiting, of nerves, of the slow ratcheting tension that preceded every dangerous job. Four hours of being alive in a body I took for granted   the broad shoulders, the thick chest, the big hands that could wrap around a sword hilt or a woman's waist with equal confidence. Four hours of being exactly who I'd always been.
+
+The last four hours of that kind of certainty, though I didn't know it yet.
+<<set $day_2_7 = false>>
+<<updateobjective "day_2" "Eat lunch at the Broken Antler">>
+[[Lunch Time|broken_antler]]
+
+:: day_2_7
+<<set $day_2_7 = true>>
+We ate lunch in the common room. A proper hot meal this time   we'd earned it, or at least Mira had decided we had, and when Mira decided something, the universe tended to cooperate rather than argue.
+
+The innkeeper's stew was the kind of food that existed on the border between sustenance and punishment   gray meat in brown liquid with root vegetables that had been boiled past the point of species identification. But it was hot and it was filling and it came with bread that was only one day stale instead of two, which by Broken Antler standards qualified as artisanal.
+
+<img src="img/scene/day_2/7.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+The common room was quiet at noon. A few day-drinkers at the bar, their backs curved into identical question marks of existential resignation. The innkeeper sweeping the floor with the enthusiasm of a man being paid exactly enough to move a broom but not enough to care where the dirt went. The orange cat asleep on the bar, one paw hanging over the edge, its tail twitching in some feline dream. 
+
+Mira ate methodically. Fork, chew, swallow, repeat. Fueling up the way a soldier fuels up   treating the body as equipment to be maintained, calories as ammunition to be loaded. She ate everything on the plate and half of what was on mine, which I'd been pushing around with my spoon in the manner of a man who knew he should eat but whose stomach was conducting a vigorous protest march.
+
+<<dialog "Mira">>
+You're not eating.
+<</dialog>>
+
+<<dialog "Aldric">>
+I'm not hungry.
+<</dialog>>
+
+<<dialog "Mira">>
+You weren't hungry at breakfast either. If you go into that mine on an empty stomach, your energy drops in the first fifteen minutes and you start making mistakes. The kind of mistakes that get people perforated.
+<</dialog>>
+
+<<dialog "Aldric">>
+Perforated. Nice word for it.
+<</dialog>>
+
+<<dialog "Mira">>
+I'm a nice person. Eat the stew.
+<</dialog>>
+
+I ate the stew. It tasted like anxiety served in a bowl.
+
+We sat in our corner booth   the same one, always the same one, high-backed seats, wall at our backs, sightlines to both exits. The common room murmured around us. Someone was talking to the innkeeper about a leak in their room. A dock worker was staring into his ale with the thousand-yard stare of a man contemplating his life choices.
+
+Mira reached across the table and took my hand.
+
+The motion was small, almost casual. Her fingers wrapping around mine, the calloused pads of her bowstring-hand pressing against my calloused sword-hand palm. A brief squeeze. Contact that lasted maybe three seconds before she let go and went back to her stew as if nothing had happened.
+
+My calloused hand. Her calloused hand. They fit together in a way that shouldn't have worked but did   rough against rough, scar against scar, two hands built for violence finding a moment of something gentle between them.
+
+She didn't look at me when she did it. She didn't need to. The touch said everything her mouth wouldn't.
+
+Be careful tonight. Come back. I'm not done with you yet.
+<<updateobjective "day_2" "Wait for sunset and prepare for the mine job">>
+[[Kill the time|day_2_8]]
+
+:: day_2_8
+
+I went down to the bar an hour later for something to settle my stomach. The ale was terrible but familiar, and sometimes familiar was all you needed.
+
+Lenna was there.
+
+Not working   it was daytime, her off-hours. She was sitting at the bar with a cup of tea and a piece of bread with honey, dressed differently than last night. Simpler. A linen blouse, loose, buttoned to the collar. Her chestnut hair pulled back in a practical knot instead of falling loose around her shoulders. No bodice, no presentation. Just a woman eating bread and drinking tea and looking younger in the daylight than she had by candlelight.
+
+More real. That was the word. Last night she'd been wearing her profession like a costume. Now she was wearing herself.
+
+She saw me and smiled. Not the professional smile   the warm, inviting, here's-what-I'm-offering smile from last night. A different one. Simpler. The smile of a woman who recognized someone she'd been briefly intimate with and didn't regret it.
+<<set $lenna_chat_1 = false>>
+<<updateobjective "day_2" "Chat with Lenna at the bar">>
+[[Chat with Lenna|broken_antler]]
+
+:: lenna_chat_1
+<<set $lenna_chat_1 = true>>
+<<dialog "Lenna">>
+Hello, sellsword. You look like you slept on a pile of rocks.
+<</dialog>>
+
+<img src="img/scene/day_2/8.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+<<dialog "Aldric">>
+The mattress upstairs might qualify. How do you look this awake? We were up at the same hour.
+<</dialog>>
+
+<<dialog "Lenna">>
+I've been doing midnight hours for four years. My body adapted. Yours clearly hasn't.
+<</dialog>>
+
+I sat down beside her. She smelled like soap and honey and the faint herbal scent that I was starting to realize was just her   the underlying note beneath whatever she wore or didn't wear. The freckles were still there, scattered across her nose and cheeks. In the daylight they were more visible, warmer, copper points on pale skin.
+
+<<dialog "Aldric">>
+About last night 
+<</dialog>>
+
+<<dialog "Lenna">>
+Was perfectly nice and doesn't need to be discussed further unless you're planning to make it awkward, in which case please don't.
+<</dialog>>
+
+<<dialog "Aldric">>
+I was going to say thank you.
+<</dialog>>
+
+<<dialog "Lenna">>
+You already said thank you. With silver. Which is the customary format. But you're welcome.
+<</dialog>>
+
+She tore a piece of bread and dipped it in honey. Her fingers moved with surprising delicacy   precise, gentle, the hands of someone who did fine work. I remembered she'd mentioned wanting to be a seamstress. Saving up. Learning the trade.
+
+<<dialog "Lenna">>
+You've got the job tonight, then? The one you mentioned?
+<</dialog>>
+
+<<dialog "Aldric">>
+How'd you know?
+<</dialog>>
+
+<<dialog "Lenna">>
+Because you have the same expression every sellsword gets the day of a dangerous job. Tight around the eyes. Jaw set a fraction too hard. Trying to look relaxed and failing completely. I've seen it a hundred times. It's more obvious than you think.
+<</dialog>>
+
+<<dialog "Aldric">>
+That transparent?
+<</dialog>>
+
+<<dialog "Lenna">>
+To someone who watches people for a living, yes. Be careful, Aldric. Whatever this job is. I've seen too many men walk out that door with that expression and not walk back in.
+<</dialog>>
+
+<<dialog "Aldric">>
+I'll be careful.
+<</dialog>>
+
+<<dialog "Lenna">>
+Make sure she's careful too. Your business partner. The one who's definitely not just a business partner.
+<</dialog>>
+
+<<dialog "Aldric">>
+She's 
+<</dialog>>
+
+<<dialog "Lenna">>
+Complicated. You said. I remember.
+<</dialog>>
+
+She reached over and squeezed my hand. Brief. Warm. The callus on her thumb pressing against my knuckle.
+
+<<dialog "Lenna">>
+Good luck. Come back in one piece. I'll be here when you do.
+<</dialog>>
+
+I went back upstairs. The freckles followed me   not literally, but in my mind, the image of them, copper constellations on warm skin. I wanted to count them, which was a stupid thing to want on the afternoon before a goblin raid, but brains do stupid things when the rest of you is trying not to think about mortality.
+<<set $broken_antler_room_1 = false>>
+<<updateobjective "day_2" "Go back to the room and wait for Mira">>
+[[Go to Room|broken_antler]]
+
+:: broken_antler_room_1
+<<set $broken_antler_room_1 = true>>
+Back in the room, the afternoon heat was thick and close. The shutters were open but the air wasn't moving   the post-rain stillness that settled over Valdmere like a blanket, humid and heavy, making the room feel smaller than it was.
+
+<img src="img/scene/day_2/9.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+I'd gone down the hall to wash up at the basin   the single shared facility for this floor, a cracked ceramic bowl on a wooden stand beside a pitcher of water that was optimistically described as "fresh." I'd stripped to the waist, sluiced water over my head and neck and chest, scrubbed the road grime from my skin with a rag that smelled marginally cleaner than I did. The cold water felt good   sharp, clarifying, cutting through the pre-job fog that had been settling over my brain all morning.
+
+I came back into the room toweling off my hair, shirtless, my trousers low on my hips, water trailing down my chest through the dark hair and Mira was on the bed.
+
+She was sitting on the edge, checking her boot laces   one of her perpetual tasks, the constant maintenance of equipment that kept her alive   but her hands had stopped moving. She was watching me. Those amber eyes, half-lidded, tracking across my body with the focused attention she usually reserved for targets at distance. Shoulders. Chest. The trail of hair running down my stomach. The muscles of my arms as I dried my hair.
+
+<<dialog "Mira">>
+Come here.
+<</dialog>>
+
+Two words. No preamble. That was Mira. She didn't flirt, didn't build up, didn't create ambiance. She decided what she wanted and she said it, and the economy of that directness was more arousing than any seduction I'd ever encountered.
+
+I went. She pulled me to stand in front of her where she sat on the edge of the mattress, her face level with my stomach, her hands going straight to my belt. Unbuckling, untying, pulling my trousers down just far enough with the efficient competence of a woman who knew exactly what she was reaching for.
+
+I was hardening before her fingers found me. The anticipation, the heat of her breath on my lower stomach, the look in her eyes   focused, intense, predatory in the way that only Mira could be predatory, with calculation and hunger in equal measure.
+
+Her hand wrapped around me. The archer's grip   strong fingers, callused pads, the confident pressure of someone who understood tension and release at a fundamental level. She stroked once, slow, base to tip, and felt me thicken in her fist.
+
+<<dialog "Mira">>
+Pre-job tension. I can feel it in you. Your whole body is wound tight.
+<</dialog>>
+
+<<dialog "Aldric">>
+This is your solution?
+<</dialog>>
+
+<<dialog "Mira">>
+This is me taking the edge off. There's a difference. You'll fight better relaxed. Consider it tactical preparation.
+<</dialog>>
+
+<<dialog "Aldric">>
+That's the most clinical justification for a blow job I've ever 
+<</dialog>>
+
+She took me in her mouth and the rest of the sentence died in a groan.
+
+Mira gave head the way she did everything   with focused precision that bordered on aggressive. Her lips stretched around my shaft, tight seal, her tongue flat against the underside, pressing into the sensitive ridge beneath the head. She sucked hard   no gentle warmth-up, no teasing, just immediate intense suction that hollowed her cheeks and made my knees go weak. Her head bobbed in a steady, relentless rhythm, taking me deep   not all the way, I was too thick for that angle, but deep enough that I felt her throat clench around the head, a tight wet convulsion that shot sparks up through my spine.
+
+My hand flew to the back of her head. Fingers gripping the short copper strands, the hair too cropped to fist but enough to hold, enough to feel the motion of her skull as she worked me. She hummed around me   a deliberate vibration that traveled up my cock and radiated outward through my groin and into my legs.
+
+<<dialog "Aldric">>
+Fuck   Mira 
+<</dialog>>
+
+Her free hand raked nails down my stomach, tracing the midline hair trail, scratching lightly over the skin between my navel and where her mouth worked. Her amber eyes flicked up to my face, watching my reaction while her lips slid along my shaft   the eye contact, those luminous half-elf eyes looking up at me with my cock between her lips, was devastating. Almost ended me right there.
+
+She pulled off with a wet pop. Stroked me with her slick hand, saliva and pre-come making the grip slippery and agonizing.
+
+<<dialog "Mira">>
+Don't come yet. I want you focused tonight, not spent.
+<</dialog>>
+
+<<dialog "Aldric">>
+You're not helping with the focused part. At all.
+<</dialog>>
+
+<<dialog "Mira">>
+I'm taking the edge off. There's a difference.
+<</dialog>>
+
+She licked a slow stripe from the base of my cock to the tip, her tongue flat and wet and deliberate, circling the head at the top. Then she took me deep again   holding there, her throat working around me, swallowing rhythmically while her hand cupped my balls and massaged with the precise pressure of someone who'd learned exactly what I liked and deployed that knowledge with surgical efficiency.
+
+I came. Tried to warn her   the words "Mira, I'm " managing to escape before the orgasm hit me like a fist and turned the rest of the sentence into a strangled groan. She didn't pull off. She swallowed, her throat working around me, milking every pulse, her hand squeezing the base in rhythm with the contractions. The orgasm was sharp, concentrated, a lightning-bolt release of tension that left my knees genuinely uncertain about their continued commitment to supporting my weight.
+
+She pulled back. Wiped her mouth with the back of her hand. Matter-of-fact. Like she'd just finished sharpening an arrow.
+
+<<dialog "Mira">>
+Better?
+<</dialog>>
+
+<<dialog "Aldric">>
+...yeah.
+<</dialog>>
+
+<<dialog "Mira">>
+Good. Now focus.
+<</dialog>>
+
+She stood up, patted my cheek   half affectionate, half condescending, entirely Mira   and went back to checking her boot laces.
+
+I stood there for a moment. Trousers around my thighs. Brain rebooting. Body humming with the pleasant aftermath of an orgasm delivered with the precision of a military operation.
+
+Then I pulled myself together. Dressed. Started strapping on my armor. The edge was off. She was right. She usually was.
+<<updateobjective "day_2" "Leave the Broken Antler and head to the mine">>
+[[Leave the City|day_2_9]]
+
+:: day_2_9
+
+Two hours after sunset. The sky was the color of old bruises   deep purple, streaked with gray, the clouds still thick but emptied of rain. The air was cool and wet and smelled like everything the rain had touched and released: stone, earth, rotting leaves, the distant salt of the harbor.
+
+We left the Broken Antler armed and armored. My longsword on my hip, the weight of it familiar and reassuring, the scabbard tapping against my thigh with each step. Leather armor cinched tight over a linen tunic, the metal studs catching what little light there was. Mira's bow across her back, her quivers at her hips, the short sword   the cheese one   belted at her left side where she could draw it with a cross-body reach.
+
+The common room barely noticed our departure. Two armed mercenaries heading out at night was unremarkable in Valdmere   the city's economy ran on questionable decisions made after dark.
+
+The east gate guards barely glanced at us. One of them muttered something about the road being washed out past the second milestone. I didn't catch the details. I was already thinking about the mine.
+
+<img src="img/scene/day_2/10.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Once we cleared the gate, Mira took point. Her half-elf eyes reading the darkness, picking out the obstacles I couldn't see   roots, stones, the treacherous spots where the rain-soaked loam had turned to mud over limestone. She communicated in hand signals, the system we'd developed over three months: closed fist for stop, two fingers for movement ahead, flat palm for get low.
+
+I followed. Keeping my longsword sheathed to free both hands for balance. The ground was treacherous   mud over rock, a recipe for broken ankles and bruised pride. The creek Grent had mentioned was running hard, swollen with two days of downpour, the water churning over stones with a sound like grinding teeth.
+
+[[Follow the Creek|day_2_9_1]]
+
+:: day_2_9_1
+
+Twice I stepped on what I thought was solid ground and sank knee-deep into mud. The second time, my boot stayed behind   a terrifying moment of sucking, pulling, grasping before I fished it out of the muck with a sound like a giant kissing a swamp.
+
+Mira, of course, moved over the same ground like she was walking on marble. Half-elves.
+
+<img src="img/scene/day_2/11.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+<<dialog "Aldric">>
+How are you not sinking?
+<</dialog>>
+
+<<dialog "Mira">>
+Lighter. Lower center of gravity and I'm reading the ground surface, not just stepping on it. The darker patches are saturated   step on the lighter spots, where the water has drained.
+<</dialog>>
+
+<<dialog "Aldric">>
+That's easy for someone with eyes that can see in the dark.
+<</dialog>>
+
+<<dialog "Mira">>
+I don't see in the dark. I see in low light. There's a difference and stop talking. Sound carries over water.
+<</dialog>>
+
+I stopped talking. We followed the creek upstream. The moon was a sliver behind the clouds   good for stealth, bad for not dying in a mud pit. The forest pressed in from both sides, dripping, dark, the trees rising like pillars in a cathedral built by something that hated visitors.
+
+We smelled the mine before we saw it.
+
+<<link "Go to the Mine">>
+    <<worldmap>>
+<</link>>
+
+:: day_2_10
+<img src="img/scene/day_2/12.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+If you've never been downwind of a goblin camp, consider yourself blessed by whatever gods you pray to. It's not one bad smell. It's a symphony of bad smells, each one competing for dominance like drunks fighting for the last stool at the bar. Rotting meat. Unwashed bodies   not the honest road-sweat stink of humans, but the sharp, acrid reek of creatures who'd never encountered the concept of bathing and would eat the soap if given the chance. Urine. Feces and over all of it, the sour chemical tang of the fungal paste goblins smoked in their pipes, which smelled like burning hair soaked in vinegar.
+
+It hit us from thirty paces. Mira wrinkled her nose   which for her, with enhanced half-elf senses, must have been like getting slapped across the face with a dead fish wrapped in a dirty diaper.
+
+Fist up. Stop.
+
+I stopped. She pointed ahead and to the right. Through the scrub, I made out the mine entrance   a ragged hole in the escarpment, framed by rotting timbers that sagged inward like the ribs of a dead animal. Eight feet wide, six feet tall. What had once been a proper entrance structure had collapsed into rubble, leaving a wound in the hillside.
+
+A goblin sat on a flat rock outside. Wrapped in a human-sized cloak   stolen, probably from one of the dead caravan guards   that pooled around it like a collapsed tent. A crude spear leaned against the rock beside it. Head down. Chin on chest.
+
+Asleep. The most pathetic sentry in the history of organized defense.
+
+I drew a finger across my throat. Kill it? Mira shook her head. Practical reasoning   if it squeaked before dying, the sound would funnel into the mine like a megaphone. She held up one finger, pointed past the entrance. Go around.
+
+We crept wide. Generous berth, careful steps over loose rock. My heart was loud in my chest   not fear exactly, but the heightened state that preceded every job, the animal awareness that sharpened everything. The crunch of gravel under my boots. The drip of water from the escarpment. The goblin's wheezing snores.
+
+We slipped past. Ducked into the mine.
+<<updateobjective "day_2" "Enter the mine and find the chemical storage shaft">>
+[[Go into the Mine|day_2_11]]
+
+:: day_2_11
+<img src="img/scene/day_2/13.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+<<set $mcLocation = "upper_tunnels">>
+The air inside was different. Warmer. Heavier. It pressed against my face like a damp cloth, thick with wet stone and old iron and the goblin stench amplified by enclosure. The tunnel was wider than expected   room for two abreast, ceiling high enough that I only ducked for the sagging support beams. Walls of rough-hewn stone, dark iron ore veins glinting dully in the faint orange glow from deeper in.
+
+Firelight. The camp.
+
+Mira nocked an arrow. The whisper of bowstring drawing back, the click of nock against string. She moved forward, arrow ready.
+
+I drew my longsword. In the tunnel it felt longer than usual, the blade nearly touching walls on either side at guard position. I'd have to fight tight. Short arcs. Jabs. Point work. Economy of motion in a space that left no room for anything else.
+
+We moved.
+
+The mine branched at forty paces. Main shaft ahead   firelight, sleeping goblins, a chorus of guttural snoring that sounded like a barnyard having nightmares. Side tunnel left   narrower, darker, cooler air carrying that sharp chemical smell.
+
+Goblin markings scratched into the stone at the junction. I couldn't read goblin script but one symbol was clear enough: a rectangle with lines radiating outward. A box. Storage.
+
+I pointed. Mira nodded. We took the side tunnel.
+
+[[Go to the Storage Shaft|day_2_12]]
+
+:: day_2_12
+<img src="img/scene/day_2/14.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+<<set $mcLocation = "storage_shaft">>
+The deeper shaft was a different animal. Floor sloping steeply down, slick with moisture and fungal film   each step felt like walking on wet sponges. Walls narrowing until my shoulders nearly brushed stone on both sides. Mira's bow scraped the ceiling and she hissed a curse   the first sound either of us had made in ten minutes, echoing off the close walls like a shout.
+
+Freeze. Listen. Nothing. Snoring continued above. Undisturbed. We kept moving.
+
+The crates were twenty paces further down. Stacked against the tunnel wall behind a curtain of old mining canvas   heavy waxed fabric draped over them like a tablecloth. The Consortium seal stamped into the wood: scales over ship's wheel.
+
+I counted by touch. Eight crates. Fingertips finding nail-heads on sealed lids. Four sealed. Two open but contents intact   glass vials nestled in straw packing, cool and smooth. Two gutted, straw scattered, vials smashed. The chemical smell was strongest here, leaking from broken containers.
+
+<<dialog "Aldric">>
+Six recoverable. Four sealed, two open with contents.
+<</dialog>>
+
+I whispered so quietly the words barely had shape. Just breath with consonants.
+
+<<dialog "Mira">>
+Two each per trip. Three trips minimum.
+<</dialog>>
+
+<<dialog "Aldric">>
+Two. I'll rig carry harnesses from the canvas.
+<</dialog>>
+
+I reached for the mining canvas.
+
+Mira's hand clamped on my forearm. Iron-hard. Her fingers digging into the muscle with strength that always surprised me. In the near-dark, her eyes caught the faintest light and reflected it back   two pale amber discs, wide and alert. Her head tilted, listening with ears that could hear a mouse fart at sixty paces.
+
+Then I heard it too.
+
+Footsteps. Purposeful. Coordinated. Multiple feet in formation, coming from the main shaft above.
+
+A horn blew.
+
+The sound was indescribable   a high, wailing blast that filled the tunnels like water filling a bottle, bouncing off every surface, doubling and tripling. Crude instrument, carved animal horn, but in the enclosed space it was deafening. My ears rang. My teeth vibrated. The stone walls hummed with it.
+
+The sentry. Awake. A scent on the wind, a footprint in the mud, some goblin sixth sense. It knew.
+
+The horn died. In the silence: voices. Goblin common   fast, harsh, consonants crashing into each other. Tone is universal. This tone said: Intruders. Find them. Kill them.
+
+<<dialog "Mira">>
+They know.
+<</dialog>>
+
+<<dialog "Aldric">>
+They might not know where 
+<</dialog>>
+
+Second horn blast. Closer. Much closer. From the junction above us. They knew exactly where.
+
+<<dialog "Aldric">>
+Move.
+<</dialog>>
+<<updateobjective "day_2" "Fight or flee?">>
+[[Fight or Flight|day_2_13]]
+
+:: day_2_13
+
+I've made a lot of bad decisions in my life. The ale at the Broken Antler. The caravan job in Thornwall. The dwarf arm-wrestling incident in Kestwick. But I'd learned one thing from all of them: when the choice is between going deeper into the dark and fighting toward the light, you fight toward the light.
+
+<<dialog "Aldric">>
+Back through the main shaft. We punch out.
+<</dialog>>
+
+<<dialog "Mira">>
+There's going to be a lot of them between us and the exit.
+<</dialog>>
+
+<<dialog "Aldric">>
+Then we go through them.
+<</dialog>>
+
+<img src="img/scene/day_2/15.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Mira slung her bow and drew the short sword. She held it the way she always did   like it owed her money and she was about to collect.
+
+We ran.
+
+The slope was treacherous going up   the same fungal slime that made it unpleasant descending now turned it into a scramble, boots sliding on wet stone. My free hand bracing against the wall, sword hand keeping the blade forward. Mira behind me, breathing controlled and steady, the professional calm of someone who intended to survive this.
+
+We hit the junction at a run. Turned hard into the main shaft.
+
+Straight into five goblins.
+
+They were ugly. Knee-high, yellowish-green skin stretched tight over knobby bones, teeth jutting from their jaws at angles suggesting their dentist had been a rock slide. Small cunning eyes gleaming with the particular malice of creatures who survived by being mean and fast. Crude iron cleavers. Wooden shields reinforced with scavenged metal.
+
+No time to think. Body before brain   training, instinct, ten years of muscle memory compressed into one explosive motion. My longsword came up in a tight arc that caught the first across the face. Wet crack. It dropped like a puppet with cut strings.
+
+The second went low   classic goblin tactic, hamstring the tall-folk, let gravity and blood loss do the rest. It ducked under my blade and lunged for my knees. I stomped its weapon arm, felt the bones snap under my boot heel, and drove the sword through its back before it could scream.
+
+Behind me, Mira's bow sang   she'd switched at the last moment, the confined range be damned. At ten paces in a tunnel, her arrows didn't arc. They punched. The third goblin took one through the eye socket and rocketed backward into the fourth, both going down in a shrieking tangle.
+
+The fifth turned to run. Its alarm screech   rusty hinge being tortured   bounced off every surface, echoing and re-echoing.
+
+So much for quiet.
+
+I stepped over the bodies. Blood   goblin blood, thin and almost black, smelling like old copper and sour milk   spattered my armor, my arms, my face. I wiped it from my eyes and pressed forward.
+
+The main shaft ahead. Firelight casting jumping shadows and there   the quality of the light changing from orange to blue-gray where moonlight filtered in. The entrance. Forty paces. Fifty. Close enough to taste.
+
+More goblins poured from side tunnels. Six from the left, stumbling over each other. Three from an alcove I'd missed. Two dropped from a natural shelf above me   a ledge I'd walked under without looking up, because I was an idiot and goblins were not.
+
+<img src="img/scene/day_2/16.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+The tunnel became a meat grinder.
+
+I fought the way I'd been taught   control the center line, make them come to me. In a tunnel this narrow, they approached two abreast at most, which meant my longsword's reach was an advantage. I choked up on the grip, shortened my swings, used the blade like an oversized dagger. Jabs. Short slashes. Pommel strikes when they got too close. A goblin tried to climb over its dead companion and I caught it with a rising cut that opened its belly. It fell screaming, tangling the ones behind it.
+
+Mira was at my back. The short sword   the weapon she hated   doing the ugly close work she was terrifyingly good at. I could hear her behind me: the grunt of effort, the meaty impact of steel on flesh, creative obscenities directed at her weapon. An arrow whizzed past my ear   she'd switched between bow and sword in a heartbeat, loosing a shot over my shoulder that took a goblin in the throat, then drawing the blade again for the next one.
+
+Thirty paces from the entrance. Twenty-five. Twenty. The floor gave out.
+<<updateobjective "day_2" "Fall into the pit">>
+<<changestat "health"   -15>>
+<<changestat "energy"    -15>> 
+[[The Fall|day_2_14]]
+
+:: day_2_14
+<img src="img/scene/day_2/17.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+<<set $mcLocation = "collapse_point">>
+Not all of it. A section maybe six feet across, where the old mining timbers underneath had finally surrendered to decades of moisture and rot. My right foot went first. One moment solid ground, the next the stone crumbled under my boot and my leg punched through into empty space.
+
+One thought   oh no   and then my left foot followed and I was falling.
+
+Three feet. Maybe four. Short fall but I landed wrong   right leg twisting under me, ankle jamming between two shattered support beams like a log in a vise. The pain was instantaneous. White. Blinding. The kind that doesn't build but arrives fully formed, screaming.
+
+My longsword clattered from my grip. Splashed into water   a foot of it, stagnant and foul, some old drainage channel. Cold, stinking, soaking through my clothes while my leg burned above it.
+
+I tried to move. Ankle locked between beams, wood pressing from both sides. Any shift sent a bolt of agony from my calf to my knee that blanked my vision at the edges and there   I looked down, had to   a splintered piece of timber driven deep into my right calf. A jagged wooden spike buried in the muscle. Blood flowing freely, turning the stagnant water dark.
+
+<<dialog "Mira">>
+Aldric!
+<</dialog>>
+
+Her face above me, framed by the ragged edges of the collapsed floor.
+
+<<dialog "Aldric">>
+My leg's pinned. Ankle's caught between the beams.
+<</dialog>>
+
+She dropped in. Landing in a crouch that barely splashed. Eyes going to my leg. Her jaw tightened   one flicker of something that might have been fear before she locked it behind the professional mask.
+
+<<dialog "Mira">>
+The splinter 
+<</dialog>>
+
+<<dialog "Aldric">>
+I know. I can feel it.
+<</dialog>>
+
+Above us: the rapid patter of bare goblin feet on stone. Excited chittering. The sound predators make when they realize prey is trapped.
+
+Mira grabbed the beam pinning my ankle and pulled. It shifted an inch. The splinter in my calf moved with it   not coming out, twisting, digging deeper. I bit the inside of my cheek so hard I tasted blood.
+
+<<dialog "Aldric">>
+Stop. You're making it worse.
+<</dialog>>
+
+<<dialog "Mira">>
+I need to 
+<</dialog>>
+
+<<dialog "Aldric">>
+I know. Just   give me a second.
+<</dialog>>
+
+I didn't get a second. The first goblin appeared at the pit's edge, peering down with gleaming eyes. It grinned   goblins always grinned, it was the teeth   and raised its cleaver.
+
+Mira's short sword took its head off. Single stroke, clean, the blade passing through the neck with barely a sound. The body stood there for a moment   headless, still grinning   then toppled into the pit between us, splashing rank water across my chest.
+
+<<dialog "Mira">>
+I need both hands. This is going to hurt.
+<</dialog>>
+
+<<dialog "Aldric">>
+It already hurts.
+<</dialog>>
+
+<<dialog "Mira">>
+It's going to hurt more.
+<</dialog>>
+
+<img src="img/scene/day_2/18.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+She sheathed the sword. Braced her feet against the pit wall. Grabbed the timber with both hands. She didn't pull this time   she pushed, using her legs as leverage, her arms rigid, her whole body a lever. The beam groaned. Creaked. Shifted sideways with a scraping sound I felt in my teeth.
+
+The gap widened. Half an inch. An inch. Enough.
+
+I wrenched my foot free.
+
+The scream wasn't voluntary. It tore from my throat like something alive, and I buried it in my own forearm, biting down on leather and skin while my ankle throbbed with a deep grinding agony that pulsed in time with my heart. The splinter came out with the motion   mostly. I could feel a piece still in there, broken off inside the muscle, my calf swelling around it.
+
+My ankle was a ruin. Expanding inside my boot, the leather tightening like a closing fist. Not broken   I thought   but torn. Twisted. Something ankles weren't meant to do.
+
+Two more goblins dropped in. Mira killed the first with a knife   pulled from somewhere, the woman had weapons in every fold   a quick practiced stab through the soft tissue of the throat. Wet gargling. Collapse. She kicked the second into the far wall hard enough that its skull cracked against stone like a dropped melon.
+
+I grabbed my longsword from the filthy water. Drove it through the stunned goblin's chest. The blade went in easy   goblin ribs were thin   and it spasmed once and went still.
+
+<<dialog "Mira">>
+Can you walk?
+<</dialog>>
+
+I tried weight on my right foot. The ankle folded. Not like a joint bending   like a building collapsing.
+
+<<dialog "Aldric">>
+No.
+<</dialog>>
+
+<<dialog "Mira">>
+Can you crawl?
+<</dialog>>
+
+<<dialog "Aldric">>
+Probably.
+<</dialog>>
+
+<<dialog "Mira">>
+Then crawl.
+<</dialog>>
+<<updateobjective "day_2" "Use the pit to escape the goblins and get out of the mine">>
+<<changestat "health"   -40>>
+<<changestat "energy"    -15>> 
+[[Crawl to Freedom|day_2_15]]
+
+:: day_2_15
+
+She got under my arm, her shoulder against my ribs, and heaved me up the side of the pit. Half-elf strength   leaner, denser muscle, pound for pound significantly more powerful than human. She carried most of my weight without complaint, though the strain showed in the cords of her neck and the set of her jaw.
+
+We made the top. The entrance   fifteen paces. Moonlight. The smell of rain-washed air. Freedom.
+
+Five more goblins between us and the way out.
+
+I looked at Mira. She looked at me.
+
+<<dialog "Mira">>You can't fight.<</dialog>>
+
+<<dialog "Aldric">>Watch me.<</dialog>>
+
+<<dialog "Mira">>You can barely stand.<</dialog>>
+
+<<dialog "Aldric">>I don't need to stand. I need to swing.<</dialog>>
+
+She propped me against the tunnel wall. My back to the stone, ruined leg stretched out. Longsword in both hands, blade angled across my body. I couldn't advance, retreat, or maneuver. All I could do was hold the wall and kill anything within reach.
+
+Mira picked up her bow. Nocked an arrow. Stepped in front of me.
+
+<<dialog "Mira">>
+Stay behind me and try not to die. I'm not carrying a corpse back to Valdmere.
+<</dialog>>
+
+What followed was the longest two minutes of my life.
+
+She fought like something from a battle song. Two arrows into the first goblin before it closed to ten paces   both in the chest, the creature staggering back and falling. She dropped the bow, drew the short sword, and met the next two at the tunnel's narrowest point, using the walls to prevent flanking.
+
+The cheese sword moved in tight, efficient arcs. Parry, riposte, a lateral cut that opened a goblin's arm to the bone. It dropped its weapon. She finished it through the neck.
+
+One got past her.
+
+It came from my left, low and fast, cleaver raised. I was sitting against a wall with a destroyed ankle and a perforated calf and a sword that felt like it weighed a thousand pounds. The goblin was small and quick and smiling with all forty-seven of its horrible teeth.
+
+I swung.
+
+Not elegant. Not trained. A desperate sweeping cut driven by adrenaline and the absolute refusal to die in a goblin mine sitting in filthy water. The blade caught the creature across the midsection and kept going, powered by terror, cutting deep enough that I felt the edge scrape against its spine.
+
+The goblin fell in two directions at once.
+
+One left. The big one. Broader than the rest, thick, crude metal armor hammered onto its shoulders, a helmet made from what looked like a human skull with the top sawn off. A leader. A sergeant. The kind others followed because it was meaner and uglier and harder to kill.
+
+It came straight at me. Not at Mira   at me. The injured prey. The one who couldn't run. Predator logic.
+
+Mira put an arrow in its shoulder. It didn't slow down.
+
+<img src="img/scene/day_2/19.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+I brought my longsword up. The goblin sergeant's blade   a proper short sword, looted from the caravan   came in hard and fast, diagonal slash aimed at my neck. I parried. The impact rattled my arms to the shoulders. This thing was strong   not human-strong, but wiry, dense, with the cornered-animal power that compensated for size.
+
+Our blades locked. It leaned in, pressing weight against my sword, trying to slide its edge to my hands. Its breath hit my face   warm, rancid, raw meat and pipe fungus.
+
+I headbutted it.
+
+My forehead cracked against the bridge of its nose   goblins had surprisingly solid noses, dense cartilage over thin bone   and it staggered back, green-black blood spurting from its nostrils. Not much room. But enough.
+
+I thrust. The longsword went in under the crude armor, between the ribs, and found something vital. The goblin sergeant made a sound   quiet, almost surprised, like someone told unexpected news   and folded forward over my blade.
+
+Twist. Withdraw. It fell.
+
+Silence. The tunnel quiet except for my ragged breathing and the drip of water and blood.
+
+Mira stood over me. Short sword dripping. Chest heaving. She looked down the tunnel toward the camp. Nothing coming.
+
+<<dialog "Mira">>
+Can you move?
+<</dialog>>
+
+<<dialog "Aldric">>
+Not well.
+<</dialog>>
+
+<<dialog "Mira">>
+Good enough.
+<</dialog>>
+
+She hauled me up. One arm over her shoulder, most of my weight on her, my ruined leg dragging. We limped to the entrance. Past the sentry's rock   empty now, the alarm-blower long gone. Into the rain-washed air of the forest.
+
+I'd never loved the smell of rain more in my entire life.
+<<updateobjective "day_2" "Escape the mine and get back to Valdmere">>
+<<changestat "health"   -20>>
+<<changestat "energy"    -20>>
+[[Go Outside|day_2_16]]
+
+:: day_2_16
+<<set $mcLocation = "mine_entrance">>
+<img src="img/scene/day_2/20.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Fifty paces out. I told her to stop. The pain in my ankle had settled into a constant throbbing heat spreading up my leg. The calf wound was bleeding again   the makeshift bandage she'd tied from a strip of her own sleeve was soaked through.
+
+She lowered me against a tree trunk. Pulled my boot off   both of us working it, her pulling, me biting a leather strap, and when it came free the relief and agony arrived simultaneously. My ankle was twice its normal size. Deep purple-blue, visible even by moonlight. She probed with her fingers and I gripped tree roots hard enough to leave nail marks.
+
+<<dialog "Mira">>
+Not broken. Badly sprained. Maybe a torn ligament. The calf is worse.
+<</dialog>>
+
+She unwrapped the bandage. The splinter wound was ugly   a ragged puncture in the meat of the muscle, deep enough that the edges gaped. Something still in there. I could feel it   foreign body, rotten timber fragment, sitting inside my calf like a sliver of malice.
+
+<<dialog "Mira">>
+There's still wood in the wound. I can't get it out here. Not in the dark, not with dirty hands. If it stays in, it'll fester.
+<</dialog>>
+
+<<dialog "Aldric">>
+Then we find a healer.
+<</dialog>>
+
+<<dialog "Mira">>
+In Valdmere? At this hour? The temple healers won't see you without a donation we can't afford, and the apothecary on Mill Street closes at sunset.
+<</dialog>>
+
+<<dialog "Aldric">>
+There has to be someone.
+<</dialog>>
+
+The forest dripped around us. Patient. Indifferent.
+
+<<dialog "Mira">>
+There's someone. In the Undercity. A woman I've heard about. She operates out of the old cistern district near the Lowgate.
+<</dialog>>
+
+<<dialog "Aldric">>
+You've HEARD about her.
+<</dialog>>
+
+<<dialog "Mira">>
+From other sellswords. People who get hurt at inconvenient hours and can't afford temple prices.
+<</dialog>>
+
+<<dialog "Aldric">>
+What kind of healer operates out of a cistern at midnight?
+<</dialog>>
+
+<<dialog "Mira">>
+The kind who doesn't ask questions and doesn't charge much. Her name is Ysolde. They call her the Cistern Witch.
+<</dialog>>
+
+<<dialog "Aldric">>
+That's not reassuring.
+<</dialog>>
+
+<<dialog "Mira">>
+No one calls her that to her face. Listen to me.
+<</dialog>>
+
+She crouched in front of me, her amber eyes catching the moonlight.
+
+<<dialog "Mira">>
+You've got a piece of rotten wood buried in your calf. If we wait until morning, you'll have an infection. A bad one. The kind that takes legs. I've seen it happen twice. First man lost the leg at the knee. Second man lost it at the hip, and then lost the rest of himself three days later.
+<</dialog>>
+
+I looked at my leg. The swelling getting worse. The wound edges hot   unnaturally hot.
+
+<<dialog "Aldric">>
+Fine. The Cistern Witch.
+<</dialog>>
+
+<<dialog "Mira">>
+Ysolde.
+<</dialog>>
+
+<<dialog "Aldric">>
+Whatever. Take me there.
+<</dialog>>
+<<set $day_2_17 = false>>
+<<link "Get Back to Valdmere, Cistern district">>
+    <<worldmap>>
+<</link>>
+
+:: day_2_17
+<<set $day_2_17 = true>>
+Getting back to Valdmere took three times as long as getting out. Mira half-carried me through the dark forest   my arm over her shoulder, her arm around my waist, both of us stumbling like the world's worst three-legged race. My leg throbbed with every step. The bleeding left a trail of dark drops on wet leaves behind us.
+
+We entered through the south gate. River side. Fewer guards. Cheaper bribes. Mira dropped a copper into the night guard's hand without breaking stride. He looked away with the practiced disinterest of a man who'd seen worse.
+
+<img src="img/scene/day_2/21.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+The Undercity was different at night than during the morning's market run. Not safer, not more dangerous, just different   the way a forest is different at night, the same geography rearranged by shadow and silence. The narrow streets felt like throats. The leaning buildings like conspirators. Water seeped up through cobblestone cracks.
+
+The cistern district was the lowest point of the Undercity. The old stone cisterns   the city's ancient water supply, drained and sealed centuries ago   sat under sagging buildings that shifted as the ground slowly settled. The streets here were perpetually damp. The air tasted of mineral and mold.
+
+Mira stopped in front of a door.
+
+<img src="img/scene/day_2/22.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Unremarkable. Wooden. Weathered. Set into stone between a shuttered chandler's shop and a building that smelled of fermenting something. No sign. No marking. Just a door.
+<<set $day_2_18 = false>>
+<<updateobjective "day_2" "Find Ysolde, the Cistern Witch, and get her to treat your leg">>
+[[Knock on the door|CisternDistrict]]
+
+:: day_2_18
+<<set $day_2_18 = true>>
+She knocked. Three times, then twice, then once. Silence. Then footsteps   soft, measured, unhurried. A bolt. A chain. The door opened inward.
+
+The woman standing in the doorway was not what I expected. I'd been picturing a cistern witch. Hunched. Warted. The kind who'd have a black cat and a cauldron and would cackle at inappropriate moments. Ysolde was none of those things.
+
+<img src="img/scene/day_2/23.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+She was tall   nearly my height   and thin, with the angular, austere beauty of a woman who'd been striking in youth and had hardened into something more interesting with age. Fifty, maybe older. Iron-gray hair pulled back in a severe braid over one shoulder. Eyes so dark that in the lamplight, iris disappeared into pupil. They moved over me with the quick assessing gaze of someone who saw injured bodies so regularly the diagnosis was happening before I opened my mouth.
+
+Simple linen dress under a leather apron stained with things I didn't want to identify. Hands   long-fingered, steady, surprisingly elegant   hanging at her sides and on her left wrist, a bracelet of small glass vials, each containing a different colored liquid. They clinked softly when she moved, like tiny wind chimes.
+
+<<dialog "Ysolde">>
+The leg.
+<</dialog>>
+
+Not a question.
+
+<<dialog "Mira">>
+Splinter wound. Deep. There's still wood in the muscle and the ankle   sprained, possibly torn.
+<</dialog>>
+
+Ysolde looked at Mira, then at me. Those dark depthless eyes evaluated, calculated, and arrived at a conclusion in the space of a heartbeat.
+
+<<dialog "Ysolde">>
+Bring him in.
+<</dialog>>
+<<updateobjective "day_2" "Ysolde has agreed to treat your leg. Go inside her workshop.">>
+[[Go inside|day_2_19]]
+
+:: day_2_19
+<<changestat "health"   10>>
+<<changestat "energy"   10>> 
+The inside of Ysolde's practice   workshop   lair   was a single large room that had once been a cellar. Stone walls. Low ceiling. The faint sound of water running somewhere beneath the floor. Lit by oil lamps and beeswax candles, the light warm and steady.
+
+Shelves lined every wall, packed with glass bottles, ceramic jars, bundles of dried herbs, rolled bandages, instruments ranging from medical to obscure. A heavy wooden table in the center, scarred and stained with decades of use. A smaller table beside it covered in a white cloth, arranged with tools   forceps, needles, thread, scissors, and a small bone saw that I very much hoped was decorative.
+
+<img src="img/scene/day_2/24.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+The smell was better than expected. Herbs   lavender, sage, something sharp and clean that cut through the damp. Professional.
+
+Mira helped me onto the central table. Cold wood against my back through damp clothes. Ysolde moved around the room gathering materials   basin of water, strips of clean linen, a leather case that unrolled to reveal delicate surgical instruments.
+
+<<dialog "Ysolde">>
+Trousers.
+<</dialog>>
+
+<<dialog "Aldric">>
+What?
+<</dialog>>
+
+<<dialog "Ysolde">>
+Remove them. Or I'll cut them off. Your choice.
+<</dialog>>
+
+Mira helped me peel the trousers down over my swollen ankle. The process involved enough suppressed screaming to power a small theatrical production. The calf wound was worse than it had looked in the forest   angry red skin, swollen edges, yellowish seepage from the deepest part.
+
+Ysolde examined it with her fingers. Firm but not rough. Practiced hands. She pressed around the wound, probing, and I gripped the table edges.
+
+<<dialog "Ysolde">>
+Deep. Approximately two inches of foreign material still embedded. The wood has begun to splinter inside the wound track. This will be unpleasant.
+<</dialog>>
+
+<<dialog "Aldric">>
+More unpleasant than getting it was?
+<</dialog>>
+
+<<dialog "Ysolde">>
+Possibly.
+<</dialog>>
+
+She selected three bottles from the shelf. Clear. Amber and a deep, unsettling green. She poured the clear liquid over the wound first   clean antiseptic burn that made me hiss through my teeth. Then she opened the leather case and selected long, thin forceps.
+
+<<dialog "Ysolde">>
+Hold still and try not to scream. My neighbors are already irritated with me.
+<</dialog>>
+
+The extraction took ten minutes. It felt like ten hours.
+
+She worked with meticulous precision, forceps probing the wound track, finding fragments of rotten timber buried in my calf muscle and withdrawing them one by one. Eight pieces. From matchstick-size to a splinter the length of my little finger that came out trailing a dark streamer of blood.
+
+I held still. I did not scream. I may have whispered words that would have gotten me banned from every temple in the city, but I did not scream.
+
+When the last fragment came out, she irrigated again with the clear liquid, then applied the amber solution   warm, viscous, with a numbing quality that spread through the wounded tissue like a blessing. The pain didn't disappear. It retreated. Screaming foreground to dull distant throb.
+
+She stitched the wound closed. Twelve neat sutures, each placed with the care of a seamstress on a wedding dress. Wrapped it in clean linen, firm but not tight.
+
+The ankle got a different treatment. She manipulated the joint   testing range of motion, pressing specific points that made me wince and one that nearly launched me off the table. Then a poultice   green, foul-smelling   packed around the swollen joint and wrapped in place.
+
+<<dialog "Ysolde">>
+Severe sprain. Partial ligament tear. Two to three weeks if you stay off it. If you insist on walking, wrap tightly and use a staff.
+<</dialog>>
+
+<<dialog "Aldric">>
+The calf?
+<</dialog>>
+
+<<dialog "Ysolde">>
+The infection risk is the concern. The wood was rotten. Old mine timber. Full of microbial contamination.
+<</dialog>>
+
+She turned to the shelf and selected a small glass vial. The green one. The liquid inside was dark, almost black-green, and seemed to shift when she tilted it. Something inside was moving. Or seemed to be.
+
+<<dialog "Ysolde">>
+Drink this.
+<</dialog>>
+
+I looked at the vial. It looked back.
+
+<<dialog "Aldric">>
+What is it?
+<</dialog>>
+
+<<dialog "Ysolde">>
+A restorative compound. Anti-infectious, anti-inflammatory, promotes tissue regeneration. My own formulation.
+<</dialog>>
+
+<<dialog "Aldric">>
+What's in it?
+<</dialog>>
+
+<<dialog "Ysolde">>
+Things you wouldn't recognize if I named them.
+<</dialog>>
+
+She held it out. Patient. Unhurried.
+
+<<dialog "Ysolde">>
+You can refuse, of course and you can walk out of here with a wound that will fester within twenty-four hours. At which point you'll need a temple healer   one who will charge you ten times what I'm charging and will probably still take the leg.
+<</dialog>>
+
+<img src="img/scene/day_2/25.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+I looked at Mira. She shrugged   a gesture that communicated both I don't know and what choice do you have?
+
+I took the vial. Uncorked it. The smell was strange   sharp and green, like fresh-cut herbs, but underneath that, something metallic. Electric. Like the air before a lightning storm.
+
+I drank it.
+
+Bitter first. Then sweet. Then warmth   spreading from my throat down into my chest like swallowing liquid sunlight. Not bad. Just a lot. A lot of sensation, a lot of something moving through me, mapping me from the inside.
+
+Ysolde watched me drink. Her expression was unreadable. Not concern. Not satisfaction. Something patient. Something evaluating. Like a gardener watching a seed she'd just planted, already knowing what it would become but willing to wait for the soil to do its work.
+
+<<dialog "Ysolde">>
+Good. The effects will begin within twenty-four hours. You'll feel warmth, possibly tingling. That's normal. Your body is fighting the infection.
+<</dialog>>
+
+She took the empty vial back. Placed it on her shelf.
+
+<<dialog "Ysolde">>
+Eight coppers.
+<</dialog>>
+
+<<dialog "Aldric">>
+Eight coppers? For all of that?
+<</dialog>>
+
+<<dialog "Ysolde">>
+For the extraction, the suturing, the poultice, and the compound. I told you I don't charge much.
+<</dialog>>
+
+I paid her. Most of my remaining coin. After the precision, the care, the numbness making my leg feel almost human   it felt like a bargain.
+
+Mira helped me off the table. My ankle protested but held, with Mira's shoulder to lean on. We moved toward the door.
+
+I paused at the threshold. Something nagging at me. Something about the way Ysolde had watched me drink. The patience. The attention.
+
+<<dialog "Aldric">>
+The compound. You said the effects begin within twenty-four hours.
+<</dialog>>
+
+<<dialog "Ysolde">>
+That's correct.
+<</dialog>>
+
+<<dialog "Aldric">>
+What effects, exactly? Beyond fighting the infection?
+<</dialog>>
+
+She looked at me with those dark, depthless eyes and she smiled   small, closed-lipped, an expression that didn't quite reach her eyes and didn't quite answer the question.
+
+<<dialog "Ysolde">>
+Healing. The body knows what it needs. The compound simply... facilitates.
+<</dialog>>
+
+I didn't like that answer. I didn't like the smile. But my leg hurt, and I was tired, and the numbness from the amber solution was making everything feel soft and distant, and Mira was already steering me toward the door.
+
+<<dialog "Ysolde">>
+Rest tonight. Sleep well and come back if you need anything.
+<</dialog>>
+
+The door closed behind us. The cistern district swallowed us back into its damp, dark streets. My leg throbbed dully under the bandages, the numbness already beginning to wear off at the edges.
+
+But underneath the pain, something else. A warmth in my core that had nothing to do with the amber solution. Deeper. Subtler. Like the vial's contents were reaching into parts of me that had nothing to do with the wound in my calf, touching something fundamental and rearranging it, quietly, without permission.
+
+I shook it off. Exhaustion. Blood loss. A long night and a longer walk home. Nothing more.
+<<set $day_2_20 = false>>
+<<updateobjective "day_2" "Rest for the night and let the compound work.">>
+<<link "Return to the Broken Antler">>
+    <<regionmap "valdmere">>
+<</link>>
+
+:: day_2_20
+<<set $day_2_20 = true>>
+
+<img src="img/scene/day_2/26.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+We made it back to the Broken Antler just before dawn. The eastern sky was going gray-pink over the rooftops. Bakers' smoke. Cart wheels. The distant clang of the harbor bell. The city waking up, ordinary people beginning ordinary days.
+
+The tavern door was unlocked   it always was. The innkeeper didn't look up from his ledger as Mira hauled me through the common room and up the stairs. Whatever he thought of two blood-spattered mercenaries limping through his establishment at dawn, he kept it to himself. That was the kind of tavern the Broken Antler was.
+
+She helped me onto the bed. My bed. The lumpy one with the mattress that was more regret than cushion. It was the most comfortable thing I'd ever felt.
+
+<<dialog "Aldric">>
+We didn't get the crates.
+<</dialog>>
+
+<<dialog "Mira">>
+We didn't die. That's worth more than the crates.
+<</dialog>>
+
+<<dialog "Aldric">>
+Grent's going to want his advance back.
+<</dialog>>
+
+<<dialog "Mira">>
+Grent can find us. We'll deal with it tomorrow.
+<</dialog>>
+
+She pulled my boots off   the intact one and the one she'd already removed in the forest. Covered me with the blanket. The wool scratched against my skin and the sensation was sharper than it should have been   more textured, more detailed, like the nerve endings in my arms had been polished to a higher sensitivity.
+
+I noticed it. Filed it away. Didn't think about it.
+
+<<dialog "Mira">>
+Sleep. I'll watch for a while.
+<</dialog>>
+
+<<dialog "Aldric">>
+You don't need to 
+<</dialog>>
+
+<<dialog "Mira">>
+Sleep, Aldric.
+<</dialog>>
+<<updateobjective "day_2" "Sleep">>
+[[Sleep|day_2_21]]
+
+:: day_2_21
+/* <img src="img/locations/valdmere/broken_antler_room.jpeg" style="width: 100%; max-width: 768px; margin: 0 auto;" /> */
+I slept. My last thought before the darkness took me was about the vial. The way the liquid had looked   alive, almost. Shifting inside the glass like something breathing and Ysolde's smile when I'd asked about the effects. That patient, knowing smile. The smile of a gardener watching a seed.
+
+<img src="img/scene/day_2/dream/1.jpeg" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Healing. The body knows what it needs. Then the dark swallowed me whole.
+<<updateobjective "day_2" "Wake Up">>
+[[Am I Drowning?|day_2_22]]
+
+:: day_2_22
+
+Normally, I am not dreaming at least, not like this. Not the kind of dream where you know you're dreaming but can't wake up, where the impossible is just part of the scenery and you accept it without question. I don't have those kinds of dreams. But this one   this was different.
+
+Water. I was underwater. Not drowning   breathing, somehow, the way you can only breathe in dreams, where the impossibility of it never occurs to you. The water was warm. Body-warm. The temperature of blood, of bathwater left to cool just past comfort, and it pressed against me from every direction like hands   hundreds of hands, soft and insistent, touching everything at once.
+
+My skin was wrong. 
+
+That was the first thing. Not pain, not cold, just wrong   the water touching me and the nerves underneath responding in a language I didn't speak. Too sensitive. Every current, every ripple registered against my body like fingertips tracing lines, and the sensation was so sharp it bordered on unbearable. I could feel the water moving across my chest and the feeling was   more. Heavier. Like there was more of me there to feel it, more surface area catching the current, more nerve endings firing where before there had only been flat hard muscle and coarse hair.
+
+I looked down.
+
+The water was dark   not black, but the deep bruised blue of a midnight ocean   and I couldn't see clearly. Just shapes. My own body distorted through the medium, wavering like a reflection in troubled glass. But the shapes were wrong. The shoulders were narrower than mine. The waist cinched inward like something had taken a sculptor's hand to my torso and carved away the sides and below the waist   hips. Wide, round, flaring outward in a curve that no amount of underwater distortion could explain. My hips had never curved like that. My hips were straight, narrow, a man's hips built for holding up a sword belt and nothing else.
+
+These hips were built for something different entirely.
+
+<img src="img/scene/day_2/27.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+I tried to touch them. My hands moved through the warm water   slow, dreamlike, fighting the resistance   and when they found the curve of those hips, the fingers that pressed into soft skin were slender. Elegant. The calluses gone, the knuckles smooth, the nails clean and shaped in a way mine never were. A woman's hands. Small enough that the hips they rested on felt wide and full beneath them, the flesh giving under gentle pressure the way a man's body never gives.
+
+I pulled the hands away. Watched them drift in front of my face. Long delicate fingers, tapered, the tendons visible under skin that was pale and unblemished and soft. I flexed them. They responded. They were mine. They couldn't be mine.
+
+Something brushed my shoulders. Hair. Long hair, drifting in the current like dark seaweed, floating across my vision in lazy tendrils. I reached up and caught a strand between those wrong fingers. It was dark brown   my color   but three feet long, thick and glossy and heavy with water, and when I tugged it I felt the pull at my own scalp, felt the roots anchored in the crown of my own head.
+
+The water pulsed. Warmer. The hands were back   not mine, the invisible ones, the water-hands   and they moved across my body with purpose now. Across my stomach, which was flat but soft, layered with a thin feminine padding that had replaced the ridged muscles I'd spent years building. Up over my ribs, which felt smaller, closer together, the cage of bone contracted like something had pressed it inward from both sides and then higher.
+
+Breasts.
+
+The water-hands cupped them and I gasped   or tried to, the water filling my open mouth with warmth instead of air   because the sensation was blinding. Not pain. Pleasure. The sudden, shocking, unwanted pleasure of sensitive flesh being held, lifted, the weight of them settling into invisible palms. They were full. Heavy. Soft in a way that muscle never is, yielding and warm, and the nipples   gods, the nipples   hardened against the current like they'd been touched by ice, and the sensation of that tightening traveled from my chest straight down through my belly and into a place between my legs that felt nothing like what was supposed to be there.
+
+I cried out. The sound that came from my throat wasn't my voice.
+
+<img src="img/scene/day_2/dream/3.jpeg" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+It was higher. Breathier. A woman's gasp, musical and startled, echoing through the dark water like a bell struck underwater. I clapped those slender hands over my mouth and felt lips that were fuller than mine, softer, the lower one plump and trembling against my fingertips.
+
+The water began to spin. Slowly at first, then faster, a warm vortex pulling me downward into darker depths, and the invisible hands were everywhere now   stroking my thighs (thick, soft, pressing together), tracing the new curve of my waist, sliding up the arch of my back which bent differently, moved differently, had a flexibility and a sway that my spine had never known. 
+
+Every touch sent sensation cascading through me in patterns I couldn't map   pleasure radiating from places that had no business being pleasurable, aching in places that had no business aching, and underneath all of it a low, liquid heat pooling between those pressed-together thighs, building in an organ I didn't have, couldn't have, shouldn't have. The water swallowed me.
+
+[[Go to the surface|day_2_23]]
+
+:: day_2_23
+
+I broke the surface. Not water anymore. Air. I was standing   when had I started standing?   in a room. Stone walls. Candlelight. The smell of lavender and something sharper underneath, metallic, electric. Ysolde's workshop. But larger. The walls stretched away into shadow, the ceiling too high to see, the candles floating in the air without holders, their flames burning green and ahead of me, a mirror.
+
+Not the cheap polished tin at the Broken Antler. This was a proper mirror   tall, full-length, framed in dark wood carved with symbols I didn't recognize. It stood in the center of the room on nothing, just hovering there, its surface rippling like the water I'd just escaped.
+
+<img src="img/scene/day_2/dream/4.jpeg" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+I looked into it. Me. Thank the gods, me. Square jaw, dark stubble, deep-set green eyes under heavy brows. The scar through my left eyebrow   the knife fight in Redhaven, age twenty-one. My face. My shoulders, broad and thick. My chest, flat and hairy. My body, exactly as it had always been, familiar as my own name.
+
+I exhaled. Stepped closer. The reflection didn't step with me.
+
+It stood still. Watching me approach with my own green eyes and as I stared, the face in the mirror... shifted. Like watching ice melt in fast motion, the hard edges softening, blurring, reforming. The jaw narrowed. The angles rounded. The stubble thinned to nothing, the skin beneath it going smooth and pale. The cheekbones lifted, sharpened, became prominent ridges that caught the green candlelight and threw delicate shadows across a face that was still mine and already wasn't.
+
+My lips   the reflection's lips   grew fuller. Pinker. The lower lip swelling into a soft pout, the upper lip developing a pronounced cupid's bow that I'd never had, could never have had. The brow ridge flattened, the forehead smoothing into a gentle curve, and the eyes   still green, still mine   appeared larger, framed by lashes that were thick and dark and long enough to cast shadows on cheeks that were softer than any cheek I'd ever owned.
+
+"No," I said. The reflection said nothing. Its mouth   her mouth, the lips that were ripe and trembling   curved into a smile I recognized. My smile. The crooked one that pulled to the right. Except on this face, that familiar asymmetry was devastating. It wasn't a man's wry smirk anymore. It was a woman's knowing grin, and it hit me in the chest like a fist.
+
+The mirror flickered. Now the reflection was further along. The neck was slender, the throat smooth   no Adam's apple, not even a shadow of one. Collarbones stood out in elegant lines below shoulders that were narrow, delicate, nothing like the broad slabs of muscle I carried and below the collarbones   breasts. Real, full, unmistakable breasts filling the reflection's chest, round and soft with large pink nipples and the particular gentle sway of natural weight. The reflection breathed and they rose and fell, and I watched myself   watched her   breathe in a body I didn't own.
+
+The waist was impossible. A deep, dramatic curve inward, a waist I could span with my two hands   my real hands, the large calloused ones   creating an hourglass against the wide flare of hips that were built for a purpose my hips had never served. The belly was flat but soft, a gentle feminine curve below the navel, and the hips... the hips were generous, lush, the kind of hips that moved when they walked, that swayed with every step, that drew the eye down along curves that didn't end so much as flow into thick, soft thighs.
+
+<img src="img/scene/day_2/28.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+The mirror flickered again. Final form. Complete. The woman in the mirror was beautiful. Not pretty, not handsome, not striking-in-a-certain-light   beautiful, fully and without qualification, in a way that made something in my chest ache with a confusion I couldn't name. Her hair was long and dark, falling in thick waves to the middle of her back. Her face was heart-shaped, delicate, every feature refined to its softest possible version   but the eyes. The eyes. They were mine. Green and deep-set and sharp, slightly hooded, and they looked out from that impossible face with all the stubborn, dry-humored defiance I'd spent twenty-six years cultivating and the scar. Through the left eyebrow. Faded to a thin white line, barely visible, but there. The last thread connecting this woman to the man standing on this side of the glass.
+
+She raised a hand. Those slender, elegant fingers   the ones I'd felt in the water, the ones that were nothing like mine   spread against the mirror's surface. She was touching the glass from the inside. Pressing against it. Not trying to escape. Just... reaching.
+
+I raised my hand. My hand   broad, rough, scarred at the knuckles, thick-fingered and strong. A swordsman's hand. A man's hand. I held it up, mirroring hers, and the difference was grotesque. Her palm was half the size of mine. Her fingers were long where mine were thick. Her skin was smooth where mine was cracked and calloused.
+
+Our hands drifted toward each other. Glass between us. A quarter inch of mirror separating what I was from what she   what I   would become.
+
+/* <img src="img/scene/day_2/dream/6.jpeg" style="width: 100%; max-width: 768px; margin: 0 auto;" /> */
+
+"Who are you?" I whispered. The reflection's lips moved. My crooked smile, on that devastating face and in a voice that was warm and low   a woman's voice, a stranger's voice, my voice in a register I'd never reached   she said: "You already know." The mirror cracked.
+
+[[Go through the mirror|day_2_24]]
+
+:: day_2_24
+
+<img src="img/scene/day_2/29.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+The room dissolved. The candles guttered. The darkness returned, but it was different now   not water-dark, not stone-dark, but the soft warm dark of a bed at night, of sheets and skin and breathing.
+
+I was in a bed. Not the Broken Antler. Somewhere else. Somewhere that smelled of clean linen and dried lavender and the particular musk of another person's body   a smell I knew but couldn't place, hovering at the edge of recognition the way names do in dreams.
+
+I was lying on my back. The sheets were silk   or something close to it, something smooth and cool that slid against skin that was too sensitive, every thread a whisper against nerve endings that had been rewired to register touch at ten times the intensity. I shifted and the fabric dragged across my chest and the feeling 
+
+Oh. Oh gods.
+
+Weight. Softness. The sheets pulling across nipples that were hard and aching, and the drag of cool fabric across them sent a bolt of raw sensation from my chest straight down through my stomach and into a low, heavy heat that throbbed between my legs. I arched my back   involuntary, the body moving before the mind could object   and the motion was sinuous, hip-led, the spine curving in a long S-shape that was fluid and feline and nothing like the way my body had ever moved.
+
+<img src="img/scene/day_2/dream/7.jpeg" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+There were hands on me. Real hands this time. Not water, not invisible pressure. Actual human hands, warm and large, rough with calluses   a man's hands, a swordsman's hands, hands that felt like my own hands should feel. They were on my waist. Spanning the narrow curve of it, thumbs pressing into the soft skin below my navel, fingers splayed across hip bones that jutted prominently under smooth flesh.
+
+The hands slid upward. Slowly. Mapping the terrain of ribs that were smaller, closer together, the intercostal spaces narrow and sensitive. Fingertips tracing lines that made my breath catch   and the sound of my breath catching was a small feminine "ah" that I heard from my own throat and couldn't stop.
+
+The hands reached my breasts. Cupped them. Lifted them, felt the weight, the overflow of soft tissue between spread fingers. Thumbs found the nipples and pressed   gently, circling, a touch that knew what it was doing   and my back arched again and the sound I made was louder this time, breathier, a moan that started somewhere in my chest and ended as a whimper against the back of my teeth.
+
+"Nnnhh " I couldn't see who was touching me. The dark was absolute, total, a blindfold of shadow. But I could feel them. Their body above mine, the heat of their skin close but not touching except for the hands, the weight of their presence hovering and lower   something hard pressing against my inner thigh, the thigh that was thick and soft and opened without resistance, my legs spreading with a willingness that terrified me 
+
+<img src="img/scene/day_2/dream/8.jpeg" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+A mouth on my neck. Warm. Wet. Lips parting against the pulse point, tongue tracing the tendon, teeth scraping lightly over skin that was smooth and hypersensitive and there was no adam's apple in the way because there was no adam's apple at all, just the elegant line of a slender throat that vibrated with the moans I couldn't suppress.
+
+The hands left my breasts. Trailed down. Over the flat soft belly, the gentle curve below the navel, the swell of hips that tilted upward to meet the descending touch. Fingers combed through a small patch of trimmed hair   soft, fine, nothing like the coarse thatch I knew   and then lower, parting flesh that was wet and swollen and yielding, finding a spot that was small and hard and electric and 
+
+"Aaahh !" My voice. Not my voice. A woman's cry, sharp and shocked and ragged with pleasure, tearing out of me as those fingers circled and pressed and the sensation was nothing, nothing like anything I'd ever felt as a man. It wasn't focused, wasn't concentrated, wasn't the familiar building pressure of a cock being stroked. It was everywhere. Radiating outward from that single point of contact in waves that crashed through my entire body   through the breasts that bounced as my chest heaved, through the thighs that clenched around the hand between them, through the belly that tightened in rhythmic pulses, through the toes that curled against silk sheets 
+
+The fingers slid lower. Found an opening. Pressed in. I came apart.
+
+Not an orgasm   not yet   but a dissolution, a shattering of everything I understood about my body and what it could feel. The fullness of being entered was alien and overwhelming, a deep internal pressure that was nothing like penetrating and everything like being known, being opened, being filled in a way that left no room for denial. My hips bucked   rolling, grinding, chasing the feeling   and the sounds coming from my mouth were obscene, desperate, the soundtrack of a woman being taken apart by someone who knew exactly how to do it 
+
+"Please  oh gods  nnnnhh  don't stop  aahh " The climax hit me like a wave. Not the sharp, concentrated burst I knew   not the familiar clench-and-release of a man's orgasm. This was tidal. It started at the point of contact and radiated outward in concentric rings, each one wider and deeper than the last, crashing through my body in long rolling surges that went on and on and on, my back arching off the bed, breasts bouncing, thighs shaking, that voice   my voice, her voice, our voice   crying out in a register I'd never reached, wordless and wrecked and beautiful.
+
+<img src="img/scene/day_2/dream/9.jpeg" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Every muscle locked. Released. Locked again. The walls of me   the inner walls, the muscles I didn't have, shouldn't have   clenched around the fingers still inside me in hard rhythmic contractions that pulled the pleasure deeper, wrung it from every nerve, milked the sensation until I was trembling and gasping and tears were streaming from eyes I couldn't open because opening them would mean seeing what I already knew.
+
+The body coming undone in these sheets wasn't mine and it felt like coming home.
+
+[[Wake up|day_2_25]]
+
+:: day_2_25
+
+The dark dissolved. I was standing in a street. Valdmere. The market district, near the east gate   I recognized the cobblestones, the awnings, the fishmonger's stall with its eternal reek. But the light was wrong. Golden, amber, the color of late afternoon through honey, and everything had that soft-edged dream quality where details were sharp in the center of vision and smeared to nothing at the periphery.
+
+People moved around me. Market crowd. Merchants, housewives, street vendors, beggars. Nobody looked at me. I was invisible, a ghost in my own city.
+
+Then I caught a reflection in a shop window and stopped.
+
+She was walking through the market. Slim and graceful, dark hair falling in waves past her shoulders, wearing fitted leather armor that hugged a body made of curves and angles that would stop traffic. She moved with purpose   not delicately, not tentatively, but with the direct, ground-eating stride of someone who knew how to fight. Just... differently. Hip-led. Balanced lower. A predator's walk translated into a different body.
+
+There was a sword at her hip. A longsword. Too big for her frame, technically   but she wore it like she'd been born with it, the weight so familiar that her body had simply adapted around it, redistributing balance and center of gravity to account for the change. She had a scar through her left eyebrow. Faint. A thin white line that most people would never notice.
+
+<img src="img/scene/day_2/30.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+She turned her head. Green eyes. Deep-set. Sharp. The kind of eyes that made people feel seen whether they wanted to be or not.
+
+My eyes. My crooked half-smile. She winked at me   at the ghost of me, at the man watching from outside the shop window   and the smile widened into something radiant and fearless and entirely, unapologetically her.
+
+Behind her, someone called out. "Aldric! Wait up!" She turned toward the voice. Not flinching at the name. Not correcting it. Just turning, easy and natural, one hand resting on the pommel of the longsword, the other pushing a wave of dark hair behind her ear.
+
+I tried to see who had called her. The amber light flared, blinding, and the market melted like paint in rain 
+
+[[Darkness|day_2_26]]
+
+:: day_2_26
+
+Darkness. Real darkness. Not dream-dark but the honest darkness of a room with shuttered windows and a single guttering candle.
+
+One last image. Brief. A flash, like lightning illuminating a landscape for a single heartbeat before the thunder comes.
+
+A hand holding a vial. Small, dark glass. The liquid inside green-black and shifting. Just like the one Ysolde had given me. Just like the one I'd already drunk.
+
+But in this flash, the hand holding it was slender and elegant. A woman's hand. My hand   the hand I'd felt in the water, the hand that had pressed against the mirror, the hand that had gripped silk sheets while a stranger's touch sent me over the edge.
+
+The hand tilted the vial. Poured it out. The green-black liquid spilled onto stone, hissing where it fell, and the woman   the woman I was, the woman I would be   watched it pool and evaporate with an expression I couldn't read. Grief? Relief? Both?
+
+<img src="img/scene/day_2/31.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+The vial was empty. The liquid was gone. The choice was made. Ysolde's voice, from everywhere and nowhere, patient as a gardener, The body knows what it needs.
+
+[[Wake up for real|day_2_27]]
+
+:: day_2_27
+
+<img src="img/locations/valdmere/broken_antler_room.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+I surfaced. Half-awake, half-dreaming, lying in the lumpy bed at the Broken Antler with the blanket twisted around my legs and my heart hammering against ribs that were the right size, the right shape, spaced correctly with the right amount of muscle over them. My chest was flat. My jaw was square. My hands, when I raised them in the pre-dawn gray, were large and calloused and thick-fingered.
+
+Everything was where it should be. I touched my face. Stubble. Rough. The scar through my left eyebrow, raised and familiar under my fingertip.
+
+A dream. Just a fever dream. The vial, the wound, the exhaustion   my mind processing the trauma of the night, manufacturing phantoms from pain and Ysolde's cryptic nonsense.
+
+The body knows what it needs. Bullshit. My body needed sleep, ale, and for goblins to not exist. That was the extent of what my body needed.
+
+I let my hands fall. Stared at the ceiling. The water stain shaped like a horse. The cracks in the plaster. Morning light filtering through the window, pale gold, the color of watered honey.
+
+Normal. Everything normal. Except my skin still tingled where the dream-hands had touched. Except I could still feel the phantom weight on my chest, the echo of fullness between my legs, the ghost of a voice that had been mine and not mine moaning into dark sheets. Except somewhere in the back of my mind, behind all the denial and the rationalization and the stubborn refusal to think about what any of it meant, a small quiet voice that sounded like a woman whispered:
+
+You already know. I shoved the thought down. Buried it deep. Got out of bed.
+
+My calf ached. My ankle throbbed. My body was solid and familiar and exactly what it had always been. I didn't look in the mirror.
+
+[[Wake Up|end_of_cuurent_version]]

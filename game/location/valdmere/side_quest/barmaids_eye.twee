@@ -1,0 +1,341 @@
+
+
+
+
+
+:: barmaid [broken_antler quest]
+<<set $barmaid_done = true>>
+I noticed her because she noticed me first. Not in the way Lenna had noticed me   the professional assessment of a working girl identifying a potential customer. This was different. The barmaid behind the bar was looking at me the way Mira looked at a trail   studying, reading, filing details into a system I wasn't privy to.
+
+She was young. Early twenties, maybe. Freckled   a dense constellation of copper-brown spots across her nose and cheekbones that made her look like someone had flicked a paintbrush at her face. Hair tied back in a knot that was losing the fight against a few rebellious strands, dark-blonde, the color of old straw. A round face, open, the kind of face that made you think she'd be easy to read until you looked at her eyes and realized the eyes were doing the reading.
+
+She was wiping a tankard. The universal activity of barmaids throughout history   the default position, the resting state, the thing their hands did when their minds were elsewhere. Her hands moved in circles. Her eyes moved in straight lines, tracking across the common room, pausing on faces, moving on. They paused on mine.
+
+<<dialog "Tess">>
+You're new.
+<</dialog>>
+
+She said it across the bar, raising her voice just enough to carry over the ambient noise. Not a question   a classification. The way a librarian would note a new book on a shelf.
+
+<<dialog "Aldric">>
+Got in two days ago.
+<</dialog>>
+
+<<dialog "Tess">>
+Sellsword.
+<</dialog>>
+
+<<dialog "Aldric">>
+Is it that obvious?
+<</dialog>>
+
+<<dialog "Tess">>
+The sword is a clue. Also the way you sit   back to the wall, eyes on the door. Also the scars. The one through your eyebrow is interesting. Knife fight?
+<</dialog>>
+
+<<dialog "Aldric">>
+How did you 
+<</dialog>>
+
+<<dialog "Tess">>
+Wrong angle for a sword. Too short for a claw. Knife, drawn upward from the right side, probably by someone shorter than you. Left a clean line through the brow. Healed well. You were   what, twenty? Twenty-one?
+<</dialog>>
+
+I stared at her. She was still wiping the tankard. Circles. Steady. The motion perfectly disconnected from the precision of her assessment, like a musician playing scales while composing a symphony.
+
+<<dialog "Aldric">>
+Twenty-one. A man in a border town who didn't like the way I looked at his dice.
+<</dialog>>
+
+<<dialog "Tess">>
+Dice dispute. Classic. The rib scar is more interesting   I can see the edge of it through your collar. That one was stitched by someone who knew what they were doing. Professional. A healer or a field medic.
+<</dialog>>
+
+<<dialog "Aldric">>
+A friend.
+<</dialog>>
+
+<<dialog "Tess">>
+A good friend. Twelve sutures, even spacing, minimal scarring. That's not "a friend patched me up." That's "someone who cares about me sat down and did it right."
+<</dialog>>
+
+Mira, beside me, made a sound that might have been a cough and might have been something else entirely. She was the one who'd stitched the Thornwall scar. Twelve sutures. Even spacing. While calling me six kinds of idiot.
+
+<img src="img/scene/barmaid/1.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+<<dialog "Aldric">>
+You read people.
+<</dialog>>
+
+<<dialog "Tess">>
+I pour drinks. Reading people is how you know which drink to pour. The sad ones want strong ale. The angry ones want something to hold   the tankard matters more than what's in it. The lonely ones want conversation more than they want a drink at all, but they'll never ask for it because asking means admitting the loneliness exists.
+<</dialog>>
+
+She set down the tankard. Picked up another. Started wiping.
+
+<<dialog "Tess">>
+You're none of those, by the way. You're not sad or angry or lonely. You're broke. Broke has its own face   the way you counted coppers before ordering, the way you checked the price board twice, the way you drank the first sip slowly because you know this tankard has to last. Broke people nurse their drinks. They hold them like they're holding on to something.
+<</dialog>>
+
+<<dialog "Aldric">>
+That's... uncomfortably accurate.
+<</dialog>>
+
+<<dialog "Tess">>
+Sorry. I do that. Read too much. Say too much of what I read. My mother always said I'd get myself stabbed someday for telling a man something true about himself that he didn't want to hear.
+<</dialog>>
+
+<<dialog "Aldric">>
+I'm not going to stab you.
+<</dialog>>
+
+<<dialog "Tess">>
+Good. You'd be surprised how often I have to check.
+<</dialog>>
+
+She grinned. A quick, warm thing that crinkled the freckles and made her look about sixteen. Then it was gone, replaced by the professional friendliness that was her trade mask, and she moved down the bar to serve a pair of dock workers who'd been waving their empty tankards with increasing desperation.
+
+I watched her go. The efficiency of her movement   three steps, two pours, a joke that made one of the dock workers laugh and the other blush, money taken, change made, already moving to the next customer. A woman who navigated her world the way Mira navigated a forest   by reading signs that other people didn't know were there.
+
+<img src="img/scene/barmaid/2.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+<<dialog "Mira">>
+She's sharp.
+<</dialog>>
+
+<<dialog "Aldric">>
+Very.
+<</dialog>>
+
+<<dialog "Mira">>
+Read your scars in ten seconds. The rib stitching   she was right about the count. I did do twelve.
+<</dialog>>
+
+<<dialog "Aldric">>
+While calling me six kinds of idiot.
+<</dialog>>
+
+<<dialog "Mira">>
+Only because you were being six kinds of idiot. The girl's got a gift. Wasted in a place like this.
+<</dialog>>
+
+<<dialog "Aldric">>
+Maybe she likes it here.
+<</dialog>>
+
+<<dialog "Mira">>
+Nobody likes it here. People are here because the alternative is worse. That's the Broken Antler's entire business model.
+<</dialog>>
+
+She picked up her arrowhead and went back to the teeth-clicking. Conversation over. But I kept half an eye on Tess as she worked the bar   pouring, wiping, reading. The freckled face and the sharp eyes and the particular talent for seeing people as they actually were rather than as they presented themselves.
+
+I'd remember that talent. Not because it mattered right now   right now it was a curiosity, a minor encounter in a tavern full of minor encounters.
+
+But it would matter. When Tess looked at my face again and saw something different, something she couldn't name but could feel in her bones the way she felt every other truth about the people she served   it would matter a great deal.
+
+She'd be the first stranger to say it out loud. The word that would sit in my chest like a coin dropped in deep water. But that hadn't happened yet.
+/* <<set $barmaid_2 = false>> */
+[[Drink Ale|broken_antler]]
+
+/* > [END   SCENE 1: ESTABLISHMENT]
+>
+> NPC introduced: Tess (barmaid, human lie detector, freckled, reads people the way archers read wind)
+> Setup: Tess's talent for reading faces and bodies is established. She's cataloged Aldric's baseline   the scars, the jaw, the build, the way broke people hold their drinks. This baseline becomes the measuring stick against which she'll notice changes after Ysolde's potion. */
+
+/* <<goto "barmaids_eye_post_potion">> */
+
+
+
+
+:: barmaid_2 [broken_antler quest]
+<<set $barmaid_2 = true>>
+The Broken Antler's ale hadn't improved. That was the one constant in an increasingly inconstant world   no matter what else changed, the ale at the Antler would always taste like someone had filtered dishwater through an old sock and charged you three coppers for the indignity.
+
+I was in the corner booth. Mira was across from me, eating something the menu described as stew and reality described as a warm brown mystery. The common room was in its usual state   half-full, all-miserable, the evening crowd filtering in with the slow determination of people who had nowhere better to be. Tess was behind the bar.
+
+She brought our drinks   tankard for me, tankard for Mira, the automatic delivery of a barmaid who'd memorized her regulars. She set mine down. Her hand paused on the rim. She was looking at me.
+
+<img src="img/scene/barmaid/3.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
+Not the casual, reading-the-room glance from before. This was focused. Her eyes   quick, sharp, the same eyes that had read my scars in ten seconds   were fixed on my face with the particular intensity of someone seeing something that didn't match their records.
+
+<<dialog "Tess">>
+Did you do something different?
+<</dialog>>
+
+<<dialog "Aldric">>
+Different how?
+<</dialog>>
+
+<<dialog "Tess">>
+You look... I don't know. Rested? Your skin looks good.
+<</dialog>>
+
+My skin. I resisted the urge to touch my face. Resisted the urge to check whether the jawline felt different under my fingers, whether the stubble was thinner, whether any of the changes I'd been trying not to catalogue in front of Mira were visible to someone who hadn't seen me in   what? A day? Two?
+
+<<dialog "Aldric">>
+Must be the ale.
+<</dialog>>
+
+<<dialog "Tess">>
+That ale makes everyone look worse, not better.
+<</dialog>>
+
+She laughed. The same quick, warm laugh that crinkled the freckles. But underneath it, her eyes were still working   the barmaid's gift, the talent for reading truth in faces, running its analysis against the baseline she'd stored from our first meeting. She'd cataloged me. Filed me and now the file didn't match the face, and the mismatch was nagging at her the way a wrong note nags at a musician.
+
+<<dialog "Tess">>
+Whatever it is, keep doing it. You're almost pretty.
+<</dialog>>
+
+She tapped the table twice   the same friendly punctuation as before   and moved to the next customer.
+
+Pretty.
+
+The word sat in my chest like a dropped coin sinking through deep water. Slow. Heavy. Reaching places that hadn't been touched. Places I didn't know existed. Places that the potion was building or uncovering or both, somewhere underneath the muscle and the stubble and the identity I'd worn for twenty-six years without questioning its fit.
+
+Pretty. Not handsome. Not rugged. Not any of the words men got   the words I'd been getting my whole adult life, the ones that sat comfortably on a square jaw and broad shoulders and a body that took up space like it owned it. She'd said pretty. A word for different faces. Softer faces. Faces that were changing shape in ways that a barmaid with a gift for reading people could see even when the man wearing the face couldn't.
+
+<<dialog "Mira">>
+What did she say?
+<</dialog>>
+
+<<dialog "Aldric">>
+Nothing. That I looked rested.
+<</dialog>>
+
+<<dialog "Mira">>
+You don't look rested. You look like a man who slept on a bar floor after being carried through a forest with a hole in his leg.
+<</dialog>>
+
+<<dialog "Aldric">>
+Maybe she has low standards for rested.
+<</dialog>>
+
+<<dialog "Mira">>
+She said something else. I heard her voice change. The pitch shifted   the way people's voices shift when they're saying something they didn't plan to say.
+<</dialog>>
+
+<<dialog "Aldric">>
+She said I'm almost pretty.
+<</dialog>>
+
+Silence. The kind of silence that has texture   thick, loaded, full of things unsaid.
+
+<<dialog "Mira">>
+Pretty.
+<</dialog>>
+
+<<dialog "Aldric">>
+It's just a word.
+<</dialog>>
+
+<<dialog "Mira">>
+It's a specific word. There are a hundred words for "you look good." Handsome. Striking. Sharp. Fit. She picked pretty. That's not random. That girl reads faces for a living. She chose that word because it's the word her instincts gave her, and her instincts are better than most people's deliberate assessments.
+<</dialog>>
+
+<<dialog "Aldric">>
+You're reading too much into it.
+<</dialog>>
+
+<<dialog "Mira">>
+I'm reading exactly the right amount into it. Which is what I've been doing for the last two days, watching you avoid mirrors and adjust your belt and flinch when your shirt touches your chest.
+<</dialog>>
+
+The booth got very small. The air between us dense. Mira's amber eyes were locked on mine   not accusing, not afraid. Determined. The look she wore when she'd been tracking something through the brush and had finally run it to ground and wasn't going to let it bolt.
+
+<<dialog "Aldric">>
+Mira 
+<</dialog>>
+
+<<dialog "Mira">>
+A barmaid who's known you for five days just called you pretty. Your skin is smoother than it was when we arrived. Your jaw has changed shape   subtle, but I've been looking at that jaw from across tables and from pillows and from below when you're on top of me, and it's different and you're pretending everything is fine because pretending is easier than whatever the alternative is.
+<</dialog>>
+
+<<dialog "Aldric">>
+The alternative is 
+<</dialog>>
+
+<<dialog "Mira">>
+The alternative is telling me what you already know. What Sera told you. What that potion is doing. Because I can see it, Aldric. Not the way Tess can see it   she doesn't have context. I do. I've memorized your body. Every scar, every muscle, every angle and the body I'm looking at right now isn't the body I memorized.
+<</dialog>>
+
+The common room noise washed around us   laughter, conversation, the clink of tankards, the creak of furniture. The noise of other people's lives, uncomplicated and unremarkable. Inside the booth, in the six inches of ale-scented air between my face and Mira's, everything was very quiet and very loud at the same time.
+
+<<dialog "Aldric">>
+I don't know what it's doing. Not exactly. Sera said... she said it's changing me. At a foundational level. Not healing   changing. The skin, the bones, the  everything. She said it's not going to stop.
+<</dialog>>
+
+<<dialog "Mira">>
+Changing you into what?
+<</dialog>>
+
+<<dialog "Aldric">>
+I don't know.
+<</dialog>>
+
+<<dialog "Mira">>
+You don't know or you won't say?
+<</dialog>>
+
+<<dialog "Aldric">>
+I don't know. Sera doesn't know. Nobody knows because the woman who gave me the potion vanished before she could explain what the potion does, and all I have is a body that's doing things without my permission and a barmaid who just called me pretty.
+<</dialog>>
+
+My voice cracked on the last word. Not emotionally   physically. The pitch shifted, the tone warping for a half-second into something lighter and less controlled, a hiccup in the vocal machinery that I covered with a cough and Mira covered with a silence that said she'd noticed.
+
+She reached across the table. Took my hand. The grip was firm   archer's fingers, calloused pads, the hand I'd held in the dark and in the light and in every space between.
+
+<<dialog "Mira">>
+Okay.
+<</dialog>>
+
+<<dialog "Aldric">>
+Okay?
+<</dialog>>
+
+<<dialog "Mira">>
+Okay. I don't need to know what it is yet. I don't need answers you don't have. I just need you to stop pretending that nothing's happening, because the pretending is worse than the happening. I can handle change. I can't handle you lying to me about it.
+<</dialog>>
+
+<<dialog "Aldric">>
+I wasn't lying. I was 
+<</dialog>>
+
+<<dialog "Mira">>
+Omitting. Avoiding. Strategically not mentioning. All of which are Aldric Vane synonyms for lying, and I will not have it. Not from you. Not about your body. Not about anything.
+<</dialog>>
+
+She squeezed my hand. Hard enough to hurt, which was her love language.
+
+<<dialog "Mira">>
+We'll figure it out. Ysolde went south. We follow. We find her, we find answers. If the answers are bad, we deal with bad answers the way we deal with everything   badly, but together. Agreed?
+<</dialog>>
+
+<<dialog "Aldric">>
+Agreed.
+<</dialog>>
+
+<<dialog "Mira">>
+Good. Now drink your terrible ale and stop looking at your reflection in the tankard. Yes, I can see you doing that. You're not subtle.
+<</dialog>>
+
+I drank my terrible ale. I stopped looking at my reflection in the tankard   or tried to, but the curved metal surface kept catching my eye, and every time it did I saw a face that was mine and not mine, the jaw a degree softer than it should have been, the skin a shade smoother, the eyebrow scar the only constant in a landscape of slow-motion change.
+
+Across the bar, Tess was wiping another tankard. Circles. Steady. Her eyes sweeping the room, reading faces, filing truths.
+
+She caught my gaze and smiled. The quick, freckled smile. Then she moved on.
+
+Pretty.
+
+The coin was still sinking.
+
+> [END   THE BARMAID'S EYE]
+>
+> Scene 1 (Day -2): Tess established as human lie detector. Reads Aldric's scars, financial status, and emotional state in seconds. Catalogs his baseline face and body.
+> Scene 2 (Day 0): Tess notices changes she can't name. Says "pretty"   the first external, unprompted confirmation from a stranger that something visible is happening. Forces the Mira confrontation where she demands Aldric stop pretending.
+>
+> NPC established: Tess   recurring Broken Antler presence. Every time Aldric returns to Valdmere, Tess will see him. Her readings become a barometer of the transformation's progress, each observation more specific, more alarming, more undeniable.
+>
+> Relationship beat: Mira breaks through Aldric's denial. "I've memorized your body and the body I'm looking at right now isn't the body I memorized." The pretending ends here. What replaces it is rawer and harder and more honest and infinitely more frightening.
+>
+> Lenna variant (Branch A only): If Lenna is present in the common room, an optional interaction occurs where she notices the jaw change   "Your jaw, too. Something about your jaw."   from the context of having been physically intimate with Aldric two days prior. Her observation is more specifically physical because her knowledge of his body is more recent and more tactile.

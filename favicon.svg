@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="liquid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5eff8a" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0a6e2a"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b8ffcf" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#1a3d2a" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.65" r="0.45">
+      <stop offset="0%" stop-color="#5eff8a" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#5eff8a" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow-f" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Outer glow -->
+  <ellipse cx="16" cy="20" rx="10" ry="10" fill="url(#glow)"/>
+
+  <!-- Bottle body -->
+  <path d="M12.5 11 L11 14 C8.5 17 7.5 19 7.5 22 C7.5 26.5 11 29 16 29 C21 29 24.5 26.5 24.5 22 C24.5 19 23.5 17 21 14 L19.5 11 Z"
+        fill="url(#glass)" stroke="#3ddc6f" stroke-width="0.8" filter="url(#glow-f)"/>
+
+  <!-- Liquid fill -->
+  <path d="M9.2 20 C8.8 21 8.5 21.8 8.5 22.5 C8.5 26 11.5 28 16 28 C20.5 28 23.5 26 23.5 22.5 C23.5 21.8 23.2 21 22.8 20
+           Q20 18.2 16 19.5 Q12 18.2 9.2 20 Z"
+        fill="url(#liquid)" opacity="0.9"/>
+
+  <!-- Bubble 1 -->
+  <circle cx="13.5" cy="23.5" r="1" fill="#5eff8a" opacity="0.5"/>
+  <!-- Bubble 2 -->
+  <circle cx="17.5" cy="25" r="0.7" fill="#7affaa" opacity="0.4"/>
+  <!-- Bubble 3 -->
+  <circle cx="15" cy="21.5" r="0.5" fill="#aaffcc" opacity="0.45"/>
+
+  <!-- Glass highlight -->
+  <path d="M12 15 Q11 18 10.5 22 Q10.5 24 11.5 26"
+        fill="none" stroke="#b8ffcf" stroke-width="0.6" opacity="0.5" stroke-linecap="round"/>
+
+  <!-- Bottle neck -->
+  <rect x="13" y="5" width="6" height="6.5" rx="0.8" fill="url(#glass)" stroke="#3ddc6f" stroke-width="0.8"/>
+
+  <!-- Cork -->
+  <rect x="12.5" y="3" width="7" height="3" rx="1.2" fill="#8B6914" stroke="#6b4f10" stroke-width="0.5"/>
+  <line x1="14" y1="3.5" x2="14" y2="5.5" stroke="#6b4f10" stroke-width="0.3" opacity="0.5"/>
+  <line x1="16" y1="3.5" x2="16" y2="5.5" stroke="#6b4f10" stroke-width="0.3" opacity="0.5"/>
+  <line x1="18" y1="3.5" x2="18" y2="5.5" stroke="#6b4f10" stroke-width="0.3" opacity="0.5"/>
+
+  <!-- Sparkle -->
+  <g fill="#aaffcc" opacity="0.7">
+    <path d="M25 8 L25.5 6.5 L26 8 L27.5 8.5 L26 9 L25.5 10.5 L25 9 L23.5 8.5 Z" transform="scale(0.6) translate(16, 2)"/>
+  </g>
+</svg>

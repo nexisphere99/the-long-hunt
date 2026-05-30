@@ -1,0 +1,105 @@
+
+
+:: broken_antler
+<div style="position: relative; width: 100%; max-width: 1536px; margin: 0 auto; aspect-ratio: 1536 / 1024;">
+  <img src="img/locations/valdmere/broken_antler.png" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+  <svg viewBox="0 0 1536 1024"
+       preserveAspectRatio="none"
+       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    <polygon id="lenna_chat_1"
+             points="1336,397,1338,383,1345,368,1362,350,1376,326,1390,314,1399,295,1411,277,1430,267,1449,272,1461,288,1458,312,1470,324,1484,326,1484,338,1498,343,1498,364,1501,392,1503,415,1487,423,1465,415,1454,423,1425,432,1404,441,1406,470,1381,493,1366,486,1369,451,1357,432,1350,413"
+             class="svg_main_map"
+             data-passage="lenna_chat_1" />
+    <polygon id="day_1_8_lenna"
+             points="1336,397,1338,383,1345,368,1362,350,1376,326,1390,314,1399,295,1411,277,1430,267,1449,272,1461,288,1458,312,1470,324,1484,326,1484,338,1498,343,1498,364,1501,392,1503,415,1487,423,1465,415,1454,423,1425,432,1404,441,1406,470,1381,493,1366,486,1369,451,1357,432,1350,413"
+             class="svg_main_map"
+             data-passage="day_1_8_lenna" />
+    <polygon id="barmaid"
+             points="45,479,40,453,45,437,38,425,26,408,26,364,26,331,47,286,66,274,75,255,90,234,92,206,101,182,120,171,134,168,155,178,170,189,174,215,172,234,167,255,167,270,186,274,205,298,217,324,233,352,243,373,238,390,219,401,200,394,188,404,200,427,210,451"
+             class="svg_side_map"
+             data-passage="barmaid" />
+    <polygon id="arm_wrestler"
+             points="900,454,916,471,928,476,938,461,947,447,945,433,959,414,968,391,982,374,999,365,1015,355,1006,339,1001,318,1013,304,1032,294,1053,294,1065,301,1074,315,1086,330,1098,337,1117,341,1145,351,1171,363,1192,379,1185,395,1168,400,1178,412,1185,421,1178,435,1152,433,1128,445,1117,461,1117,480,1114,501,1121,518,1124,534,1121,553,1093,548,1067,539,1039,525,1022,527,1004,520,999,501,1008,490,985,504,980,518,964,527,947,527,931,534,916,532,905,525,888,520,876,506,893,490,905,485,898,468"
+             class="svg_side_map"
+             data-passage="arm_wrestler_start" />
+    <polygon id="day_1_4"
+             points="464,432,556,460,681,420,678,404,537,373,462,387"
+             class="svg_main_map"
+             data-passage="day_1_4" />
+    <polygon id="day_1_2"
+             points="464,432,556,460,681,420,678,404,537,373,462,387"
+             class="svg_main_map"
+             data-passage="day_1_2" />
+    <polygon id="check_card_1"
+             points="320,184,323,346,431,334,431,184"
+             class="svg_main_map"
+             data-passage="check_card_1" />
+    <polygon id="grent_1"
+             points="1520,683,1517,720,1522,744,1531,756,1534,866,1489,866,1463,862,1430,852,1409,836,1399,822,1402,798,1411,782,1432,770,1449,767,1472,760,1484,742,1487,727,1496,716,1501,697,1501,680"
+             class="svg_main_map"
+             data-passage="grent_1" />
+    <polygon id="leave_table_1"
+             points="464,432,556,460,681,420,678,404,537,373,462,387"
+             class="svg_main_map"
+             data-passage="leave_table_1" />
+    <polygon id="broken_antler_room"
+             points="1385,906,1364,911,1343,911,1340,925,1312,925,1305,942,1315,984,1329,1000,1371,996,1413,986,1435,984,1458,984,1451,1000,1470,1005,1494,1005,1491,1019,1534,1019,1531,989,1517,982,1522,951,1505,939,1477,927,1442,925,1413,930,1378,932"
+             class="svg_main_map"
+             data-passage="broken_antler_room" />
+    <polygon id="broken_antler_room_1"
+             points="1385,906,1364,911,1343,911,1340,925,1312,925,1305,942,1315,984,1329,1000,1371,996,1413,986,1435,984,1458,984,1451,1000,1470,1005,1494,1005,1491,1019,1534,1019,1531,989,1517,982,1522,951,1505,939,1477,927,1442,925,1413,930,1378,932"
+             class="svg_main_map"
+             data-passage="broken_antler_room_1" />
+    <polygon id="day_2_7"
+             points="464,432,556,460,681,420,678,404,537,373,462,387"
+             class="svg_main_map"
+             data-passage="day_2_7" />
+    <polygon id="day_2_20"
+             points="1385,906,1364,911,1343,911,1340,925,1312,925,1305,942,1315,984,1329,1000,1371,996,1413,986,1435,984,1458,984,1451,1000,1470,1005,1494,1005,1491,1019,1534,1019,1531,989,1517,982,1522,951,1505,939,1477,927,1442,925,1413,930,1378,932"
+             class="svg_main_map"
+             data-passage="day_2_20" />
+    <polygon id="day_3_3"
+             points="464,432,556,460,681,420,678,404,537,373,462,387"
+             class="svg_main_map"
+             data-passage="day_3_3" />       
+    <polygon id="barmaid_2"
+             points="45,479,40,453,45,437,38,425,26,408,26,364,26,331,47,286,66,274,75,255,90,234,92,206,101,182,120,171,134,168,155,178,170,189,174,215,172,234,167,255,167,270,186,274,205,298,217,324,233,352,243,373,238,390,219,401,200,394,188,404,200,427,210,451"
+             class="svg_side_map"
+             data-passage="barmaid_2" />
+    <polygon id="day_3_6_a"
+             points="1336,397,1338,383,1345,368,1362,350,1376,326,1390,314,1399,295,1411,277,1430,267,1449,272,1461,288,1458,312,1470,324,1484,326,1484,338,1498,343,1498,364,1501,392,1503,415,1487,423,1465,415,1454,423,1425,432,1404,441,1406,470,1381,493,1366,486,1369,451,1357,432,1350,413"
+             class="svg_main_map"
+             data-passage="day_3_6_a" />
+    <polygon id="day_3_8"
+             points="464,432,556,460,681,420,678,404,537,373,462,387"
+             class="svg_main_map"
+             data-passage="day_3_8" />
+  </svg>
+</div>
+<div class="map-legend">
+  <span class="map-legend-item"><span class="map-legend-swatch" style="background:#fb923c;"></span>Main Objective</span>
+  <span class="map-legend-item"><span class="map-legend-swatch" style="background:#60a5fa;"></span>Side Quest</span>
+  /* / <span class="map-legend-item"><span class="map-legend-swatch" style="background:#c084fc;"></span>Person</span>
+  <span class="map-legend-item"><span class="map-legend-swatch" style="background:#4dd9c0;"></span>Object</span> / */
+</div>
+<<run
+  setTimeout(function () {
+    if (State.variables.day_1_8_lenna)        { var e = document.getElementById('day_1_8_lenna');        if (e) e.remove(); }
+    if (State.variables.barmaid_done)      { var e = document.getElementById('barmaid');      if (e) e.remove(); }
+    if (State.variables.arm_wrestler_done) { var e = document.getElementById('arm_wrestler'); if (e) e.remove(); }
+    if (State.variables.day_1_2) { var e = document.getElementById('day_1_2'); if (e) e.remove(); }
+    if (State.variables.day_1_4) { var e = document.getElementById('day_1_4'); if (e) e.remove(); }
+    if (State.variables.check_card_1) { var e = document.getElementById('check_card_1'); if (e) e.remove(); }
+    if (State.variables.grent_1) { var e = document.getElementById('grent_1'); if (e) e.remove(); }
+    if (State.variables.leave_table_1) { var e = document.getElementById('leave_table_1'); if (e) e.remove(); }
+    if (State.variables.broken_antler_room) { var e = document.getElementById('broken_antler_room'); if (e) e.remove(); }
+    if (State.variables.day_2_7) { var e = document.getElementById('day_2_7'); if (e) e.remove(); }
+    if (State.variables.lenna_chat_1) { var e = document.getElementById('lenna_chat_1'); if (e) e.remove(); }
+    if (State.variables.broken_antler_room_1) { var e = document.getElementById('broken_antler_room_1'); if (e) e.remove(); }
+    if (State.variables.day_2_20) { var e = document.getElementById('day_2_20'); if (e) e.remove(); }
+    if (State.variables.barmaid_2) { var e = document.getElementById('barmaid_2'); if (e) e.remove(); }
+    if (State.variables.day_3_3) { var e = document.getElementById('day_3_3'); if (e) e.remove(); }
+    if (State.variables.day_3_6_a) { var e = document.getElementById('day_3_6_a'); if (e) e.remove(); }
+    if (State.variables.day_3_8) { var e = document.getElementById('day_3_8'); if (e) e.remove(); }
+  }, 0);
+>>

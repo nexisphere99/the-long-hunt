@@ -1,0 +1,35 @@
+:: end_of_cuurent_version
+<div style="text-align: center; padding: 3em 1em; max-width: 640px; margin: 0 auto;">
+
+<img src="img/locations/valdmere/broken_antler_room.png" style="width: 100%; max-width: 480px; margin: 0 auto 2em; display: block; opacity: 0.5;" />
+
+<p style="font-family: 'Cinzel Decorative', serif; font-size: 1.4em; color: var(--clr-gold); letter-spacing: 0.12em; margin-bottom: 0.4em; text-align: justify;">
+— End of Current Version —
+</p>
+
+<p style="color: var(--clr-text-dim); font-style: italic; font-size: 0.95em; margin-bottom: 2em; line-height: 1.8; text-align: center;">
+Aldric's eyes opened. Whatever came next - the ache in his calf, Mira's watchful silence, the dream he was already trying to forget - would have to wait a little longer.
+</p>
+
+<hr style="border: none; border-top: 1px solid var(--clr-border); margin: 2em auto; width: 60%;" />
+
+<p style="color: var(--clr-text); font-size: 0.95em; line-height: 1.9; margin-bottom: 1.5em; text-align: justify;">
+Thank you for playing <em>The Long Hunt</em>.<br>
+The story continues - Patreon supporters get new chapters early and help shape what comes next.
+</p>
+
+<a href="https://www.patreon.com/c/iamvile26" target="_blank" style="
+    display: inline-block;
+    padding: 0.7em 2em;
+    background: var(--clr-gold-dim);
+    color: var(--clr-dark);
+    font-family: 'Cinzel', serif;
+    font-size: 0.95em;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-decoration: none;
+    border: 1px solid var(--clr-gold);
+    transition: background 0.2s;
+">Support on Patreon</a>
+
+</div>

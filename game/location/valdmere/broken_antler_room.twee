@@ -1,0 +1,6 @@
+
+
+:: broken_antler_room
+<<if $step = 2.5>>
+    <<goto "day_2_6">>
+<</if>>

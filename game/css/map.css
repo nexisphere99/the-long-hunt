@@ -1,0 +1,211 @@
+/* ==========================================================
+   MAP POPUP MODAL STYLING
+   ========================================================== */
+
+/* Locked region — world map marker */
+.w-locked {
+  opacity: 0.45;
+  filter: grayscale(0.8);
+}
+.w-locked:hover {
+  opacity: 0.55;
+}
+
+/* Locked location — region map marker */
+.l-locked {
+  opacity: 0.45;
+  filter: grayscale(0.8);
+}
+.l-locked:hover {
+  opacity: 0.55;
+}
+
+/* Locked region — legend sidebar */
+.ml-locked {
+  opacity: 0.4;
+  cursor: not-allowed !important;
+  filter: grayscale(0.8);
+}
+.ml-locked:hover {
+  background: transparent !important;
+  opacity: 0.5;
+}
+
+#map {
+  height: 500px;
+  width: 100%;
+}
+
+#twp-map-modal {
+  position: fixed;
+  inset: 0;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.twp-map-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  backdrop-filter: blur(4px);
+}
+
+.twp-map-window {
+  position: relative;
+  width: 90vw;
+  height: 85vh;
+  background: #0c140c;
+  border: 2px solid #c9a84c;
+  border-radius: 12px;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.9);
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.twp-map-close {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  background: transparent;
+  border: none;
+  color: #c9a84c;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.twp-map-close:hover {
+  color: #fff;
+}
+
+.twp-map-content {
+  flex: 1;
+  overflow: hidden;
+}
+
+.map-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem 1.2rem;
+  width: 100%;
+  max-width: 768px;
+  margin: 0.5rem auto 0;
+  padding: 0.4rem 0.2rem;
+  font-family: Cinzel, serif;
+  font-size: 0.75rem;
+  color: #a89070;
+  letter-spacing: 0.04em;
+}
+
+.map-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.map-legend-swatch {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+.map-open-btn {
+  background: #1a2a1a;
+  color: #ddc06a;
+  border: 1px solid #c9a84c;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: Cinzel, serif;
+}
+
+.map-open-btn:hover {
+  background: #243624;
+}
+
+
+
+
+polygon.svg_obj_map {
+	fill: transparent;
+	stroke: #4dd9c0;
+	stroke-width: 2;
+	transition: all 0.3s ease;
+}
+
+polygon.svg_obj_map:hover {
+	fill: rgba(77, 217, 192, 0.25);
+	filter: drop-shadow(0 0 8px #4dd9c0);
+	cursor: url('images/game/pointer.png') 2 2, pointer;
+}
+
+polygon.svg_obj_map.active {
+	fill: rgba(77, 217, 192, 0.5);
+	filter: drop-shadow(0 0 12px #4dd9c0);
+}
+
+
+
+polygon.svg_person_map {
+	fill: transparent;
+	stroke: #c084fc;
+	stroke-width: 2;
+	transition: all 0.3s ease;
+}
+
+polygon.svg_person_map:hover {
+	fill: rgba(192, 132, 252, 0.25);
+	filter: drop-shadow(0 0 8px #c084fc);
+	cursor: url('images/game/pointer.png') 2 2, pointer;
+}
+
+polygon.svg_person_map.active {
+	fill: rgba(192, 132, 252, 0.5);
+	filter: drop-shadow(0 0 12px #c084fc);
+}
+
+
+
+/* Main objective polygons — amber/orange */
+polygon.svg_main_map {
+	fill: transparent;
+	stroke: #fb923c;
+	stroke-width: 2.5;
+	transition: all 0.3s ease;
+}
+
+polygon.svg_main_map:hover {
+	fill: rgba(251, 146, 60, 0.25);
+	filter: drop-shadow(0 0 10px #fb923c);
+	cursor: url('images/game/pointer.png') 2 2, pointer;
+}
+
+polygon.svg_main_map.active {
+	fill: rgba(251, 146, 60, 0.5);
+	filter: drop-shadow(0 0 14px #fb923c);
+}
+
+
+
+/* Side quest polygons — sky blue */
+polygon.svg_side_map {
+	fill: transparent;
+	stroke: #60a5fa;
+	stroke-width: 2;
+	transition: all 0.3s ease;
+}
+
+polygon.svg_side_map:hover {
+	fill: rgba(96, 165, 250, 0.25);
+	filter: drop-shadow(0 0 8px #60a5fa);
+	cursor: url('images/game/pointer.png') 2 2, pointer;
+}
+
+polygon.svg_side_map.active {
+	fill: rgba(96, 165, 250, 0.5);
+	filter: drop-shadow(0 0 12px #60a5fa);
+}
