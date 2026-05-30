@@ -19,6 +19,8 @@ How can you tell from here?
 The rhythm. Listen. Crowd goes quiet   that's the grip. Low murmur   that's the push. Then either cheering or groaning   someone wins or loses. It's been cycling for the last twenty minutes. Someone's beating everyone.
 <</dialog>>
 
+<img src="img/scene/arm_wrestler/1.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
 I listened. She was right. The pattern was there, rhythmic as breathing   silence, murmur, eruption and the eruptions were mostly groans, which meant the same person was winning, which meant someone at that table had arms strong enough to beat every challenger in a working-class tavern, which was saying something because the Broken Antler's clientele was built from dock labor and disappointment, both of which produced considerable forearm development.
 
 <<dialog "Mira">>
@@ -94,6 +96,7 @@ Yet here I am. Following you toward another bad decision. There's probably a les
 
 :: arm_wrestler_brokk [broken_antler quest]
 <<set $arm_wrestler_done = true>>
+<<removesidequest "arm_wrestler">>
 The crowd parted for me   the way crowds always parted for a man with a sword on his hip, even in a place where swords were common currency. Not out of respect. Out of the instinct that said this one might be next and I want a good viewing angle and then I saw Brokk.
 
 He sat at the corner table like a mountain sits in a valley   immovably, inevitably, with the casual certainty of a geological feature that had been there since before the surrounding landscape was relevant. Early twenties. Built like someone had taken a normal human body and hired a second crew to add more of everything. Arms like bridge cables. Shoulders that could have supported a load-bearing wall. A neck that started at his jaw and ended at his collarbones without the usual courtesy of narrowing in between. His hands   gods, his hands   were the size of dinner plates, each finger thick as a sausage, the palms calloused to the texture of old leather.
@@ -103,6 +106,8 @@ He was a blacksmith's apprentice. I didn't need to be told   the burns on his fo
 He'd beaten four challengers. They sat around the table in various states of defeat   nursing ales, flexing sore wrists, wearing the particular expression of men whose masculinity had been readjusted by a man half their age. The pot on the table had grown to eight silver in mixed coin, contributed by the losers and augmented by side bets from the crowd.
 
 Brokk saw me looking. He grinned. Not a smirk   a genuine, uncomplicated grin. The grin of a young man who was very good at one specific thing and took pure, uncynical pleasure in being good at it. No malice. No posturing. Just the simple delight of a body doing what it was built for.
+
+<img src="img/scene/arm_wrestler/2.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 <<dialog "Brokk">>
 You look like you've got arms under that tunic. Want to test them?
@@ -213,6 +218,8 @@ I counted out two silver from my belt pouch and placed them on the table. They j
 
 Brokk planted his elbow. The motion was practiced   a smooth, mechanical deployment of arm and shoulder onto the table surface, the elbow finding its divot in the wood (he'd been sitting here long enough to wear a depression), the forearm rising vertical, the hand opening like a gate. I planted mine.
 
+<img src="img/scene/arm_wrestler/3.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
 <<dialog "Brokk">>
 Good arm. Sword arm?
 <</dialog>>
@@ -232,6 +239,8 @@ Swords or steel?
 <<dialog "Brokk">>
 Both. Though the steel complains less.
 <</dialog>>
+
+<img src="img/scene/arm_wrestler/4.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 I gripped his hand. The contact was immediate and informative, the way shaking a stranger's hand always tells you something but this told you everything. His palm was a slab   callused to the texture of boiled leather, hot, dry, the skin so thick over the knuckles that it barely registered pressure. His fingers closed around mine like iron bands   not squeezing, not yet, but present. The grip of a man whose hands had been closing around the handles of heavy things since before his voice broke. He could crush walnuts in that grip. He could crush bone.
 
@@ -285,6 +294,8 @@ Then, slowly   inch by inch, tendon by screaming tendon   I pushed him back. His
 
 Cheering. Shouting. Someone banging a tankard against the table in rhythmic celebration. The particular, unrestrained roar of a working-class crowd watching an underdog win   because that's what I was, apparently, the lean swordsman against the blacksmith mountain, and the lean swordsman had planted the mountain's hand in the wood and the crowd was drunk enough and happy enough to treat it like a minor miracle.
 
+<img src="img/scene/arm_wrestler/5.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
 I released Brokk's hand. My own was shaking   a deep, bone-level tremor that started in the fingers and ran all the way up to the shoulder, the aftershock of muscles that had been asked for everything and had delivered and were now presenting the bill. My forearm felt like someone had run it through a mangle. My shoulder was making clicking sounds. Small ones. Promising to become bigger ones.
 
 Brokk leaned back in his chair. He looked at his own hand   the hand that had been driven into the table   with the expression of a man examining an old friend who'd just done something unexpected. Then he laughed.
@@ -320,6 +331,8 @@ Desperation, mostly.
 <<dialog "Brokk">>
 Best fuel there is. Let me buy you an ale. Consider it the loser's tax.
 <</dialog>>
+
+<img src="img/scene/arm_wrestler/6.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 He signaled the barmaid   Tess, the freckled one, who arrived with two tankards and a grin that said she'd been watching the whole thing and approved   and we drank. Bad ale. The worst ale. But it tasted different when someone else was buying it. Everything tasted different when you had eight silver in your pocket and a crowd of strangers treating you like you'd done something worth cheering for.
 
@@ -367,6 +380,8 @@ I just drank my ale and enjoyed the eight silver and the company of a man who ma
 Mira was in the booth when I got back. She'd watched the whole thing   of course she had. Archer's eyes. She'd probably tracked every muscle twitch, every angle shift, every moment where the match could have gone either way.
 
 She was picking her teeth with an arrowhead. The broadhead tip clicking against her canines. The sound that meant she was thinking about something and wasn't ready to share it.
+
+<img src="img/scene/arm_wrestler/7.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 I dropped the eight silver on the table between us. They rang against the wood   the sound of not being broke anymore, at least for a week.
 
@@ -477,12 +492,12 @@ I bought her two. We sat in the corner booth of the worst tavern in Valdmere and
 Her foot found mine under the table. Pressed against it. Stayed. Neither of us mentioned it.
 
 [[Drink ale|broken_antler]]
-/ > [END   OPTION A: CHALLENGE BROKK]
+/* / > [END   OPTION A: CHALLENGE BROKK]
 >
 > Coin acquired: 8 silver + change
 > Relationship beat: Mira watches Aldric's body at peak performance; catalogs his strength for what becomes devastating foreshadowing. "Your shoulders were wide."
 > Thematic beat: Brokk's philosophy   "grip hard while you can"   becomes a quiet motif through the transformation.
-> Brokk: Potential recurring NPC. Friendly, respects Aldric. When Aldric returns mid-transformation, Brokk might be the first person in Valdmere to recognize the eyes and the smile in a completely different body. /
+> Brokk: Potential recurring NPC. Friendly, respects Aldric. When Aldric returns mid-transformation, Brokk might be the first person in Valdmere to recognize the eyes and the smile in a completely different body. / */
 
 
 
@@ -504,6 +519,8 @@ He turned to the crowd, looking for the next challenger. The noise swelled again
 Smart.
 <</dialog>>
 
+<img src="img/scene/arm_wrestler/8.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
 <<dialog "Aldric">>
 Boring.
 <</dialog>>
@@ -517,11 +534,11 @@ She slid my tankard across the table. The terrible ale. The few coppers still in
 I drank. The ale tasted like regret. But regret was cheaper than a dislocated shoulder, and we had a job to do.
 
 [[Drink Ale|broken_antler]]
-/ > [END   OPTION B: DECLINE]
+/* / > [END   OPTION B: DECLINE]
 >
 > No coin gained. No relationship beat with Brokk.
 > Mira approves the pragmatic choice. The eight silver stays unclaimed.
-> Thematic note: The road not taken. Aldric chose preservation over performance. Later, when the transformation makes such contests impossible, the memory of the choice he didn't make carries a different weight   not regret for losing, but regret for not playing. /
+> Thematic note: The road not taken. Aldric chose preservation over performance. Later, when the transformation makes such contests impossible, the memory of the choice he didn't make carries a different weight   not regret for losing, but regret for not playing. / */
 
 
 :: arm_wrestler_send_mira [broken_antler quest]
@@ -545,6 +562,8 @@ Half-elf muscle density. Pound for pound, you're stronger than anyone in this ro
 <<dialog "Mira">>
 I am stronger than him. That doesn't mean I want to prove it in a tavern full of drunk men who'll either leer at me or cry about it afterward.
 <</dialog>>
+
+<img src="img/scene/arm_wrestler/9.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 <<dialog "Aldric">>
 Eight silver.
@@ -582,6 +601,8 @@ Brokk looked at her hand. Looked at his. The size difference was comic   her fin
 
 He gripped. She gripped back. His eyebrows lifted   a fraction, barely perceptible, the first data point registering. Her grip wasn't what he'd expected. The fingers that looked slender had closed around his with a pressure that was... significant.
 
+<img src="img/scene/arm_wrestler/10.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
 <<dialog "Brokk">>
 Ready?
 <</dialog>>
@@ -606,6 +627,8 @@ He committed. Shoulder. Chest. The full rotational force that had driven four me
 
 Half-elf physiology. Leaner. Denser. Muscle fibers packed tighter, organized more efficiently, the evolutionary product of a species that had spent millennia in forests where mass was a liability and strength-to-weight ratio was survival. What Brokk was pushing against wasn't a woman's arm. It was a mechanism. A system. A cable-and-pulley arrangement wrapped in copper-skinned packaging that looked fragile and was anything but.
 
+<img src="img/scene/arm_wrestler/11.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
 The crowd had stopped laughing. The amusement had drained out of the room like water from a cracked barrel, replaced by something else   the dawning, uncomfortable recognition that something unexpected was happening. The woman was holding. The woman was holding. Against Brokk. Against the man who'd beaten four challengers without breaking a sweat. Then Mira fired.
 
 The push came from her back. From the lats   the broad, flat muscles that archers developed over decades of drawing bowstrings, the muscles that most people didn't even know they had but that Mira had trained into weapons. The force traveled from her spine through her shoulder through her arm through her hand and into Brokk's wrist with the clean, decisive transfer of a bowstring releasing. His knuckles hit the table in under ten seconds.
@@ -617,6 +640,8 @@ Cheering. Howling. Someone banging a tankard on a table so hard that the tankard
 Brokk stared at his own hand. Turned it over. Examined the knuckles, the palm, the wrist, as if checking for structural damage that might explain how a woman a foot shorter and a hundred pounds lighter had just planted it in the wood. He found no explanation. His hand was intact. His pride was adjusting. Then he laughed.
 
 The same room-filling laugh as before   genuine, delighted, without a trace of bitterness. The laugh of a man whose ego was robust enough to survive defeat and whose spirit was generous enough to appreciate the force that had inflicted it.
+
+<img src="img/scene/arm_wrestler/12.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 <<dialog "Brokk">>
 HA! By the forge   what are you?
@@ -669,6 +694,8 @@ You beat a blacksmith in under ten seconds.
 <<dialog "Mira">>
 Eight. I counted.
 <</dialog>>
+
+<img src="img/scene/arm_wrestler/13.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 She picked up her arrowhead. Started clicking it against her canine. The rhythm steady, confident, the metronome of a woman who'd just proven something and was already moving on to thinking about the next thing.
 
@@ -730,9 +757,9 @@ My foot found hers under the table. Pressed. She pressed back.
 
 [[Drink ale|broken_antler]]
 
-/ > [END   OPTION C: SEND MIRA]
+/* / > [END   OPTION C: SEND MIRA]
 >
 > Coin acquired: 10 silver (original 8 pot + returned 2 buy-in)
 > Relationship beat: Mira reveals hidden capability. Aldric watches and feels the first unnamed stirrings of something that isn't quite envy   it's the distance between her bodily certainty and his slowly eroding trust in his own.
 > Thematic beat: Being underestimated. A woman's strength hidden in a body people dismiss. This becomes the central survival skill of Aldric's mid-transformation existence   and Mira just showed him the playbook.
-> Brokk: Friendly NPC. Remembers the half-elf who beat him. Potential ally mid-game. /
+> Brokk: Friendly NPC. Remembers the half-elf who beat him. Potential ally mid-game. / */

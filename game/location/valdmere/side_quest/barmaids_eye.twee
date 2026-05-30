@@ -5,6 +5,7 @@
 
 :: barmaid [broken_antler quest]
 <<set $barmaid_done = true>>
+<<removesidequest "barmaids_eye">>
 I noticed her because she noticed me first. Not in the way Lenna had noticed me   the professional assessment of a working girl identifying a potential customer. This was different. The barmaid behind the bar was looking at me the way Mira looked at a trail   studying, reading, filing details into a system I wasn't privy to.
 
 She was young. Early twenties, maybe. Freckled   a dense constellation of copper-brown spots across her nose and cheekbones that made her look like someone had flicked a paintbrush at her face. Hair tied back in a knot that was losing the fight against a few rebellious strands, dark-blonde, the color of old straw. A round face, open, the kind of face that made you think she'd be easy to read until you looked at her eyes and realized the eyes were doing the reading.
@@ -149,6 +150,7 @@ She'd be the first stranger to say it out loud. The word that would sit in my ch
 
 :: barmaid_2 [broken_antler quest]
 <<set $barmaid_2 = true>>
+<<removesidequest "barmaids_eye_2">>
 The Broken Antler's ale hadn't improved. That was the one constant in an increasingly inconstant world   no matter what else changed, the ale at the Antler would always taste like someone had filtered dishwater through an old sock and charged you three coppers for the indignity.
 
 I was in the corner booth. Mira was across from me, eating something the menu described as stew and reality described as a warm brown mystery. The common room was in its usual state   half-full, all-miserable, the evening crowd filtering in with the slow determination of people who had nowhere better to be. Tess was behind the bar.
@@ -187,9 +189,7 @@ She laughed. The same quick, warm laugh that crinkled the freckles. But undernea
 Whatever it is, keep doing it. You're almost pretty.
 <</dialog>>
 
-She tapped the table twice   the same friendly punctuation as before   and moved to the next customer.
-
-Pretty.
+She tapped the table twice   the same friendly punctuation as before   and moved to the next customer. Pretty.
 
 The word sat in my chest like a dropped coin sinking through deep water. Slow. Heavy. Reaching places that hadn't been touched. Places I didn't know existed. Places that the potion was building or uncovering or both, somewhere underneath the muscle and the stubble and the identity I'd worn for twenty-six years without questioning its fit.
 
@@ -323,13 +323,11 @@ I drank my terrible ale. I stopped looking at my reflection in the tankard   or 
 
 Across the bar, Tess was wiping another tankard. Circles. Steady. Her eyes sweeping the room, reading faces, filing truths.
 
-She caught my gaze and smiled. The quick, freckled smile. Then she moved on.
+She caught my gaze and smiled. The quick, freckled smile. Then she moved on. Pretty. The coin was still sinking.
 
-Pretty.
+[[Drink Ale|broken_antler]]
 
-The coin was still sinking.
-
-> [END   THE BARMAID'S EYE]
+/* > [END   THE BARMAID'S EYE]
 >
 > Scene 1 (Day -2): Tess established as human lie detector. Reads Aldric's scars, financial status, and emotional state in seconds. Catalogs his baseline face and body.
 > Scene 2 (Day 0): Tess notices changes she can't name. Says "pretty"   the first external, unprompted confirmation from a stranger that something visible is happening. Forces the Mira confrontation where she demands Aldric stop pretending.
@@ -338,4 +336,4 @@ The coin was still sinking.
 >
 > Relationship beat: Mira breaks through Aldric's denial. "I've memorized your body and the body I'm looking at right now isn't the body I memorized." The pretending ends here. What replaces it is rawer and harder and more honest and infinitely more frightening.
 >
-> Lenna variant (Branch A only): If Lenna is present in the common room, an optional interaction occurs where she notices the jaw change   "Your jaw, too. Something about your jaw."   from the context of having been physically intimate with Aldric two days prior. Her observation is more specifically physical because her knowledge of his body is more recent and more tactile.
+> Lenna variant (Branch A only): If Lenna is present in the common room, an optional interaction occurs where she notices the jaw change   "Your jaw, too. Something about your jaw."   from the context of having been physically intimate with Aldric two days prior. Her observation is more specifically physical because her knowledge of his body is more recent and more tactile. */

@@ -28,7 +28,7 @@ The Long Hunt
 }());
 
 :: StoryMenu
-<a href="https://www.patreon.com/c/xxx" target="_blank">Patreon</a>
+<a href="https://www.patreon.com/iamvile26" target="_blank">Patreon</a>
 
 :: StoryInit
 <<set $mcRegion   = "valdmere">>      /* which region — shows dot on world map */

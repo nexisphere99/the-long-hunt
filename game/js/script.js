@@ -206,11 +206,11 @@
           '<span class="menu-label">Characters</span>' +
           '<span class="menu-hint">Companion info</span>' +
         '</button>' +
-        '<button class="popup-menu-item" id="pm-journal" aria-label="Journal">' +
-          '<span class="menu-icon">📖</span>' +
-          '<span class="menu-label">Journal</span>' +
-          '<span class="menu-hint">Quest log</span>' +
-        '</button>' +
+        '<a class="popup-menu-item" id="pm-patreon" href="https://www.patreon.com/iamvile26" target="_blank" rel="noopener noreferrer" aria-label="Patreon">' +
+          '<span class="menu-icon">🎁</span>' +
+          '<span class="menu-label">Patreon</span>' +
+          '<span class="menu-hint">Support the game</span>' +
+        '</a>' +
         '<button class="popup-menu-item" id="pm-map" aria-label="Map">' +
           '<span class="menu-icon">🗺</span>' +
           '<span class="menu-label">Map</span>' +
@@ -341,13 +341,7 @@
         else showToast('No Characters page defined', 'danger');
       });
   
-      // Journal — go to passage
-      var journal = document.getElementById('pm-journal');
-      if (journal) journal.addEventListener('click', function () {
-        closePopup();
-        if (Story.has('Journal')) Engine.play('Journal');
-        else showToast('No Journal page defined', 'danger');
-      });
+      // Patreon — opens in new tab via <a> href natively, no click handler needed
   
       // Map — open the world map popup
       var map = document.getElementById('pm-map');

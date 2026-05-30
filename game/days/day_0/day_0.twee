@@ -2,11 +2,14 @@
 :: day_3_1
 <<removeobjective "day_2">>
 <<set $barmaid_2 = false>>
+<<addsidequest "barmaids_eye_2" "The Tess's Eye" "See what Tess notices about the changes">>
 I woke up feeling wrong. Not pain-wrong. That was the strange part. I'd gone to sleep with twelve stitches in my calf and an ankle that looked like someone had inflated it with a bellows, and both of those things should have been screaming at me the moment consciousness arrived. But the pain was muted. Distant. Like hearing thunder from the far side of a mountain range   present but not threatening, a background hum rather than the foreground roar I'd been bracing for.
 
 I lay still for a moment, staring at the ceiling. The water stain shaped like a horse was still there. The cracks in the plaster were still there. Morning light filtered through the shutters in thin golden lines, painting the wall in stripes the color of watered honey. Normal. Familiar. The same ceiling I'd memorized over a week of sleeping in this room.
 
 Everything was the same. Except me.
+
+<img src="img/scene/day_3/1.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 My skin felt different. Not damaged, not injured   recalibrated. The blanket against my arms was sharper than yesterday. Not rougher   sharper. Like someone had turned up the resolution on every nerve ending in my body. The coarse wool weave that I'd been sleeping under for days without noticing was suddenly a landscape of individual fibers, each one pressing against my skin with its own distinct texture and temperature. The linen of my undershirt against my chest was a whisper where it used to be silence   fabric I'd never been aware of was now making itself known with every breath.
 
@@ -19,6 +22,8 @@ I sat up. Swung my legs out of bed   carefully, bracing for the ankle to punish 
 It hurt. But manageable. The poultice Ysolde had packed around it had dried overnight into a stiff, plaster-like shell that actually supported the joint, compressing the swelling and stabilizing the ligament. The calf wound throbbed under its linen bandages, but the angry heat of incipient infection   that specific, sickly warmth that meant rotten wood was poisoning your blood   was gone. Whatever was in that green vial, it was doing its job.
 
 I stood. Tested the weight. The ankle complained but held. Good enough. I hobbled to the mirror.
+
+<img src="img/scene/day_3/2.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 The small polished tin on the wall   cheap, warped, the kind of mirror that showed you an approximation of your face rather than the real thing. I leaned in. Examined myself in the gray morning light.
 
@@ -41,7 +46,7 @@ Imagination. Exhaustion. That vial.
 I said it out loud, to the mirror, to the empty room, to whatever part of my brain was raising alarms. After-effects. Ysolde's compound was a powerful healing agent   that much was obvious from the speed of the wound recovery. Heightened sensitivity was a known side effect of strong alchemical treatments. The smoother skin was probably the same mechanism   whatever was accelerating the healing in my calf was also doing something to my surface tissue. Logical. Rational. Nothing to worry about.
 
 I turned away from the mirror. Got dressed quietly. Trousers   they fit the same. Tunic   it fit the same. Belt   buckled at the usual notch. Boots   the right one went on with a wince as it pressed against the swollen ankle, but it went on.
-<<addobjective "day_3" "Deal with Grent and the Consortium">>
+<<addobjective "day_3" "Deal with Grent and the Consortium at Dockside">>
 [[Go downstairs|day_3_2_a]]
 [[Wait till She wakes...|day_3_2_b]]
 
@@ -66,6 +71,8 @@ Better as in 'I can hobble to the privy without screaming' or better as in 'that
 <<dialog "Aldric">>
 The second one. The ankle is weight-bearing. The calf wound isn't hot anymore. She stitched me up twelve hours ago and it feels like it's been healing for days.
 <</dialog>>
+
+<img src="img/scene/day_3/3.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 Mira sat up. Looked at me standing there   dressed, upright, weight on both feet. Her expression went through several iterations: surprise, assessment, cautious optimism, and then the particular narrowing of her eyes that meant she was filing something under "suspicious but useful."
 
@@ -135,6 +142,8 @@ She kissed me. Slow this time   not the pre-job urgency of yesterday, not the fo
 I want to feel you.
 <</dialog>>
 
+<img src="img/scene/day_3/4.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
 She undressed us both. Carefully   mindful of the bandages, the swollen ankle, the stitches. My tunic came off with gentle hands, not the urgent pulling of their usual encounters. My trousers eased down over the injury. Her own clothes removed with the economical grace that was simply how Mira moved   no wasted motion, even in vulnerability.
 
 She positioned herself on top. Straddling my hips, her thighs warm against mine, her weight distributed to keep pressure off the injured leg. My cock stiffened against her   the proximity, the warmth of her skin against mine, the way she was looking at me with those half-lidded amber eyes. Even through the general strangeness of the morning   the heightened sensitivity, the too-sharp textures   the familiar circuit of desire fired on schedule. She was warm and lean and naked above me and my body knew what that meant.
@@ -166,7 +175,7 @@ Then Mira sat up, pulled the sheet around her shoulders, and became a different 
 <<dialog "Mira">>
 Right. We need a plan.
 <</dialog>>
-<<addobjective "day_3" "Deal with Grent and the Consortium">>
+<<addobjective "day_3" "Deal with Grent and the Consortium at Dockside">>
 [[Make a plan|day_3_voss]]
 
 :: day_3_2_a
@@ -176,6 +185,8 @@ I dressed and went downstairs alone. Let Mira sleep   she'd earned it, and one o
 The common room was quiet. Early morning hush   just the innkeeper behind the bar, his face buried in the perpetual ledger, and a stable hand eating porridge at a corner table with the focused determination of a man fueling up for work. The orange cat was on the bar, cleaning its paw. The old man in the far corner was, as always, asleep.
 
 I ordered breakfast. Two coppers. Bread, hard cheese, weak ale. The bread was yesterday's bread, which meant it was actually the day before yesterday's bread with a fresh opinion of itself. The cheese had the personality of a brick. The ale tasted like someone had described the concept of ale to a glass of water and hoped for the best.
+
+<img src="img/scene/day_3/5.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 I ate in the corner booth. Our booth. The one with the high backs and the sightlines and the comfortable familiarity of a place I'd sat in every day for a week.
 
@@ -272,6 +283,8 @@ I don't snore.
 You snore like a bear with a sinus infection. It's one of your less charming qualities and it gave me two uninterrupted hours to reconstruct the mine layout from memory and calculate what that information is worth to the Consortium. The answer is: more than twenty-two silver.
 <</dialog>>
 
+<img src="img/scene/day_3/6.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
 She folded the map. Tucked it back into her vest.
 
 <<dialog "Mira">>
@@ -324,6 +337,8 @@ Inside, the warehouse was organized chaos   a phrase I'd learned in Thornwall an
 
 A clerk at a desk near the entrance looked up with the practiced expression of a man who sorted visitors into categories: important, unimportant, and actively annoying. We apparently fell into the third category.
 
+<img src="img/scene/day_3/7.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
 <<dialog "Clerk">>
 Business?
 <</dialog>>
@@ -369,6 +384,8 @@ She didn't look up when we entered. Her quill was moving   a steady, metronomic 
 We stood. Waiting. The silence was strategic   Voss's silence, deployed the way Mira deployed arrows. With patience, precision, and the absolute confidence that the target would present itself if she waited long enough.
 
 She finished the column. Set down the quill. Opened a specific ledger to a specific page without searching   the page was marked with a red ribbon, which was either a filing system or a warning.
+
+<img src="img/scene/day_3/8.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 <<dialog "Voss">>
 Aldric Vane and companion. Greymire mine recovery contract. Twenty silver advance disbursed. Zero cargo recovered. Zero crates delivered. Outstanding balance: twenty silver, plus two silver administrative fee for contract non-completion. Twenty-two silver total.
@@ -504,9 +521,9 @@ The advance repayment is suspended pending contract completion. The intelligence
 
 She picked up her quill. The dismissal was absolute   not a gesture, not a word, just the resumption of work, which communicated more clearly than any spoken farewell that we were no longer the most interesting thing in her immediate environment. We had been processed. Filed. Categorized. The debt had a plan attached to it now, and Voss had moved on to the next column of figures the way a river moves past a stone it's already worn smooth.
 
-We left.
+<img src="img/scene/day_3/9.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
-On the stairs, Mira exhaled   a long, controlled breath, the release of tension she'd been holding since we walked through the warehouse door. She leaned against the stairwell wall, closed her eyes, and tipped her head back.
+We left. On the stairs, Mira exhaled   a long, controlled breath, the release of tension she'd been holding since we walked through the warehouse door. She leaned against the stairwell wall, closed her eyes, and tipped her head back.
 
 <<dialog "Mira">>
 That could have gone worse.
@@ -597,6 +614,8 @@ She let the thought settle. We kept walking. The Broken Antler appeared at the e
 We went inside. Ordered ale. Sat in our booth and waited for Grent. Finally he came. He filled the doorframe the way a cork fills a bottle. Oilskin cloak dripping, scar-tissue face arranged in the expression of a man who'd come to collect and wasn't in the mood for conversation. His small eyes found us in the corner booth with the targeting speed of someone who'd been looking for exactly two broke mercenaries and had found them precisely where broke mercenaries tended to sit.
 
 He crossed the common room in four strides that shook the floorboards and sat down across from us without invitation. Again. The same deliberate placement of his bulk. The same territorial claiming of space.
+
+<img src="img/scene/day_3/10.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 <<dialog "Grent">>
 You hit the mine.
@@ -720,6 +739,8 @@ This was three or four days of healing compressed into less than twenty-four hou
 
 I touched the area around the wound. Gentle pressure. No heat. No tenderness. No sign of the infection that had been setting in when Ysolde extracted those eight splinters from my muscle last night. Whatever her compound was doing, it was doing it with the focused efficiency of an entire temple of healers working in shifts.
 
+<img src="img/scene/day_3/11.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
 I rewrapped the bandage and sat by the window. The market district was busy below   a normal day in Valdmere. Carts rattling over cobblestones. Merchants adjusting their stall displays. A group of children chasing a spotted dog through the crowd, their laughter high and sharp and uncomplicated by the kind of problems that adults accumulated like barnacles on a hull.
 
 Normal life. The kind of life that cost money and required stability and assumed a body that stayed the same from one day to the next.
@@ -748,6 +769,8 @@ Weight loss. I'd bled. I'd barely eaten. Blood loss and reduced appetite equaled
 
 I rubbed my jaw. The stubble was there   rough under my fingers, the scratch of three days' growth. But one spot along my upper jaw, just below the sideburn, was smooth. Not smooth like a missed spot shaving. Smooth like nothing was growing there. I pressed, feeling for the follicles, the tiny bumps that indicated hair would return. Nothing. Just skin, soft and even.
 
+<img src="img/scene/day_3/12.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
 I pulled up my tunic and looked at my chest. The pectorals were the same   thick, hard, the flat planes of muscle that came from years of sword work. The dark hair was there, concentrated in the center with a trail running down my midline toward my navel. But was it thinner? I tried to remember what my chest hair looked like yesterday, the day before, last week. You don't catalog your own chest hair. You don't pay attention to the specific density of growth on your pectorals unless someone gives you a reason to.
 
 No one had given me a reason. Yet. I dropped the tunic. Turned to the mirror. Leaned close.
@@ -755,6 +778,8 @@ No one had given me a reason. Yet. I dropped the tunic. Turned to the mirror. Le
 My face. The same face. Square jaw, green eyes, scar through the eyebrow. The same face I'd worn for twenty-six years, the face that looked back at me from every polished shield and every still pond and every lover's eyes.
 
 Was it softer?
+
+<img src="img/scene/day_3/13.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 I pressed my fingers against my cheekbone. Against my jaw. Against the ridge of my brow. The bones were the same. The structure was identical. But the skin over them   smoother. The weathered, sun-roughened texture that had been my face's defining characteristic for years was... diminished. Not gone. Just less. Like the difference between old parchment and new parchment   same material, different miles.
 
@@ -776,6 +801,8 @@ The common room was drowsy. Afternoon light slanting through the grimy windows, 
 Not working   afternoon off, casual clothes. The linen blouse buttoned to the collar, hair pulled back in the practical knot. No bodice, no presentation. The daylight version of her, which was simpler and younger and somehow more herself than the candlelit version had been.
 
 She was eating bread with honey and drinking tea, and she spotted my limp before she spotted my face.
+
+<img src="img/scene/day_3/14.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 <<dialog "Lenna">>
 Gods, Aldric. What happened to your leg?
@@ -889,6 +916,8 @@ A jolt of sensation shot from the nipple straight through my chest and into my s
 What the fuck.
 <</dialog>>
 
+<img src="img/scene/day_3/15.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
 I said it to the empty room. The room didn't answer. I touched the other nipple. Deliberately this time. Just a fingertip, the lightest possible pressure.
 
 The same jolt. Electric. Immediate. A sensation that traveled from the nipple through internal pathways I didn't know I had, connecting to places in my body that had never been connected to my chest before. My stomach clenched. My groin tightened. My breathing went shallow.
@@ -908,6 +937,8 @@ They had to be temporary. I sat by the window. Watched the street. Waited for Mi
 The afternoon shadows were lengthening across the market district when I heard her boots on the stairs. The particular rhythm of Mira's walk   quick, precise, two steps at a time   was as familiar as my own heartbeat. I knew before the door opened whether she was carrying good news or bad by the speed of her approach. Tonight she was moving at "mixed news" pace   neither the brisk efficiency of a problem solved nor the measured deliberation of a disaster in progress.
 
 The door opened. She came in carrying a canvas bag of supplies and the expression of a woman who had negotiated hard, won most of what she wanted, and was tired enough to acknowledge it.
+
+<img src="img/scene/day_3/16.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 <<dialog "Mira">>
 Good news and complicated news. Which do you want first?
@@ -1014,6 +1045,8 @@ Three days until we leave. I need to be mobile by then.
 <<dialog "Mira">>
 How's the leg?
 <</dialog>>
+
+<img src="img/scene/day_3/17.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 I stood. Walked across the room. Walked back. The ankle was sore but stable   the kind of ache you could ignore on a march if you wrapped it right and didn't think about it too hard. The calf wound was a memory, the stitches sitting in tissue that had healed around them with impossible speed.
 
@@ -1190,6 +1223,8 @@ The common room was busy. Rest-day eve   the informal holiday that dock workers 
 
 We took our corner booth. The usual position. Backs to the wall. Eyes on the door. The comfortable paranoia of two people who'd spent too long expecting trouble to pretend they weren't watching for it.
 
+<img src="img/scene/day_3/18.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
+
 <<dialog "Mira">>
 Normal. This is normal. We're two sellswords eating dinner in a tavern. Nothing about this is unusual.
 <</dialog>>
@@ -1298,6 +1333,8 @@ She squeezed my thigh once and let the subject go. But her hand stayed where it 
 We went to bed. The room was dark, the shutters closed against the evening noise of the common room below. The sounds of the tavern filtered up through the floorboards   muffled laughter, the bard's persistent assault on melody, the occasional bang of a tankard on wood. Familiar sounds. Comforting in their ordinariness.
 
 Mira undressed with her usual efficiency and slid under the blanket. She curled against my back   the position we'd settled into over the weeks, her arm over my waist, her knees fitting behind mine, her breath warm on the back of my neck. Familiar. Comfortable. The physical grammar of two bodies that had learned each other's language.
+
+<img src="img/scene/day_3/19.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
 
 <<dialog "Mira">>
 Your skin feels different.
