@@ -76,7 +76,7 @@ Tell me.
 
 
 :: deserter_the_reason [east_gate quest]
-
+<<set $deserter_start = true>>
 It came out in fragments. Not a narrative   a confession. The kind of story that doesn't flow because the teller keeps stopping to breathe, to swallow, to push past the places where the words have thorns.
 
 <<dialog "Tam">>

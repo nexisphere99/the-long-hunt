@@ -93,7 +93,7 @@ Yet here I am. Following you toward another bad decision. There's probably a les
 
 
 :: arm_wrestler_brokk [broken_antler quest]
-
+<<set $arm_wrestler_done = true>>
 The crowd parted for me   the way crowds always parted for a man with a sword on his hip, even in a place where swords were common currency. Not out of respect. Out of the instinct that said this one might be next and I want a good viewing angle and then I saw Brokk.
 
 He sat at the corner table like a mountain sits in a valley   immovably, inevitably, with the casual certainty of a geological feature that had been there since before the surrounding landscape was relevant. Early twenties. Built like someone had taken a normal human body and hired a second crew to add more of everything. Arms like bridge cables. Shoulders that could have supported a load-bearing wall. A neck that started at his jaw and ended at his collarbones without the usual courtesy of narrowing in between. His hands   gods, his hands   were the size of dinner plates, each finger thick as a sausage, the palms calloused to the texture of old leather.

@@ -1,6 +1,7 @@
 
 :: day_3_1
 <<removeobjective "day_2">>
+<<set $barmaid_2 = false>>
 I woke up feeling wrong. Not pain-wrong. That was the strange part. I'd gone to sleep with twelve stitches in my calf and an ankle that looked like someone had inflated it with a bellows, and both of those things should have been screaming at me the moment consciousness arrived. But the pain was muted. Distant. Like hearing thunder from the far side of a mountain range   present but not threatening, a background hum rather than the foreground roar I'd been bracing for.
 
 I lay still for a moment, staring at the ceiling. The water stain shaped like a horse was still there. The cracks in the plaster were still there. Morning light filtered through the shutters in thin golden lines, painting the wall in stripes the color of watered honey. Normal. Familiar. The same ceiling I'd memorized over a week of sleeping in this room.
