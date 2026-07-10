@@ -74,6 +74,10 @@
              points="464,432,556,460,681,420,678,404,537,373,462,387"
              class="svg_main_map"
              data-passage="day_3_8" />
+    <polygon id="day_4_6_1"
+             points="464,432,556,460,681,420,678,404,537,373,462,387"
+             class="svg_main_map"
+             data-passage="day_4_6_1" />
   </svg>
 </div>
 <div class="map-legend">
@@ -101,5 +105,6 @@
     if (State.variables.day_3_3) { var e = document.getElementById('day_3_3'); if (e) e.remove(); }
     if (State.variables.day_3_6_a) { var e = document.getElementById('day_3_6_a'); if (e) e.remove(); }
     if (State.variables.day_3_8) { var e = document.getElementById('day_3_8'); if (e) e.remove(); }
+    if (State.variables.day_4_6_1) { var e = document.getElementById('day_4_6_1'); if (e) e.remove(); }
   }, 0);
 >>

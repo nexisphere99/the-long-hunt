@@ -14,6 +14,14 @@
              points="650,711,648,308,822,313,825,704" 
              class="svg_main_map" 
              data-passage="day_2_18" />
+    <polygon id="day_4_3" 
+             points="1385,906,1364,911,1343,911,1340,925,1312,925,1305,942,1315,984,1329,1000,1371,996,1413,986,1435,984,1458,984,1451,1000,1470,1005,1494,1005,1491,1019,1534,1019,1531,989,1517,982,1522,951,1505,939,1477,927,1442,925,1413,930,1378,932" 
+             class="svg_main_map" 
+             data-passage="day_4_3" />
+    <polygon id="day_4_3a" 
+             points="650,711,648,308,822,313,825,704" 
+             class="svg_main_map" 
+             data-passage="day_4_3a" />
   </svg>
 </div>
 <div class="map-legend">
@@ -26,5 +34,7 @@
   setTimeout(function () {
     if (State.variables.day_2_17)        { var e = document.getElementById('day_2_17');        if (e) e.remove(); }
     if (State.variables.day_2_18)        { var e = document.getElementById('day_2_18');        if (e) e.remove(); }
+    if (State.variables.day_4_3)         { var e = document.getElementById('day_4_3');         if (e) e.remove(); }
+    if (State.variables.day_4_3a)        { var e = document.getElementById('day_4_3a');        if (e) e.remove(); }
   }, 0);
 >>

@@ -89,6 +89,7 @@ The handsome one?
 Put your trousers on, handsome. We're going downstairs before the bread gets any staler.
 <</dialog>>
 <<addobjective "day_1" "Go downstairs for Breakfast">>
+<<set $day_1_2 = false>>
 [[Go downstairs for Breakfast|broken_antler]]
 
 :: day_1_2
@@ -368,6 +369,7 @@ We walked back to the Broken Antler in silence. Sometimes saving two coppers fee
 
 :: day_1_4
 <<set $mcLocation = "broken_antler">>
+<<set $day_1_4 = true>>
 The common room was emptier in the afternoon. A few day-drinkers nursing their tankards like the ale might run away if they let go. The old man in the corner   the one who'd been there every single day since we arrived, asleep with a fat orange cat on his chest, both of them breathing in synchronized wheezes   was still there. Still asleep. The cat opened one eye when we walked in, judged us, and closed it again.
 
 I ordered two of the terrible house ales. Three coppers each. Six total. That left us three coppers to our name. Three coppers between two armed professionals who'd been traveling together for three months and had somehow managed to spend every coin they earned faster than they earned it.

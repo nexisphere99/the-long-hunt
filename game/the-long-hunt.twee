@@ -6,9 +6,10 @@ The Long Hunt
 	"ifid": "14B28384-716E-44B0-B2B2-CD047E9AAA18",
 	"format": "SugarCube",
 	"format-version": "2.37.3",
-	"start": "day_1_1", 
+	"start": "day_1_1",   
 	"zoom": 0.6
 }
+
 
 :: Story Stylesheet [stylesheet]
 
@@ -245,7 +246,12 @@ The Long Hunt
 
 <<set $mainObjectives = []>>
 <<set $sideQuests = []>>
-
+<<set $day_1_2 = true>>
+<<set $day_1_4 = true>>
+<<set $leave_table_1 = true>>
+<<set $check_card_1 = true>>
+<<set $grent_1 = true>>
+<<set $day_1_8_lenna = true>>
 <<set $day_1_3 = true>>
 <<set $day_2_4 = true>>
 <<set $day_2_5 = true>>
@@ -263,6 +269,11 @@ The Long Hunt
 <<set $day_3_voss_warehouse = true>>
 <<set $day_3_6_a = true>>
 <<set $day_3_8 = true>>
+<<set $day_4_3 = true>>
+<<set $day_4_3a = true>>
+<<set $day_4_6_1 = true>>
+<<set $day_4_7 = true>>
+<<set $day_4_8 = true>>
 <<addsidequest "deserter" "Deserter" "Find him at East Gate">>
 
 

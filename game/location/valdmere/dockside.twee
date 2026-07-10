@@ -10,6 +10,10 @@
              points="231,400,224,829,476,789,476,447" 
              class="svg_main_map" 
              data-passage="day_3_voss_warehouse" />
+    <polygon id="day_4_7" 
+             points="231,400,224,829,476,789,476,447" 
+             class="svg_main_map" 
+             data-passage="day_4_7" />
   </svg>
 </div>
 <div class="map-legend">
@@ -22,5 +26,6 @@
 <<run
   setTimeout(function () {
     if (State.variables.day_3_voss_warehouse)        { var e = document.getElementById('day_3_voss_warehouse');        if (e) e.remove(); }
+    if (State.variables.day_4_7)        { var e = document.getElementById('day_4_7');        if (e) e.remove(); }
   }, 0);
 >>
