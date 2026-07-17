@@ -1096,7 +1096,7 @@ Good enough.
 She hauled me up. One arm over her shoulder, most of my weight on her, my ruined leg dragging. We limped to the entrance. Past the sentry's rock   empty now, the alarm-blower long gone. Into the rain-washed air of the forest.
 
 I'd never loved the smell of rain more in my entire life.
-<<updateobjective "day_2" "Escape the mine and get back to Valdmere">>
+<<updateobjective "day_2" "Escape the mine and get back to Valdmere (Cristen District) to find a healer">>
 <<changestat "health"   -20>>
 <<changestat "energy"    -20>>
 [[Go Outside|day_2_16]]
