@@ -274,6 +274,7 @@ The Long Hunt
 <<set $day_4_6_1 = true>>
 <<set $day_4_7 = true>>
 <<set $day_4_8 = true>>
+<<set $day_5_3_1 = true>>
 <<addsidequest "deserter" "Deserter" "Find him at East Gate">>
 
 

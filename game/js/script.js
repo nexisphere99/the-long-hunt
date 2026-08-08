@@ -20,7 +20,7 @@
         left.innerHTML =
           '<div class="sidebar-header">' +
             '<div class="char-name" id="ls-char-name">The Long Hunt</div>' +
-            '<div class="char-title" id="ls-char-title">Chapter 1 - Version 0.0.3</div>' +
+            '<div class="char-title" id="ls-char-title">Chapter 1 - Version 0.0.4</div>' +
           '</div>' +
           '<div class="body-viewer">' +
             '<div class="body-img-wrap">' +
