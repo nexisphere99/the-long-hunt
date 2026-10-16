@@ -1,0 +1,1269 @@
+
+
+
+:: day_6_1
+<<nobr>>
+<<removeobjective "day_5">>
+<</nobr>>
+
+I woke to birdsong.
+
+Not the waking I'd grown accustomed to   the violent, full-system jolt of a body rebooting from some alchemical maintenance cycle, every nerve screaming its overnight report in a language I was still learning to translate. This was different. Gentler. A slow rise from the depths of sleep, pulled upward by the sound of a wood thrush somewhere in the canopy, its song threading through the predawn gray like stitching through cloth   in and out, in and out, each note placed with the delicate precision of a creature that had nothing to prove and all morning to prove it.
+
+My body was warm. The bedroll held the heat of a night's sleep, the fabric molded to a shape that was mine but not quite mine   the impression I'd made in the canvas slightly different from the impression I'd have made a week ago, the curve of hip pressing a deeper divot, the waist leaving less contact. Small differences. Measurable only by the body that made them.
+
+/* <img src="img/scene/day_6/1.png" style="width: 100%; max-width: 768px; margin: 0 auto;" /> */
+The tingling was there. Of course it was. The constant companion, the compound's signature hum, the low-level vibration that ran through my skin like the memory of a struck bell. But today it was concentrated differently. The chest was loudest   a warm, insistent pulsing behind the nipples that I'd learned to expect and still couldn't accept. The hips were a close second   that deep, grinding ache in the bone, the tectonic protest of a pelvis being told to widen, the same ache I'd felt for two days now, growing more familiar and more insistent in equal measure. And the face. Something in the face was different. I could feel it before I touched it   a quality of the skin, a tension in the tissue, a fullness in the lips that announced itself with every breath.
+
+Mira was on watch. I could hear her   not see her, not yet, the gray predawn reducing everything to shapes and suggestions   but hear her. The soft creak of the bow stave as she shifted it in her lap. The almost inaudible exhale that was her version of a sigh. The crunch of leaf litter under her boot as she adjusted her position against the tree she was using as a backrest. All of it rendered in higher definition than it should have been, my ears picking up frequencies and subtleties that a week ago would have been below my threshold.
+
+Hadden's snoring. The metronomic, mechanical rhythm that had soundtracked both nights on the road, steady and reliable as a water clock. The man slept like a man with a clear conscience and no imagination   deeply, completely, undisturbed by the mysteries of the natural world that consumed his waking hours. Pebble stood near him, one leg cocked in the mule's resting stance, her breath slow and visible in the cool air.
+
+I sat up. Slowly. The bedroll rustled and the sound was enormous in the predawn quiet, the fabric against my skin producing sensation that my body catalogued with its new, obsessive attention to detail. The weave of the canvas. The nap of the wool blanket. The temperature differential between the warm cocoon I was leaving and the cool air I was entering. My skin received all of it, processed all of it, filed it under categories that my nervous system was still inventing.
+
+I needed to check.
+
+No mirror. That was the reality of the road   no polished tin, no still water framed in a window, no reflective surface to show me the verdict. The stream was fifty paces through the trees. I'd heard it all night   the liquid murmur of water over stone, a sound my enhanced hearing tracked even through sleep, the way a mother hears her infant's breathing in the next room.
+
+I pulled on my boots. Left the sword   the camp was secure, Mira had it, and the stream was close. I moved through the trees in the gray light, bare-chested, wearing only trousers and unlaced boots, my tunic left in the bedroll because I couldn't face putting fabric against the nipples. Not yet. Not until I'd assessed what the night had done.
+
+The stream was narrow   a branch of the same creek we'd bathed in last night, running clear over smooth stones, the water dark in the predawn and moving with the unhurried confidence of water that knew where it was going. I knelt at the bank. The stones were cold under my knees, the damp earth cold under my shins, and the cold registered with a vividness that made me inhale sharply through my teeth.
+
+I cupped water in my hands. Splashed it on my face. The cold hit my skin and every pore contracted and the sensation was a full-body event   not just the face, but the chest, the arms, the scalp, the nipples tightening inside their puffy areolae with a sympathetic clench that sent a zing of sensation straight down through my sternum and into my belly.
+
+I held still. Let the water drip from my jaw. Then I raised my hands to my face and began the inventory.
+
+Touch. Without a mirror, touch was all I had, and touch was becoming more reliable than sight anyway. These fingers   smoother than yesterday, the calluses continuing their slow erosion, the pads of my fingertips increasingly sensitive to the terrain they surveyed   were the most accurate instruments available for mapping the geography of a face I was losing.
+
+My jaw. I started there, the way I'd started every morning since the compound. Fingertips pressed against the hinge, tracing the line of the mandible from ear to chin. The bone was   still there. Still solid. Still the heavy, squared structure of a male jaw. But the edges. The corners. The places where the bone angled and the places where muscle and skin stretched over it. Those were softer. Not dramatically   not the rounded, tapered jaw of a woman. But the blunt, aggressive squareness that had defined the lower half of my face since my teens was being sanded. Filed. The corners easing into something less angular, less immediately and unambiguously male, the geometry migrating from a square toward   not a curve. Not yet. But a rectangle with rounded corners. A softening that my fingertips could trace and my brain could map and my stomach could clench about.
+
+My chin. Still prominent. Still the forward-jutting chin that women had called "strong" and men had called "a good target in a fist fight." The shape was unchanged but the skin over it was different   smoother, tighter, the surface texture more refined, as if someone had replaced the rough plaster with polished stone.
+
+And the stubble.
+
+I ran my fingers along my jaw. Slowly. Deliberately. Pressing hard enough to feel every follicle, every pore, every microscopic point where hair should be emerging from skin after three days without a razor.
+
+Nothing.
+
+Not stubble. Not shadow. Not the faintest trace of the thick, dark growth that had been my morning companion since I was fourteen. Three days of growth should have produced a rough, visible shadow   the dark carpet of coarse hair that turned my lower face into sandpaper, that scratched Mira's neck when I kissed her throat, that announced my gender at twenty paces with its crude, unambiguous texture.
+
+There was nothing. My jaw was smooth. My upper lip was smooth. My chin was smooth. The skin under my fingers felt like   like Mira's. Like a woman's cheek. Like the inner wrist. Like skin that had never known the concept of beard growth, that had never hosted a follicle thick enough to produce visible hair, that existed in a permanent state of smoothness that my fingertips confirmed with each pass and my brain rejected with each confirmation.
+
+I pressed my lips together. The lips. Fuller now   I could feel the difference in the way they met, the increased volume of the lower lip creating a cushion against the upper that was perceptibly different from yesterday. More tissue. More give. When I pressed them together and then released, the lower lip settled into a natural pout   a slight protrusion, a fullness at the center, the beginning of a shape that the word "plush" described and the word "mine" increasingly didn't.
+
+I traced the outline of my lips with a fingertip. The edges were more defined. The vermillion border   the line where lip skin met face skin   was sharper, more precise, as if someone had redrawn it with a finer pen. The color   I couldn't see it in this light, but I could feel a difference in texture at the border, a transition from the smoother, more elastic lip tissue to the regular skin that was subtly more pronounced than it had been. The lips were becoming objects. Distinct features with their own geography and their own agenda, emerging from a face that was still recognizably mine but becoming decorated with features that I hadn't ordered.
+
+I splashed more water. The cold was grounding   brutal and honest and immediate, a sensation that cut through the spiraling self-examination and anchored me to the physical present. Water. Stones. Dawn. A face that was changing, but changing slowly enough that today's changes were measured in millimeters and degrees, not yet in categories and pronouns.
+
+My hands   the hands doing the examining   were softer. I'd noticed it yesterday, but the change was more pronounced now. The calluses on my palms were visibly thinner, the hard ridges that a decade of swordwork had deposited being smoothed away from inside, the keratin layers being dismantled by the same cellular machinery that was softening everything else. I pressed my right palm against the rough bark of a tree near the stream. The texture was vivid, overwhelming, every ridge and furrow of the bark rendered in granular detail by fingertips that were becoming more sensitive as the protective layers thinned. The sword hilt would feel different today. The grip would require a marginally different pressure, a slightly tighter hold, the compensating adjustment of a hand losing its armor.
+
+I looked down at the stream. The water was still too dark to serve as a mirror, the predawn gray reducing the surface to a sheet of moving shadow. But I could see the shape of myself   the silhouette kneeling at the bank, the outline of a body that was   from above, without detail, in shadow   still recognizably male. Broad shoulders. The width of the upper body a credible frame for a swordsman, an escort, a man who carried weight for a living.
+
+But the waist. Even in silhouette, even from above, I could see it. The taper. The narrowing at the midsection that created a ratio between shoulders and hips that was not the straight column it had been a week ago. The indentation was subtle   a gentle inward curve, a cinching that my dark silhouette against the darker water outlined with unflinching clarity. A waist that was becoming a waist, in the gendered sense of the word, a feature rather than a measurement, a curve rather than a coordinate.
+
+I pressed my hands against my sides. The width check. Thumbs on hips, fingers pressing inward, the daily measurement that had become ritual and dread in equal portions. The belt had gone to its tightest notch yesterday. Today, even the tightest notch would be loose. I could feel it   the gap between my body and where the belt would sit, the space that hadn't existed two days ago and was widening by fractions each night.
+
+My hips ached. The deep, bone-level throb that pulsed outward from the pelvis in slow waves, the protest of skeletal architecture being revised without consent or anesthetic. The ache was worse this morning   not sharply, not critically, but noticeably. A richer, fuller sensation, as if the bone was involved in something more ambitious than yesterday's cautious exploration. Something structural was happening in there. The pelvis was widening. The bones were migrating. The framework of my lower body was being rebuilt on specifications I couldn't read and hadn't approved.
+
+I stood up. The motion was ordinary but the body that performed it was providing extraordinary feedback. My thighs engaged differently as I rose   the weight distribution had shifted, the center of gravity lowering by some fractional amount that changed the way my legs pushed upward, the way my hips stabilized, the way my spine stacked itself above the pelvis. Subtle. Biomechanical. The kind of change that an observer wouldn't notice and that the owner of the body couldn't ignore.
+
+<<dialog "Aldric">>
+Three days. This is three days.
+<</dialog>>
+
+I said it to the stream. To the trees. To whatever power was listening from inside my bones. Three days of transformation out of thirty. A tenth of the journey. And already the stubble was gone, the lips were full, the skin was silk, the waist was narrowing, the hips were widening, and the nipples were   I looked down.
+
+The nipples. In the gray light, against the pale, smooth skin of my chest, they were visible even from my own perspective   looking down, foreshortened, the view that no mirror could replicate and that my own eyes offered every morning with increasing reluctance. The areolae were wider. Pinker. The color had deepened from the pale, negligible circles they'd been my whole life into something approaching the warm, rosy hue that I associated with   I didn't want to finish the association. The nipples themselves were raised. Protruding. Small nubs that stood at attention in the cool morning air, each one surrounded by its expanded disc of darker skin, each one broadcasting its presence through the nerve endings that the compound had multiplied and amplified until the lightest touch was a detonation.
+
+I didn't touch them. Not here. Not now.
+
+[[Get Dressed|day_6_2]]
+
+:: day_6_2
+
+I walked back to camp. The trees filtered the first real light of dawn through the canopy, turning the air to gold-green, and the beauty of it registered through the enhanced senses with a richness that felt unearned. I shouldn't be appreciating the quality of morning light while my body was being dismantled and rebuilt. The aesthetic appreciation felt like collaboration.
+
+Mira saw me first. She was sitting against the broad oak at the camp's perimeter, bow across her knees, amber eyes catching the new light and holding it. She tracked my approach the way she tracked everything   alert, cataloguing, her gaze moving over my bare chest and bare face with the systematic assessment that was her version of a morning greeting.
+
+/* <img src="img/scene/day_6/2.png" style="width: 100%; max-width: 768px; margin: 0 auto;" /> */
+Her eyes stopped on my face. Held. The particular narrowing that meant the data she was receiving didn't match the model she'd been running.
+
+<<dialog "Mira">>
+Your face.
+<</dialog>>
+
+<<dialog "Aldric">>
+I know.
+<</dialog>>
+
+<<dialog "Mira">>
+No. Come here.
+<</dialog>>
+
+I crossed the camp. Stood in front of her. She set the bow aside and rose to her feet   the economical, single-motion rise of a warrior, knees and hips and spine unfolding in sequence. She was shorter than me by half a head and she tilted her chin up to study my face with the same expression she wore when examining tracks or reading a map   focused, analytical, missing nothing.
+
+Her hand came up. Fingertips on my jaw. She turned my face to the light, then away from it, then back, watching the way the dawn illuminated the surface of my skin.
+
+<<dialog "Mira">>
+The stubble is completely gone. Not almost. Not nearly. Gone. There's nothing here. This is   this is smoother than my skin, Aldric. I can feel   there's no follicle texture at all. It's like the hair was never there.
+<</dialog>>
+
+<<dialog "Aldric">>
+I checked at the stream. Three days without shaving. Nothing. Not a single hair. Not shadow. Not roughness. Just   smooth.
+<</dialog>>
+
+Her thumb traced my jaw. Slowly. From the hinge to the chin, the way you'd run a thumb along a blade to test the edge. Her expression was controlled   the neutral mask she wore when processing information that she hadn't decided how to feel about yet.
+
+<<dialog "Mira">>
+And your lips. They're   I noticed yesterday, but today they're   Aldric, your lower lip has a natural   it sits differently. There's a shape to it that's  
+<</dialog>>
+
+She stopped. Her thumb had migrated from my jaw to the corner of my mouth, resting against the junction of my lips, and the contact sent a pulse of sensation through the swollen tissue that made me catch my breath. The lips were sensitive now. Not just the surface   the entire volume of them, the new tissue responding to touch with a depth of sensation that my old, thinner lips had never generated.
+
+<<dialog "Aldric">>
+Fuller. I know. I can feel them when I talk. When I breathe. Every expression feels   different. Like there's more material participating.
+<</dialog>>
+
+<<dialog "Mira">>
+The color too. In this light. There's a   your lips have a color now. A natural rosiness. You didn't have that before. Your lips were the same color as the rest of your face. Now they're   distinct.
+<</dialog>>
+
+She dropped her hand. Stepped back. Her eyes tracked down from my face to my chest   the bare chest, the smooth skin, the sparse remnants of body hair, the nipples standing in the cool air with their expanded areolae and their new, assertive prominence.
+
+<<dialog "Mira">>
+Put your tunic on. Hadden's going to wake soon.
+<</dialog>>
+
+<<dialog "Aldric">>
+I know. I just   I can't put it on without checking first. You know that.
+<</dialog>>
+
+<<dialog "Mira">>
+I know. How are the   how's the chest?
+<</dialog>>
+
+I looked down. Pressed my palm flat against the left pectoral, below and behind the nipple, in the zone where the new tissue was accumulating.
+
+<<dialog "Aldric">>
+It's thicker. The tissue behind the nipple. Yesterday I could feel it   a suggestion of softness, a give beneath the muscle. Today it's   there's more of it. Not visible through clothing. Barely visible without clothing. But I can feel it when I press. There's a layer between the muscle and the skin that's measurably thicker than yesterday. And the nipples   the areolae have expanded again. Wider. Pinker. The nipple itself is   raised. Permanently. Not just when it's cold. Not just when I'm aroused. It's just   out. Standing. All the time.
+<</dialog>>
+
+Mira looked at my chest with the clinical attention that she'd learned to apply to the daily transformation reports. Not with desire. Not with pity. With the systematic precision of a woman cataloguing changes the way she'd catalogue a wound   what's new, what's worse, what needs monitoring.
+
+<<dialog "Mira">>
+I can see the puffiness. Around the nipples. There's a   a slight swelling of the areola area that reads as   developmental. If I didn't know what I was looking at, I'd say it looked like the early stages of   like a boy in early puberty. Before anything has really   formed. Just the preparation.
+<</dialog>>
+
+<<dialog "Aldric">>
+That's exactly what Nella's notes described. Stage one breast development. The budding phase. A thickening of the tissue behind the nipple, the areola expanding, the beginning of the glandular structure that will eventually  
+<</dialog>>
+
+<<dialog "Mira">>
+I know what it will eventually. You don't need to narrate the timeline. I read it too.
+<</dialog>>
+
+A silence. The wood thrush sang again from somewhere above us, its cascading melody floating down through the canopy like water through leaves. Hadden's snoring continued, steady and reassuring.
+
+<<dialog "Mira">>
+Put your tunic on. The gray one. And   your hair.
+<</dialog>>
+
+<<dialog "Aldric">>
+What about it?
+<</dialog>>
+
+<<dialog "Mira">>
+It's longer. You had it cut at Valdmere, what   five days ago? It's already past the length it was at. Growing faster. And the texture at the roots is   different. Thicker. There's more body to it. More wave.
+<</dialog>>
+
+I reached up. Touched my hair. She was right   the length was noticeable, the growth outpacing what my hair had ever done before. The strands at the front fell past my forehead now, and the roots   I ran my fingers through the hair from the scalp outward and felt it. The base of each strand was thicker than the middle. Denser. The new growth coming in with a different texture than the old   more substantial, with a subtle wave pattern that my straight, coarse hair had never exhibited. The compound was even changing my hair. Programming it. Replacing the wire-coarse strands of a mercenary's utilitarian cut with something that would eventually be   what? Soft? Full? The kind of hair that caught light and moved in wind and framed a face with an aesthetic intention?
+
+<<dialog "Aldric">>
+I'll push it back. It's not long enough to notice yet. Not to someone who doesn't know what they're looking at.
+<</dialog>>
+
+<<dialog "Mira">>
+Hadden hasn't noticed anything so far. Or if he has, he's too polite or too preoccupied to mention it. But the face. The smooth face is going to be harder to explain if he looks closely. Three days on the road without a razor and no stubble   that's unusual enough to generate questions from a man who notices details for a living.
+<</dialog>>
+
+<<dialog "Aldric">>
+We told him I shave with a straight razor at the stream. He didn't question it yesterday.
+<</dialog>>
+
+<<dialog "Mira">>
+Yesterday there was still a ghost of shadow on your chin. Today there's nothing. The lie works if there's evidence that shaving has occurred. Smooth skin with no razor marks and no missed patches looks like skin that doesn't need shaving.
+<</dialog>>
+
+<<dialog "Aldric">>
+Then we say I have a condition. A family thing. Men in my family don't grow facial hair after a certain age. It happens. It's rare but it happens.
+<</dialog>>
+
+<<dialog "Mira">>
+A genetic condition that also makes your lips fuller and your skin glow and your eyelashes longer.
+<</dialog>>
+
+<<dialog "Aldric">>
+My eyelashes are longer?
+<</dialog>>
+
+She looked at me. A single, measured look that communicated volumes in the language of raised eyebrows and compressed lips.
+
+<<dialog "Mira">>
+You haven't noticed?
+<</dialog>>
+
+I blinked. Deliberately. Felt the sweep of my lashes against the air and   yes. There it was. More resistance. More sweep. The fan of hairs above my eyelids was marginally longer, marginally thicker, catching the air with each blink in a way that registered through the enhanced sensitivity as a sensation I'd never had before. Like wearing tiny curtains. Like having eyelids that were decorated.
+
+<<dialog "Aldric">>
+Gods.
+<</dialog>>
+
+<<dialog "Mira">>
+It's marginal. No one would notice who wasn't looking for it. But I'm looking for it, and they're longer, and they're darker at the tips, and when you blink   when you blink, Aldric, they   frame your eyes differently. Your eyes look   larger. Because the lashes are   I'm going to stop talking about your eyelashes now.
+<</dialog>>
+
+<<dialog "Aldric">>
+Please do.
+<</dialog>>
+
+I pulled the gray tunic over my head. The soft linen settled against my skin like a sigh, the fabric draping over my shoulders and chest with the gentle, non-abrasive touch that had become necessary for the nipples. Even through the soft weave, the contact registered   the weight of the linen on the swollen areolae, the slight friction as I adjusted the hem, the fabric settling against the faint new topography of the tissue beneath. Not painful. Just   present. Constant. A sustained awareness that something was different under there, something that fabric interacted with differently than it had a week ago.
+
+The tunic hung loose. The gray linen tent that Mira had bought in Valdmere, the shapeless, concealing garment that had become my armor against observation. It hid the narrowing waist. It hid the softening chest. It hid the nipples and their expanding areolae and the tissue accumulating behind them. Under the tunic, I was becoming someone else. Over the tunic, I was still Aldric Vane, mercenary escort, male, unremarkable.
+
+My trousers were tighter at the hips. I'd noticed it yesterday and today the pinch was more pronounced   the seams pressing against bone that had widened overnight, the waistband sitting at an angle that had shifted by degrees, the overall fit communicating a disagreement between the garment and the body it had been made for. I could still wear them. The discomfort was in the category of tight boots or a new belt   noticeable to the wearer, invisible to the observer. But the trajectory was clear. These trousers had a limited number of mornings left in their relationship with my hips.
+
+The belt. Tightest notch. I pulled the leather through the buckle and tugged and the prong found the last hole and   sat there. Snug but not tight. The one remaining notch between my body and the end of the belt's willingness to accommodate, the final position before I'd need to punch a new hole or find a shorter belt. One notch. Yesterday it had been firm. Today it was comfortable. Tomorrow it would be loose.
+
+I buckled it. The leather sat against my narrowed waist and the part of my brain that tracked these things   the obsessive, terrified, constantly-measuring part   filed the data point and projected the curve and didn't like where the math was going.
+
+Boots. The boots still fit. The one constant, the one category where the compound's renovations hadn't yet manifested. My feet were the same size, the same shape, the calloused soles still filling the leather with the familiar geography of a man who walked for a living. How long that would last was a question I wasn't asking.
+
+I strapped on the sword belt. The longsword hung at my left hip and the weight was right and the balance was right and the leather-wrapped grip pressed against my palm with the insistent texture that my thinning calluses made louder every day. I could still grip it. Still swing it. Still fight with it. The mechanics of swordwork hadn't changed. But the interface had   the grip required a fractionally tighter hold, the wrist flexion slightly different, the callused armor between skin and weapon thinning by layers. I was a swordsman losing his calluses. A fighter whose hands were becoming sensitive. A mercenary whose palms were developing the smooth, receptive skin of a scribe.
+
+<<dialog "Aldric">>
+Is there breakfast?
+<</dialog>>
+
+<<dialog "Mira">>
+Oats. There's a pot on the fire. I'll wake Hadden.
+<</dialog>>
+
+[[Breakfast|day_6_3]]
+
+:: day_6_3
+
+Breakfast was the quiet affair that road mornings demanded. Mira had porridge going in the small iron pot, the oats bubbling with dried apple and a pinch of cinnamon she'd bought from the Valdmere market, the smell reaching me with a richness and specificity that my enhanced olfactory system unpacked into its individual components. The cinnamon was warm and spicy. The apple was sweet, slightly caramelized where it met the bottom of the pot. The oats themselves had a nutty, grain-warm scent that I'd never noticed before, the background smell of a food I'd eaten a thousand times suddenly promoted to foreground.
+
+Hadden woke as Mira approached him. The surveyor's awakening was the opposite of Mira's   a slow, grudging emergence from sleep that involved considerable groaning, the careful replacement of spectacles, and a full minute of sitting upright before his eyes achieved full focus. He looked like a man who'd slept on the ground and found the experience philosophically offensive but scientifically interesting.
+
+<<dialog "Hadden">>
+Oats. Excellent. I've found that oats support cognitive function during fieldwork more effectively than bread or dried meat. Something about the sustained release of  
+<</dialog>>
+
+<<dialog "Mira">>
+They're just oats, Marsh. Eat them before they congeal.
+<</dialog>>
+
+I sat across the fire from Hadden, the porridge bowl in my hands   hands that I noticed him glance at as I accepted the bowl. A quick look. Involuntary. The surveyor's habit of observation catching something that his social training immediately suppressed. He looked at my hands, then at my face, then away, and the entire transaction took less than a second and he covered it by adjusting his spectacles and studying his porridge with an intensity that suggested he was cataloguing the individual oats.
+
+I ate. The oats were good   Mira was a competent trail cook who believed that food on the road should sustain the body without offending the palate, and the cinnamon apple combination was genuinely pleasant. The warmth spread through my stomach and the calories hit my system and the compound   the compound was hungry. I could feel it. The same metabolic drive that had turned my appetite ravenous since Day 1, the construction project inside me demanding materials, fuel, the raw inputs that it needed to continue its work. I finished the bowl and wanted more and took more and ate it with an urgency that had nothing to do with taste and everything to do with the engine inside me running at full capacity.
+
+<<dialog "Hadden">>
+Good appetite. The road does that. Fresh air and physical exertion.
+<</dialog>>
+
+<<dialog "Aldric">>
+Something like that.
+<</dialog>>
+
+He was studying me again. Not overtly   Hadden was too mannered for overt staring   but with the peripheral, sidelong attention of a man who'd noticed something he couldn't quite identify. He was looking at my face. At the smooth jaw. At the fuller lips. At the skin that caught the morning light with a quality of surface that didn't quite match the rough, weathered mercenary who'd accepted his contract two days ago.
+
+I angled my face away from the light. Took another spoonful. Let the gesture of eating disguise the redirection, the deliberate repositioning of my features away from the illumination that was making the changes more visible.
+
+<<dialog "Hadden">>
+How far to the ruins, in your estimation?
+<</dialog>>
+
+<<dialog "Mira">>
+Two hours at most. The trail from the road is marked   an old Consortium survey post at the turnoff. We'll be there by mid-morning if the mule cooperates.
+<</dialog>>
+
+<<dialog "Hadden">>
+Pebble will cooperate. Pebble is a professional.
+<</dialog>>
+
+Pebble chose this moment to attempt eating Hadden's bedroll, which somewhat undermined the claim. Hadden scolded her with the exasperated affection of a man who'd lost this particular argument many times before, extracting the canvas from her teeth with a practiced motion that suggested this was a regular feature of their mornings.
+
+I cleaned my bowl. Packed my bedroll. The motions were automatic   the road routine of a mercenary, the muscle memory of a thousand mornings of breaking camp and preparing to walk. My body performed the tasks efficiently, and it was only when I knelt to compress the bedroll that I noticed   my hips. The angle at which I knelt. The way my thighs folded against my calves. The wider pelvis changed the geometry of kneeling, spreading my knees slightly wider to accommodate the new distance between the hip joints, and the motion felt   natural. Comfortable. More comfortable than kneeling had felt before, as if the new hip width was a biomechanical improvement rather than an unwelcome modification, the way a wider base improves the stability of a structure.
+
+I caught the thought. Killed it. The compound didn't get to make improvements. The compound was a violation, not an upgrade.
+
+I stood. Shouldered my pack. Checked the sword at my hip. Confirmed the silhouette.
+
+<<dialog "Aldric">>
+I'm ready.
+<</dialog>>
+
+Mira had the camp erased in minutes. Fire doused, ashes scattered, gear stowed. She moved through the breakdown with the efficient silence that was her operating mode on the road, every motion purposeful, every item handled once and placed correctly. She caught my eye as she finished and gave the barest nod   the all-clear, the silent signal that meant I'm here and I see you and we're going and whatever the day brings, we face it moving.
+
+We moved.
+
+[[The Trail to the Ruins|day_6_4]]
+
+:: day_6_4
+
+The trail was narrower than the road   a track through forest that had been cleared once by Consortium scouts and was being slowly reclaimed by the undergrowth. Bracken and fern pressed in from both sides, their fronds brushing against my legs as I walked, each contact a small sensory event that my enhanced skin registered with unnecessary clarity. The texture of fern. The scratch of bracken. The occasional slap of a low branch that Mira held aside and released a half-second too early, the leaf tips grazing my face with a touch that my smooth, newly sensitive skin translated into a vivid, multi-layered sensation.
+
+/* <img src="img/scene/day_6/3.png" style="width: 100%; max-width: 768px; margin: 0 auto;" /> */
+Hadden walked behind me, Pebble's lead rope in one hand and his notebook in the other, dictating observations to himself in a continuous, low-volume monologue that covered geology, botany, climate patterns, and the occasional complaint about trail maintenance. The man was a walking encyclopedia with opinions, his mind producing a running commentary on every stone and plant and soil type that he encountered, filing each observation in the vast ledger of knowledge that constituted his professional existence.
+
+Mira led. She always led on narrow trails   the bow gave her the best forward engagement, and her half-elf eyesight caught dangers at distances that human eyes missed. She moved through the forest with the fluid, silent stride that made her look like she was flowing rather than walking, each footfall placed with the precision of a woman who'd learned to move through wild terrain before she'd learned to read.
+
+I walked between them. The middle of the formation. The sword position, where the blade could respond to threats from either direction. Standard escort tactics. Mira and I had done this hundreds of times, in dozens of forests, on trails better and worse than this one.
+
+But the walk was different. My body was different in motion, and motion was where the differences announced themselves most clearly.
+
+The hips. With every step, the wider pelvis produced a rotational movement at the hip joint that translated into a lateral shift of the upper body, a subtle, rhythmic side-to-side motion that I caught and corrected and caught again and corrected again. The sway. The biomechanical consequence of wider hips and a narrower waist   a gait pattern that was feminine in its origin and constant in its appearance and exhausting in its suppression. Every step required a conscious correction, a tightening of the glutes and a stiffening of the pelvis that overrode the natural, efficient motion with a forced, mechanical stride that felt like walking in armor that didn't fit.
+
+My thighs brushed together at the top. Not for the first time   this had been happening since yesterday   but more persistently. The inner surface of each thigh, smoother now, the rough hair reduced to fine down, contacted the other at the apex of each stride with a whisper of skin-on-skin that was simultaneously unfamiliar and distracting. The thighs had changed shape. Not dramatically   the muscle was still there, the quadriceps still thick, the overall profile still that of legs built for walking and fighting. But there was softness at the inner surface, a thin layer of tissue between skin and muscle that created a new contact point, and the contact was a constant reminder that the distance between my legs was being reorganized.
+
+The chest. Even under the loose gray tunic, the movement of walking produced a subtle, rhythmic stimulation of the nipples. The fabric shifted with each stride, the linen brushing the swollen nubs with a gentle, persistent friction that sent small pulses of sensation through the tissue behind them. Not painful. Not erotic. Just   there. A background awareness that my chest was occupied territory, that something was happening behind the nipples with every step, the new tissue responding to motion with a sensitivity that predicted a future where walking without support would be   a different kind of challenge.
+
+I adjusted the tunic. Pulled the fabric away from the chest, creating a small air gap between the linen and the nipples. The relief was immediate   the friction ceased, the sensation dropped to a whisper, and for three steps I walked in something approaching comfort. Then the fabric settled back against the skin and the subtle, maddening brushing resumed and I gritted my teeth and walked.
+
+<<dialog "Hadden">>
+Vane. Your stride has changed.
+<</dialog>>
+
+I stopped. Turned. Hadden was looking at me with his head tilted at that particular angle   the assessment angle, the surveyor's tilt, the posture of a man who'd noticed something that his professional training compelled him to articulate.
+
+<<dialog "Aldric">>
+What?
+<</dialog>>
+
+<<dialog "Hadden">>
+Your gait. You're walking differently than yesterday. The stride length is marginally shorter and there's a   a lateral component that wasn't there before. A rotation at the hip. Are you injured? I noticed you favoring your right side during the creek crossing yesterday, but I assumed that was the terrain.
+<</dialog>>
+
+The air went out of my lungs. Not literally   I didn't gasp, didn't flinch, didn't show the spike of cold fear that lanced through my stomach like a blade. Hadden was a surveyor. A man who measured things for a living. A professional observer who spent his days noting the distance between landmarks and the angle of geological strata and the precise dimensions of whatever fell under his attention. Of course he'd noticed my gait. Of course he'd seen the hip rotation. Of course the data had registered.
+
+<<dialog "Aldric">>
+Old wound. Left hip. Acts up on uneven terrain sometimes. I'll walk it out.
+<</dialog>>
+
+<<dialog "Hadden">>
+Ah. The mercenary's burden. Accumulated injuries. I've seen it in Consortium guards who've been in the field too long   the body compensates for one injury by redistributing load, which creates asymmetric wear patterns in the joints, which  
+<</dialog>>
+
+<<dialog "Mira">>
+Marsh. The ruins are close. Focus.
+<</dialog>>
+
+Hadden returned to his notebook with the obedient refocus of a man whose digressions had been curtailed before and who accepted the redirection without offense. But the look he'd given me   the tilted, measuring look, the surveyor's assessment   lingered in the air between us like a question that had been asked but not answered.
+
+Mira dropped back to walk beside me. Her shoulder brushed mine and she leaned close, her voice pitched below Hadden's hearing.
+
+<<dialog "Mira">>
+Control the hips. I know it's hard. The gait change is visible and he just clocked it.
+<</dialog>>
+
+<<dialog "Aldric">>
+I'm trying. The biomechanics are   it's like trying to walk against the body's preference. The natural stride wants to rotate and every correction feels forced and every time I stop concentrating it comes back.
+<</dialog>>
+
+<<dialog "Mira">>
+Then concentrate. Every step. Until we find Ysolde and get you back. Every step, Aldric.
+<</dialog>>
+
+She pulled ahead. Resumed her position at the front of the column. I followed, correcting my stride, fighting the rotation, walking in the forced, mechanical gait that cost me twice the energy of the natural movement and produced half the grace.
+
+Every step.
+
+[[The Ruins|day_6_5]]
+
+:: day_6_5
+
+We reached the ruins by mid-morning. The sun was above the treeline, the light sharp and clear, and the ruins sat in a shallow valley like an architectural wound   half-buried in earth, overgrown with decades of brush, the remnants of what had once been a substantial stone building now reduced to a geometry of collapse. Walls at angles. A caved-in roof of heavy timber, the beams rotten and split, covered in moss and lichen and the accumulated debris of seasons. The footprint of the building was larger than I'd expected   forty paces long, twenty wide, with walls three feet thick that had once supported a structure of some importance.
+
+/* <img src="img/scene/day_6/4.png" style="width: 100%; max-width: 768px; margin: 0 auto;" /> */
+Hadden came alive. The transformation was startling   the fussy, meticulous surveyor shedding his road-worn lethargy like a snake shedding skin, replaced by a creature of purpose and energy that I hadn't seen in two days of walking. He dropped Pebble's lead rope, pulled out his notebooks and measuring tools and charcoal sticks, and began circling the structure with the predatory enthusiasm of a vulture who'd spotted tenure.
+
+<<dialog "Hadden">>
+Extraordinary. The construction is consistent with late Imperial era   look at the cornerstone technique, the way the blocks are fitted without mortar, that's the Thaldrim method, third century at the earliest. And the wall thickness suggests a storage function, a storehouse or treasury, reinforced against siege. The Consortium's preliminary assessment was correct, but they didn't note the drainage channels   see here, along the foundation, these carved grooves are designed to channel groundwater away from the base. Whoever built this was protecting the contents from moisture damage, which implies perishable or moisture-sensitive cargo.
+<</dialog>>
+
+He dictated this to himself while circling, his charcoal stick dancing across notebook pages, producing sketches of crosssections and elevation drawings with the practiced fluency of a man who thought in geometry. He peered into gaps in the rubble with a small brass telescope, measured distances with a knotted string, and tapped stones with a small hammer, listening to the sound with the rapt attention of a physician listening to a heartbeat.
+
+Mira and I established a perimeter. Standard procedure   walk the area, identify sight lines, locate exits, assess threats. The ruins sat in a natural bowl, the valley floor surrounded on three sides by thick forest and open on the fourth to the trail we'd come in on. Good ambush terrain if you were the ambusher, bad terrain if you were the defender. An attacker could approach through the trees on three sides with excellent concealment. A defender had a single escape route   the trail   and limited visibility.
+
+<<dialog "Mira">>
+I don't like it. The trees are too close. No sight lines past forty paces on three sides.
+<</dialog>>
+
+<<dialog "Aldric">>
+Agreed. But the location is remote. No settlements within half a day's walk. Anyone coming out here is coming deliberately, and there's nothing here worth taking unless you know about the Consortium's cargo.
+<</dialog>>
+
+<<dialog "Mira">>
+Bandits don't need valuable cargo. A mule, a scholar, and two escorts are worth robbing for the gear alone.
+<</dialog>>
+
+<<dialog "Aldric">>
+Then we keep watches tight and don't stay longer than we have to. How long does Marsh need?
+<</dialog>>
+
+<<dialog "Mira">>
+He said one day to assess and mark the crates for collection. The Consortium sends a recovery team after he files his report. We're here through tonight and gone at dawn.
+<</dialog>>
+
+I scanned the treeline. Nothing moved. The forest was quiet except for birdsong and the distant sound of the stream and the continuous narration of a surveyor in his element. No threats visible. No tracks at the perimeter that suggested recent human traffic. The site felt undisturbed   a ruin that had been sitting in this valley for decades, untouched, forgotten, its secrets sealed under stone and time.
+
+I circled the structure. The collapse was extensive   the roof had come down catastrophically, probably under the weight of winter snow on rotted beams, and the falling timbers had dragged sections of the upper walls inward. The result was a mound of rubble, stone and timber and earth, covering what had once been the interior of the building. Whatever was inside   the Consortium's sealed cargo, the crates that Hadden had been sent to assess   was buried under tons of debris.
+
+Except in one place. On the northwest face, the wall had partially held. A section of the original construction remained standing   two walls meeting at a corner, the stones intact, the gap where the roof had been open to the sky. And at the base of this standing section, where the wall met the earth, there was a gap. A hole, roughly two feet wide and three feet tall, where a section of foundation had shifted outward, creating a narrow passage from the exterior into the buried interior.
+
+The Consortium scouts had partially cleared this passage. The earth around the opening had been dug away, the loose stones removed, the passage widened to the point where a person could squeeze through on hands and knees. But the passage was still narrow. Still constrained by the massive foundation stones on either side. Still a tight fit for anyone larger than a child.
+
+Hadden arrived beside me. He peered into the passage with his brass telescope, angling the lens to catch the light that filtered through the gap.
+
+<<dialog "Hadden">>
+The interior is partially intact. I can see the far wall and what appears to be a row of crates against it. Sealed. Markings visible but I can't read them from here. I need someone to go in.
+<</dialog>>
+
+He looked at Mira. The look was a question wrapped in an assumption   Mira was the smallest of the three of us, the logical choice for a tight passage.
+
+Mira looked at the dark, narrow opening. Then she looked at Hadden. Her expression communicated her answer with a clarity that transcended language. The amber eyes said: I don't go underground. I don't go into holes. I don't crawl into dark, tight spaces where my bow is useless and my sight lines are zero and the nearest exit involves squirming backward through rubble. These are decisions I made years ago and they are not subject to renegotiation.
+
+<<dialog "Mira">>
+No.
+<</dialog>>
+
+<<dialog "Hadden">>
+It's quite safe. The structural assessment indicates the remaining walls have redistributed their load-bearing  
+<</dialog>>
+
+<<dialog "Mira">>
+No.
+<</dialog>>
+
+<<dialog "Aldric">>
+I'll go.
+<</dialog>>
+
+Hadden turned to me. His eyes moved across my shoulders   still broad, still the width of a man who'd carried weight and swung a sword for a decade. His head tilted. The surveyor's tilt. The measuring look.
+
+<<dialog "Hadden">>
+You're too broad in the   
+<</dialog>>
+
+He stopped. Squinted at me. The tilted head adjusted by degrees, the way a dog's head cocks when processing an unexpected sound. He was looking at my torso. At the relationship between my shoulders and my waist. At the proportions that were   apparently   not quite what he'd initially assessed.
+
+<<dialog "Hadden">>
+Actually. You might fit. The passage is   it widens once you get past the foundation stones, the scouts noted that in their report. If you can get your shoulders through the first two feet, the interior should be accessible.
+<</dialog>>
+
+I looked at the gap. Eighteen inches wide at the narrowest point. My shoulders were   what? Nineteen inches? Twenty? Unchanged by the compound, still the broad frame of a swordsman. But the compound had been working on the torso below the shoulders. The waist narrowing, the overall profile tapering. If I went through at an angle, leading with one shoulder, compressing the other  
+
+<<dialog "Aldric">>
+I'll fit.
+<</dialog>>
+
+[[Into the Gap|day_6_6]]
+
+:: day_6_6
+
+I stripped off the sword belt. The longsword wouldn't make it through the passage, and the weapon was useless in a space where I couldn't swing it. I kept the belt knife   a short, utilitarian blade that rode on my hip and served as tool rather than weapon. Mira handed me a small oil lantern, lit, the flame adjusted to a low burn that would last an hour.
+
+<<dialog "Mira">>
+If the structure shifts, you come out. Immediately. Don't try to assess while debris is moving. Your life is worth more than Consortium cargo.
+<</dialog>>
+
+<<dialog "Aldric">>
+Noted.
+<</dialog>>
+
+<<dialog "Mira">>
+I mean it. You hear cracking, you feel movement, you come out. Headfirst, backward, I don't care about the direction. Out.
+<</dialog>>
+
+<<dialog "Aldric">>
+Yes, commander.
+<</dialog>>
+
+She gave me the look. The look that said this is not a joke and I am not your commander and if you get yourself killed being brave in a hole in the ground I will find a necromancer and bring you back specifically to tell you I told you so.
+
+I got on my hands and knees. The earth was damp at the entrance, the soil dark and rich, the smell of loam and stone filling my nostrils with a complexity that my enhanced sense of smell decomposed into its component parts. Mineral content. Organic decay. The chalky dust of limestone. The iron tang of old groundwater. The musty, sealed-room smell of an interior that hadn't been exposed to fresh air in decades.
+
+I entered the passage.
+
+The first two feet were the worst. The foundation stones pressed against both shoulders, the rough limestone dragging against the gray tunic as I crawled forward on my forearms, the lantern held ahead of me in one hand, its flame painting the stone walls in warm, flickering gold. My right shoulder scraped the stone and the friction was   vivid. The enhanced sensitivity of my skin transformed the rough contact from an annoyance into a detailed sensory experience, every grain of the stone surface registered individually, the texture of limestone against linen against skin produced at a resolution that made me grit my teeth.
+
+My left shoulder pressed against the opposite wall. Tight. The stones squeezed my torso and for a moment   a terrible, claustrophobic moment   I was stuck. The passage was too narrow. My shoulders were too broad. I was going to wedge myself between two-thousand-year-old foundation stones and Mira was going to have to pull me out by the ankles and the humiliation would be worse than the compound.
+
+But.
+
+/* <img src="img/scene/day_6/5.png" style="width: 100%; max-width: 768px; margin: 0 auto;" /> */
+I angled my body. Dropped my right shoulder, raised my left, creating a diagonal profile that was narrower than the straight-on width. And the passage accepted me. The stones scraped both sides of the tunic, dragging the fabric tight across my chest, compressing the tissue behind the nipples against the hard muscle beneath   a flash of sensation that was part pain and part something else, something that made me gasp in the close, dark space   and then I was through.
+
+The passage widened. Dramatically. From the two-foot squeeze of the foundation gap to a four-foot corridor of collapsed rubble, the ceiling low but the walls no longer touching my shoulders. I crawled forward into the interior, the lantern casting shadows that jumped and danced across ancient stone, and then the corridor opened into a room.
+
+The storehouse interior. Partially intact, as Hadden had predicted. The floor was solid stone   flagged, the stones fitted with the precision of skilled masonry, level and even despite decades of neglect. The inner walls stood on three sides, the stone construction intact from floor to roughly head height, the upper portions collapsed inward to create the rubble slope that I'd crawled under. The ceiling was gone   open to the sky through the debris, shafts of daylight filtering down through gaps in the fallen timbers to create columns of illumination in the dusty air.
+
+And against the far wall, in a neat row, sealed wooden crates bearing trade markings I didn't recognize. I counted twelve.
+
+I set the lantern on the floor and approached the crates. They were heavy   the first one I tested weighed as much as a full armor set, its contents dense and compact behind the sealed lid. The wood was hardened with some preservation treatment, the surface dry and sound despite the decades underground. The seals   wax and metal, bearing an emblem I didn't know   were intact on eight of the twelve. The other four had cracked seals, the wax split by age or impact, the contents potentially exposed to the damp air.
+
+I hauled them out. One by one.
+
+The physical labor was honest and uncomplicated in a way that nothing else in my life currently was. Lift. Carry. Crawl through the passage. Set down. Crawl back. Repeat. My body knew this work   the muscle memory of a man who'd loaded wagons and carried packs and dragged wounded companions across battlefields. The strength was there. The muscles contracted and released and bore weight with the functional efficiency they'd always had. Nothing about the compound's changes had diminished my ability to pick up a heavy box and move it from one place to another.
+
+But the experience of the labor was different. The strain distributed differently across my torso, the narrowing waist changing the leverage points, the wider hips altering the way the pelvis stabilized under load. My lower back worked harder. My obliques engaged at different angles. The overall pattern of muscular effort was being subtly recalibrated, the body solving the same physics problems with different variables, arriving at the same answers through different equations.
+
+My chest, under the tunic, was another matter. The physical effort   the reaching, the lifting, the crawling   produced movement in the tissue behind the nipples. Not bouncing   there wasn't enough tissue for that, not yet, the growth was still in the millimeters, still the earliest preparation for a development that was weeks away from being visible. But there was mobility. A slight, perceptible shift of the tissue with each exertion, a jiggle that was less than a jiggle and more than stillness, the first suggestion that the chest was becoming occupied by something that responded to movement.
+
+I noticed it on the fourth crate. The crawl through the passage, arms extended overhead, dragging the crate behind me through the gap, produced a motion in my chest that the nipples amplified into a sensation that made my breath catch. A pulse. A warm, resonant throb that started at the nipples and radiated inward through the tissue and down into my stomach and   lower. The physical exertion was generating a response in my chest that was not quite pain and not quite pleasure and was definitely new and was happening while I was dragging a fifty-pound crate through a hole in the ground and this was not the time or the place.
+
+I paused. In the passage. On my hands and knees in the dark, stone pressing on both sides, the crate behind me, the daylight ahead. I paused and pressed my forehead against the cool stone floor and breathed and waited for the sensation to subside.
+
+It didn't subside. It modulated   from the sharp, acute pulse of nipple stimulation to a lower, more diffuse warmth that settled into the tissue like embers in a banked fire. The compound had wired the nipples into the arousal system. Every touch, every friction, every movement that engaged the chest was now producing a signal that was routed through channels that had nothing to do with physical labor and everything to do with the body the compound was building.
+
+I gritted my teeth. Pulled the crate through the passage. Emerged into daylight with scraped knees and dusty arms and a chest that was humming with the warm, persistent afterglow of sensation that I had no interest in cataloguing.
+
+[[After the Excavation|day_6_7]]
+
+:: day_6_7
+
+Twelve crates. Eight with intact seals, four with broken ones. Hadden examined each with the reverent care of a man handling religious relics, his brass telescope deployed for close inspection, his charcoal stick recording every marking, every seal, every dimension in his ever-present notebook.
+
+I sat on a fallen wall and drank water and tried not to think about the fact that my chest was tingling.
+
+The labor had left me dirty. Stone dust covered my forearms and the gray tunic was streaked with the dark earth of the passage. My knees were raw from crawling   the skin there still thick enough to take the abuse, but the rawness was more vivid than it would have been a week ago, the enhanced sensitivity turning road rash from a background annoyance into a foreground complaint.
+
+I was sweating. The exertion had been genuine   twelve trips through a tight stone passage, each one hauling a heavy crate, the total workload equivalent to a hard day's labor compressed into two hours. The sweat was different. Not the volume   I still sweated like a man, the body's cooling system unaltered by the compound's renovations. But the smell. The sweat that dried on my forearms and collected at my temples had a different quality than it had a week ago. Not the sharp, acrid tang of male exertion   the locker-room smell, the metallic edge that Mira had once described as "how you know a man has been working." This was   lighter. Softer. The same process of thermal regulation producing a biochemically different output, the compound changing the composition of my sweat the way it was changing the composition of everything else.
+
+I couldn't smell myself as others smelled me. But I could detect the difference, the subtlety of a scent that was becoming less pungent and more   I didn't have the word. Milder. The way a note softens when played on a different instrument. The same note. Different timbre.
+
+/* <img src="img/scene/day_6/6.png" style="width: 100%; max-width: 768px; margin: 0 auto;" /> */
+Mira brought me more water. She sat beside me on the fallen wall, close enough that her shoulder touched mine, and for a moment we watched Hadden catalog his treasures in companionable silence.
+
+<<dialog "Mira">>
+You fit through the passage.
+<</dialog>>
+
+<<dialog "Aldric">>
+Barely.
+<</dialog>>
+
+<<dialog "Mira">>
+A week ago, you wouldn't have. Not at that angle. Your shoulders haven't changed, but the torso beneath them   the profile has narrowed enough to make a difference. The passage was your width. Exactly your width. You scraped both sides but you got through.
+<</dialog>>
+
+<<dialog "Aldric">>
+So the compound has made me a better cave crawler. I'll add that to the list of unwanted improvements.
+<</dialog>>
+
+<<dialog "Mira">>
+I'm not   I'm not saying it's an improvement. I'm saying it's a change and it had a practical consequence today and the practical consequence was useful. That's data. Not an endorsement.
+<</dialog>>
+
+<<dialog "Aldric">>
+My chest was   the crawling. The friction against the stone. The tissue behind the nipples was   responding.
+<</dialog>>
+
+She looked at me. A steady, measuring look that assessed the statement for medical significance, emotional impact, and practical implications simultaneously.
+
+<<dialog "Mira">>
+Responding how?
+<</dialog>>
+
+<<dialog "Aldric">>
+Movement. When I exerted myself. When the tunic pressed against the chest during the crawl. The tissue   moved. Not much. Not visibly. But I could feel it. A mobility that wasn't there before. And the sensation   the nipples were generating a signal that went   downward. Into the stomach. Into the groin. The crawling was producing a response that was   arousal-adjacent. In my chest. While I was hauling a crate through a hole.
+<</dialog>>
+
+<<dialog "Mira">>
+The nerve pathways are developing. Nella's notes mentioned that. The breast tissue develops its own nervous infrastructure in the early stages   connections between the nipple and the arousal centers that don't exist in a male chest. The compound is wiring those pathways as it builds the tissue.
+<</dialog>>
+
+<<dialog "Aldric">>
+I know what it's doing. I don't need the clinical explanation. I need it to stop and we both know it's not going to stop so I need   I need to stop talking about it before Hadden finishes with his crates and starts wondering why his escort is sitting on a wall discussing his chest with his partner.
+<</dialog>>
+
+She touched my hand. Briefly. Her fingers against mine   the calloused archer's fingertips against the smoothing, softening surface of my palm. The contact was grounding, real, a reminder that her hand was the same hand it had been and mine was the one changing.
+
+<<dialog "Mira">>
+I'll talk to Hadden about the route change while he's in a good mood. The crates have him practically giddy. This is when to negotiate.
+<</dialog>>
+
+<<dialog "Aldric">>
+I'm going to wash up at the stream. The stone dust is   my skin can't tolerate it. Everything itches.
+<</dialog>>
+
+She nodded. Squeezed my fingers once and released them and stood and walked toward Hadden with the purposeful stride of a woman who was about to renegotiate a contract while the other party was emotionally compromised by archaeological excitement.
+
+[[The Stream|day_6_8]]
+
+:: day_6_8
+
+The stream was cooler than this morning. The sun had moved since my predawn visit, the shadows rearranging themselves over the water, and the section I found was partially shaded by an old oak whose roots reached down the bank and into the current like gnarled fingers searching for something lost.
+
+I pulled off the tunic. The gray linen came away from my skin reluctantly, the sweat having cemented it to the surface, and as the fabric peeled upward over my chest, the contact with the nipples produced a zing of sensation that made me hiss between my teeth. Even soft linen, damp with sweat, was an event against the swollen, sensitive nubs.
+
+/* <img src="img/scene/day_6/7.png" style="width: 100%; max-width: 768px; margin: 0 auto;" /> */
+I looked down at myself. Shirtless in the dappled shade, the afternoon light filtering through the oak canopy to paint my torso in shifting patterns of gold and green. The image was   disconcerting. The smooth, near-hairless chest. The skin that caught the filtered light with a quality of surface that belonged on a different person. The nipples, puffy and prominent, their expanded areolae a warm rose color against the lighter skin. The waist, visibly narrower from above, the taper from ribcage to belt line more dramatic than it had been, the indentation creating a line that my own eyes traced with the reluctant fascination of a man studying a map to a destination he hadn't chosen.
+
+I knelt at the stream bank. Cupped water and brought it to my face, my chest, my arms, sluicing the stone dust and dried sweat from skin that received the cold water with the hysterical gratitude of nerve endings that had been abraded and overloaded for two hours. The cold was sharp. Clarifying. Each splash a small reset, a momentary override of the compound's constant sensory hum, the temperature stimulus drowning out the subtler signals for a few blessed seconds before they resumed.
+
+I washed my forearms. The dust came away easily and the skin beneath was   I paused. Held my forearm up in the dappled light and looked at it. The arm hair was nearly gone. Yesterday, there had been a sparse scattering of fine strands, the remnants of the dark forest that had been retreating since Day 1. Today, those remnants were ghosts. A few pale, almost invisible hairs, lying flat against skin that was smooth and clear and caught the light with a gentle luster that I associated with   with women. With the smooth, hair-free arms of the women I'd shared beds with, the surface that felt like satin when you ran your hand along it, the feminine texture that I'd always appreciated on other people's bodies and was now discovering on my own.
+
+I ran my hand along my forearm. The sensation from both sides was extraordinary. The smoothing palm, with its thinning calluses and heightened sensitivity, meeting the smoothing forearm, with its vanishing hair and amplified nerve density, produced a contact that was rich and intimate and devastating. I could feel the texture of my own skin with a clarity that was almost obscene. Every pore. Every ridge. The particular elasticity of the surface, the way it yielded slightly under pressure and sprang back with a resilience that young, healthy, well-maintained skin provided. My skin was   good. Beautiful, even. The compound was producing a surface that was objectively, aesthetically superior to the rough, weather-beaten hide I'd worn for a decade.
+
+The thought made me want to punch the stream.
+
+I washed my chest. The water ran over the pectorals, over the smooth skin, over the nipples. The contact of cold water against the swollen, protruding nubs was a controlled explosion   the cold triggering a tightening response that pulled the tissue into hard, peaked points, the sensation radiating inward through the budding tissue behind them in a burst of signal that made me gasp and jerk backward, water streaming down my stomach.
+
+I sat back on my heels. Hands on my thighs. Breathing through the aftershocks. The nipples throbbed, twin points of concentrated sensation on a chest that was becoming a sensory instrument, each one connected to systems and pathways that were expanding their reach with each day's growth.
+
+When the throbbing subsided, I looked down at my chest again. In the light. With the water still beading on the skin, each droplet catching the dappled sun like a tiny lens.
+
+There it was. The tissue. Behind the nipples, the faintest convexity of new growth, visible in this light, at this angle, with water highlighting the contours. Not breasts. Not anything close to breasts. But the beginning. The preparation. A puffiness, a softness, a slight mounding of the tissue behind each nipple that elevated them by millimeters from the flat plane of the pectoral muscle. The buds. The first architectural elements of a development that would, according to Nella's timeline, progress through stages that I refused to think about, each stage adding volume and sensitivity and visibility until  
+
+Until.
+
+I pulled the tunic back on. Wet skin made the linen cling and the clinging made the contour of the chest   slightly   visible through the fabric. I pulled the tunic away from my body, shook it loose, let the excess fabric drape and conceal. The gray tent. My armor. The shapeless, sexless garment that stood between what I was becoming and what the world was allowed to see.
+
+I ran my fingers through my hair. The wet hair, slicked back from the stream water, fell differently against my scalp. Heavier. Thicker at the roots, the new growth the compound was producing sitting denser against my head, the strands more substantial than the straight, coarse hair they were replacing. When I pulled my fingers through, the resistance was different   more hair, more texture, the beginnings of the wave pattern that Mira had noted. The hair was becoming something. Something fuller, denser, more present. Something that would eventually need to be dealt with in a way that a mercenary's utilitarian trim didn't require.
+
+I looked at my hands. Wet from my hair and the stream. The water beading on the back of each hand highlighted the changes with liquid precision   the smoother skin, the finer pores, the subtle narrowing of the wrist, the fingers that looked marginally longer because the knuckles were less prominent, the nails that were   were they different? I held my right hand up to the light, spreading the fingers, examining the nails. The same shape. The same length. But the nail beds were smoother, the cuticles more defined, the overall appearance of each nail slightly more polished, more finished, as if someone had buffed them. The nails of someone who didn't work with their hands. The nails of someone the compound was designing for a different kind of work entirely.
+
+I walked back to camp.
+
+[[Mira Negotiates|day_6_9]]
+
+:: day_6_9
+
+Mira had cornered Hadden by the crates. He was still cataloging, his notebook open to a page dense with sketches and measurements, his charcoal stick working with the focused intensity of a man in his element. She stood beside him with her arms crossed and her weight on one hip and the particular expression that she wore when conducting negotiations   pleasant, reasonable, absolutely immovable.
+
+<<dialog "Mira">>
+We need to go northeast from here instead of back west to Valdmere. Personal business at Corsham. We can escort you to the crossroads   that's the most dangerous stretch   and you can take the Ashenmoor Road back from there. It's a day's walk, well-traveled, and you'll be within the Consortium's patrol zone.
+<</dialog>>
+
+Hadden looked up from his notebook. His expression performed the transition from academic absorption to practical concern with the mechanical precision of a man changing gears.
+
+<<dialog "Hadden">>
+The contract specifies escort to and from the ruins. The "from" is rather critical to my continued existence and the Consortium's recovery of these crates.
+<</dialog>>
+
+<<dialog "Mira">>
+The dangerous stretch is between here and the crossroads. You know that   you've read the Consortium's route assessment. Past the crossroads, the Ashenmoor Road is well-traveled. Merchant caravans, patrol riders, the occasional Consortium courier. The risk drops to negligible. We'll complete the escort through the dangerous portion and I'll write a recommendation to Voss for full payment. You got your crates. You're alive. The contract is fulfilled in spirit if not in letter.
+<</dialog>>
+
+<<dialog "Hadden">>
+In spirit. Yes. Spirits don't pay invoices, in my experience. The Consortium operates on specifics.
+<</dialog>>
+
+<<dialog "Mira">>
+The specifics are: twelve crates located, eight seals intact, your survey is complete, and you're breathing. Voss hired us to keep you breathing. You'll keep breathing past the crossroads without us. Write the report, take the safe road, and we'll both walk away satisfied.
+<</dialog>>
+
+I watched the negotiation from across the camp, sitting on my fallen wall, sword across my knees. Mira was good at this. She always had been   the half-elf directness that some people found rude and others found refreshing, applied with enough warmth to oil the mechanism and enough steel to prevent slippage. She made her case without argument, without pleading, without the theatrical urgency that amateur negotiators employed. She simply stated what was going to happen and waited for the other party to arrive at agreement.
+
+Hadden arrived, reluctantly.
+
+<<dialog "Hadden">>
+The crossroads. And a recommendation for full payment.
+<</dialog>>
+
+<<dialog "Mira">>
+Written and signed. You'll have it when we part ways.
+<</dialog>>
+
+<<dialog "Hadden">>
+And this   personal business at Corsham. Is it dangerous? I ask not out of concern for your safety   you've demonstrated considerable competence   but because if you're walking into trouble, the Consortium should be aware that two of its contracted personnel may not be available for future engagements.
+<</dialog>>
+
+<<dialog "Mira">>
+We're looking for someone. A healer. A herbalist, specifically. It's a medical matter.
+<</dialog>>
+
+She said it with the flat, closed-door inflection that communicated end of topic with the subtlety of a drawbridge being raised. Hadden recognized the signal   his social calibration was better than his conversational discipline suggested   and retreated into his notebook with a nod that was equal parts acceptance and curiosity suppressed.
+
+<<dialog "Hadden">>
+I hope you find your herbalist. Medical matters are best resolved promptly. In my experience, the body's tolerance for unresolved conditions diminishes over time, and what begins as a minor complaint can become   well. You know your own business.
+<</dialog>>
+
+He said it without looking at me. But the pause before "well" was loaded. The surveyor had noticed something. The smooth face. The changed gait. The hands. The appetite. He was a man who measured things for a living, and the measurements he was taking of me didn't add up, and the discrepancy was filing itself in his methodical mind under a tab he hadn't labeled yet.
+
+I held still. Held the sword across my knees. Held the silhouette.
+
+Hadden returned to his crates. He crouched beside the nearest one and ran his hand along the seal, the wax impression under his fingers receiving the same reverent attention that a priest would give a relic. He was happy. Genuinely, visibly happy   the subdued elation of a man who'd found what he was looking for and would be filing the report that justified his salary and his existence and his decision to become a Consortium surveyor instead of something more lucrative and less satisfying. In this moment, in this collapsed ruin in this forgotten valley, Hadden Marsh was exactly where he wanted to be, doing exactly what he was meant to do, and the contentment of it radiated from him like heat from a banked fire.
+
+I envied him. Not the crates or the survey or the career. The certainty. The alignment of identity and occupation. The knowledge that the body you inhabited was the body you were designed to inhabit and it was going to be the same body tomorrow and the day after and the year after that. Hadden would go home with his crates and his report and his metronome snoring and his body would be his body, unchanged, unrenovated, the same Hadden Marsh in the same Hadden Marsh packaging, the vessel matching the contents without discrepancy or dispute.
+
+Mira walked over to me, her stride carrying the quiet satisfaction of a negotiation successfully concluded.
+
+<<dialog "Mira">>
+Done. Crossroads tomorrow evening, then northeast to Corsham. That puts us on Ysolde's trail from there.
+<</dialog>>
+
+<<dialog "Aldric">>
+He knows something's wrong. He's not asking, but he's noticed. The face, the gait, the hands   he's a surveyor, Mira. He measures things.
+<</dialog>>
+
+<<dialog "Mira">>
+He measures rocks and drainage channels. He's not measuring you.
+<</dialog>>
+
+<<dialog "Aldric">>
+He is. He just did. The "medical matter"   he connected that to what he's been observing. He's too polite to ask but the data is accumulating and eventually polite curiosity becomes a direct question and I don't have an answer that covers smooth skin and fuller lips and a narrowing waist and whatever else he's catalogued.
+<</dialog>>
+
+<<dialog "Mira">>
+We'll be rid of him at the crossroads. One more day. Can you hold the disguise for one more day?
+<</dialog>>
+
+<<dialog "Aldric">>
+The disguise holds itself as long as I keep the tunic on and the hips still and the voice down. It's the details that are leaking. The edges of the costume.
+<</dialog>>
+
+<<dialog "Mira">>
+Then we manage the details for one more day and then he's gone and it's just us and the road and the changes can happen without an audience.
+<</dialog>>
+
+Without an audience. As if the changes were a performance that required privacy. As if the compound cared about observers. As if my body would change any differently with Hadden watching than without him.
+
+But she was right. The audience mattered   not for the compound, but for me. The need to hide, to perform, to maintain the male silhouette and the male voice and the male gait was exhausting. The constant self-monitoring drained energy that I needed for   for everything else. For walking. For thinking. For processing the inventory of changes that each morning delivered. For maintaining the emotional equilibrium that let me function as a person rather than a patient.
+
+One more day with Hadden. Then the crossroads, then the hunt.
+
+[[The Discovery|day_6_10]]
+
+:: day_6_10
+
+Late afternoon. Hadden was deep in his final catalog of the crates, measuring and sketching and muttering with the self-contained absorption of a man who'd found his purpose and was wringing every drop of professional satisfaction from it. Mira was updating her route maps, charting the path from the ruins to the crossroads to Corsham with the careful annotation of a woman who trusted her own navigation but verified it anyway.
+
+I was restless. The physical labor of the excavation had burned some of the compound's restless energy, but the afternoon had refilled the reservoir. The tingling was back   the constant, low-level hum that never fully stopped but sometimes crescendoed into a buzzing that made sitting still feel like being trapped inside a beehive. The chest was the worst. The tissue behind the nipples was doing something   I could feel it, a warm, pulsing activity that suggested cellular construction in progress, the compound's workers laying foundations while the owner of the building paced outside and objected.
+
+I did what I always did when the restlessness became unmanageable. I scouted.
+
+The perimeter of the ruins. Then wider. Concentric circles of observation, each one taking me farther from camp, each one mapping the terrain with the automatic, habitual attention that ten years of mercenary work had installed. Sight lines. Cover. Water sources. Game trails. Exit routes. The forest read like a book in a language I spoke fluently, each element of the terrain telling me something about the environment and the creatures that moved through it.
+
+The track leading northeast from the ruins was something I found on my third pass. Not the main trail we'd come in on   a different path, narrower, older, partially overgrown but still visible to eyes that knew what they were looking for. It led away from the ruins at a northeasterly angle, disappearing into the forest in the direction of   I pulled out the mental map. Northeast from here would connect to the Corsham road, eventually. The path would wind through forest and hill country for a day, maybe two, before joining the trade route that ran from the eastern provinces to the coast.
+
+I knelt at the trailhead. The ground was soft here, the soil shaded and damp beneath the canopy. And in the soft ground, preserved by the shade and the moisture, tracks.
+
+/* <img src="img/scene/day_6/8.png" style="width: 100%; max-width: 768px; margin: 0 auto;" /> */
+Mule tracks. The distinctive, narrow hoofprints of a mule, smaller than a horse's, deeper at the toe where the animal pushed off, spaced at the interval of a loaded mule walking at a steady pace. Single animal. No horse tracks beside it. No boot prints flanking the mule's path.
+
+I called Mira.
+
+She appeared from the camp with the swift, silent approach that always made me feel like I'd summoned a ghost. Her eyes found the tracks before I pointed them out   the half-elf attention to detail engaging the moment she arrived, her vision processing the ground with a speed and acuity that made human observation feel like trying to read through fog.
+
+She knelt. Studied the prints. Ran her finger along the edge of one, testing the soil displacement, the moisture in the depression, the sharpness of the rim.
+
+<<dialog "Mira">>
+Mule tracks. Fresh   two days old, maybe three. Single animal, loaded. Moving at a steady pace, not hurried. The weight distribution suggests cargo on the mule's back   saddlebags or a pack frame. No rider   the mule was led, the lead rope producing these drag marks here in the soft patches.
+<</dialog>>
+
+<<dialog "Aldric">>
+Ysolde has a mule.
+<</dialog>>
+
+<<dialog "Mira">>
+Ysolde has a mule.
+<</dialog>>
+
+She looked northeast. The trail disappeared into the forest, the dappled shade swallowing the path after twenty paces, the tracks visible in patches where the soil was soft and invisible where the ground hardened. But the direction was clear. Northeast. Toward Corsham. Toward Thornfield Priory beyond it. Toward the destination that our contract with reality had been pointing us toward since Day 1.
+
+<<dialog "Mira">>
+This trail connects to the Corsham road. If this is her, she's ahead of us by about two days. Traveling alone, on foot, leading a loaded mule. She's not moving fast.
+<</dialog>>
+
+<<dialog "Aldric">>
+Can we close two days?
+<</dialog>>
+
+<<dialog "Mira">>
+We travel lighter and faster. She's got a loaded mule   that limits her to maybe fifteen miles a day on trail. We can do twenty-five, thirty if we push. We could close the gap in three days, maybe four if the terrain is bad.
+<</dialog>>
+
+<<dialog "Aldric">>
+Three days. That puts us at Day 6. Nella's timeline says Day 5 is when the voice starts changing.
+<</dialog>>
+
+Mira stood. Brushed the dirt from her knees. Looked at me with the expression she wore when multiple streams of data converged into a single, clear conclusion.
+
+<<dialog "Mira">>
+Then we move fast. Tomorrow   crossroads, then northeast. We drop Hadden and we run.
+<</dialog>>
+
+<<dialog "Aldric">>
+Run.
+<</dialog>>
+
+<<dialog "Mira">>
+Walk fast. Very fast. Dawn to dusk, minimal stops, trail rations while moving. I'll set the pace. You keep up.
+<</dialog>>
+
+<<dialog "Aldric">>
+I can keep up.
+<</dialog>>
+
+<<dialog "Mira">>
+You could keep up a week ago. Today your hips are restructuring and your center of gravity is shifting and you're walking like someone who's relearning biomechanics from scratch. Can you keep up?
+<</dialog>>
+
+<<dialog "Aldric">>
+Yes. The body still works. The muscles are the same. The endurance is the same. The packaging is changing but the machinery is functional.
+<</dialog>>
+
+She held my eyes. Searching. The amber irises catching the late afternoon light, the vertical half-elf pupils slightly dilated, the expression behind them cycling through assessment, calculation, and something softer that she'd deny if I named it.
+
+<<dialog "Mira">>
+Alright. We run. Starting tomorrow.
+<</dialog>>
+
+The hunt was on. Two days. Maybe three. The distance between us and the woman who had poured a compound into my body while I lay unconscious with a broken ankle and a fever and the trust of a man who'd gone to a healer for healing and received something else entirely. Two days of mule tracks in soft earth, heading northeast, heading toward the same destination we were heading toward, the convergence of pursuer and pursued on a road that both of them were walking for entirely different reasons.
+
+<<dialog "Aldric">>
+What do we do when we find her?
+<</dialog>>
+
+<<dialog "Mira">>
+We talk. We explain what's happened. We ask for the anti-compound.
+<</dialog>>
+
+<<dialog "Aldric">>
+And if she won't give it? If she intended this? If the compound wasn't an accident, if it was deliberate, if she knew exactly what she was pouring into me and she did it anyway?
+<</dialog>>
+
+<<dialog "Mira">>
+Then we have a different conversation. A less polite one. I'm equipped for both versions.
+<</dialog>>
+
+She touched the bow at her back. An unconscious gesture, the archer's equivalent of cracking knuckles   a reminder, to herself and to anyone watching, that her primary tool of communication had a range of two hundred yards and a perfect accuracy rate at half that distance.
+
+<<dialog "Aldric">>
+I don't want to hurt her.
+<</dialog>>
+
+<<dialog "Mira">>
+You don't have to want to. That's what I'm for.
+<</dialog>>
+
+She said it without malice. Without bravado. With the quiet, factual certainty of a woman who had divided the labor of their partnership into clear categories and placed violence firmly in her column.
+
+[[Evening|day_6_11]]
+
+:: day_6_11
+
+Evening came to the ruins like a slow exhalation. The sun dropped behind the tree line, painting the sky in bands of amber and rose, and the temperature fell with it, the cool of early autumn settling into the valley with the patient, inevitable weight of a season turning. The ruined walls caught the last horizontal light and for a moment   a single, luminous moment   the ancient stones looked whole again, the collapse reversed by the alchemy of golden light, the building restored to its former geometry by shadows that filled the gaps and repaired the damage.
+
+Hadden retreated into his notebooks. He sat by the fire with his spectacles reflecting the flames, his charcoal stick moving across pages with the absorbed efficiency of a man transcribing revelation. The day's discoveries had filled him with a professional satisfaction that bordered on the euphoric. He didn't speak. He didn't need to. The charcoal spoke for him, recording observations that would become reports that would become Consortium archives that would outlast every person at this fire.
+
+Mira cooked. A simple stew from their rations   dried mutton reconstituted in stream water, root vegetables from the supply bag, wild onions she'd found near the bank. The smell was extraordinary, each ingredient contributing its specific aromatic signature to a composite that my enhanced sense of smell decomposed and reassembled with the obsessive attention of a sommelier describing a vintage. The onion was sharp, sulfurous, with a green undertone of fresh-cut allium. The mutton was rich, meaty, the fat rendering in the heat to produce a warmth that was almost visible in the steam. The root vegetables were earthy, sweet, the starches caramelizing at the edges of the pot.
+
+I ate. The compound's hunger drove the spoon to the bowl and back with a frequency that I'd stopped being embarrassed about. The calories vanished into the furnace of transformation, consumed by the construction project that never paused, never rested, never took a night off. My body was burning fuel at a rate that the stew could barely match, the metabolic demand of changing every cell in my body driving an appetite that felt less like hunger and more like obligation.
+
+The fire crackled. Stars emerged above the tree canopy, visible through the gap in the leaves, the familiar constellations arranging themselves in the same patterns they'd held since humanity first looked up and decided that random distributions of fusion reactors told stories.
+
+I sat apart. Near the ruined wall, on the cold stone that had once been part of a building and was now part of a ruin and would eventually be part of the earth. The stone was cold under my thighs and the cold registered through my trousers with the vivid, penetrating clarity that had become my skin's default response to temperature.
+
+I did what I'd been avoiding all day. What the chest had been demanding since the morning's examination at the stream. What the evening's cooling air was making impossible to ignore, the nipples tightening in the temperature drop with a sensitivity that sent pulses of signal through the tissue with every breath.
+
+I unlaced the tunic. Slowly. The lacing ran from the collar to mid-chest, a simple tie closure that I loosened with fingers that were steadier than they had any right to be. I pulled the fabric apart. Looked down at my chest in the firelight.
+
+/* <img src="img/scene/day_6/9.png" style="width: 100%; max-width: 768px; margin: 0 auto;" /> */
+The firelight was warm. Amber. Forgiving. It softened edges and deepened shadows and painted the skin in tones of gold and copper that made everything look better than it was. But even through the flattery of firelight, the changes were visible.
+
+The nipples. In the warm light, the expanded areolae were a deep, rosy pink, the color visible and distinct against the surrounding skin. The areolae had widened again   a few millimeters, maybe, but measurable against the mental image I held of yesterday's assessment. The borders were more defined, the transition from areola to regular skin sharper, the pigmented circles becoming features rather than suggestions. The nipples themselves protruded from the center of each areola like small, rounded nubs   swollen, prominent, standing at attention in the cool evening air with a rigidity that was involuntary and permanent and no longer attributable to cold alone.
+
+I pressed one. Experimentally. The right one. A single fingertip placed against the protruding nub with the delicate pressure of a man testing a wound.
+
+The sensation detonated.
+
+Not the sharp, electric zap of the first days. This was   different. Evolved. The compound had been wiring pathways for three days and the network was more sophisticated now, the signal more complex. The pressure on the nipple produced a wave of sensation that started at the contact point and radiated outward in concentric rings   through the puffy tissue of the areola, through the budding tissue behind it, into the pectoral muscle, down through the sternum and the stomach and into the pelvis. A warm, expanding pulse that was unmistakably erotic. Unmistakably connected to the arousal system. The nipple was not just sensitive. It was wired into the sexual circuitry of my body, a new input point that the compound had installed and connected with the careful craftsmanship of an engineer running cable to a new terminal.
+
+<<dialog "Aldric">>
+Nnhh.
+<</dialog>>
+
+The sound escaped before I could stop it. Small. Quiet. Breathier than the sounds I used to make. The compound was in my vocal cords now   not changing them yet, not dropping them into a new register, but softening the margins, rounding the edges, preparing the hardware for the shift that Nella's timeline placed at Day 5.
+
+I pressed again. Harder this time. The nipple compressed under my fingertip and the tissue behind it yielded   that give, that softness, the millimeters of new growth that provided a cushion between the nipple and the hard muscle beneath. The sensation was richer with pressure. Deeper. A throbbing warmth that pulsed in time with my heartbeat, each pulse spreading wider through my chest, each one reaching further into the network of newly-wired pathways.
+
+Behind the nipple, under the pressure of my fingertip, I could feel it. The tissue. The bud. Not a breast   the word was too large, too final, too laden with implications that I wasn't ready to carry. But something. A thickening. A gathering of cellular material in a pattern that Nella's notes had described as "the ductal primordia, the earliest glandular structures that will eventually differentiate into functional breast tissue." A foundation being laid. An architecture being started. The first layer of a building whose blueprints I couldn't read but whose outline I was beginning to feel under my own fingertips.
+
+I laced the tunic back up. My hands were trembling. Not from cold. Not from fear, exactly. From the collision of sensation and implication, the body's pleasure and the mind's horror meeting at the intersection of a nipple that felt better than it had any right to and a future that it was pointing toward with every new nerve ending it grew.
+
+[[Mira Finds Him|day_6_12]]
+
+:: day_6_12
+
+<<dialog "Mira">>
+Hey.
+<</dialog>>
+
+She appeared beside me like smoke. The half-elf silence, the ability to move through space without displacing it, the gift that made her the best archer I'd ever worked with and the worst person to share a camp with if you valued your privacy.
+
+<<dialog "Aldric">>
+How long have you been standing there?
+<</dialog>>
+
+<<dialog "Mira">>
+Long enough. You were checking the chest.
+<</dialog>>
+
+<<dialog "Aldric">>
+Was it obvious?
+<</dialog>>
+
+<<dialog "Mira">>
+You were sitting apart from the fire, unlacing your tunic, and making a sound that I haven't heard you make before. It was somewhat obvious.
+<</dialog>>
+
+She sat beside me. Not across from me. Not facing me. Beside me, shoulder to shoulder, facing the same direction, looking out at the dark forest that surrounded the ruins. The fire at our backs painted our shadows on the ruined wall   two shapes, one taller and broader, one shorter and leaner, the silhouettes overlapping where our shoulders touched.
+
+<<dialog "Mira">>
+Report.
+<</dialog>>
+
+She said it the way she'd said it every evening since the compound. The daily debrief. The clinical exchange of observations that they'd agreed on that first night in Valdmere, when she'd asked him to talk to her and he'd promised.
+
+<<dialog "Aldric">>
+Nipples are larger. Areolae expanded   wider by a few millimeters from yesterday, the color's deeper, more pink, more   defined. The nipple itself is permanently raised now. Not just in response to cold or stimulation. It protrudes. All the time. The tissue behind each nipple is thicker. I can feel it when I press   a layer of new growth between the skin and the muscle. It yields under pressure. It's soft. It moves. Not much. But it moves. And the nipples are wired into the arousal system now. Touching them produces a response that goes straight to the groin. It wasn't like that on Day 1. It was just sensitivity then   electric, sharp, undifferentiated. Now it's specific. Sexual. The compound has connected the chest to the sexual circuitry and the connection is live.
+<</dialog>>
+
+Mira listened. In the firelit dark, her profile was still and sharp, the half-elf features catching the warm light with the geometric precision that made her face look carved rather than grown. She didn't interrupt. She didn't react. She processed the data with the systematic efficiency that was her response to information she couldn't change and needed to record.
+
+<<dialog "Mira">>
+What else?
+<</dialog>>
+
+<<dialog "Aldric">>
+Stubble is completely gone. Not a trace. Three days without shaving and my face is smoother than yours. Lips are fuller   the lower lip has a natural pout now, a shape that I can feel when I talk, when I breathe. Eyelashes are longer. Hair is growing faster and the new growth at the roots has a different texture. Waist is narrower   belt at the last notch and it's loose at the last notch. Hips ache. The bone is moving, Mira. I can feel it when I kneel, when I walk, when I stand from sitting. The pelvis is wider than it was yesterday.
+<</dialog>>
+
+<<dialog "Mira">>
+The gait.
+<</dialog>>
+
+<<dialog "Aldric">>
+The gait is a consequence of the hip width. The wider pelvis creates a rotational movement that I have to consciously suppress. Left to its own, the body wants to walk with a sway that is   female. Obviously and visibly female. I can control it but the control is exhausting and Hadden noticed.
+<</dialog>>
+
+<<dialog "Mira">>
+He noticed a gait change. He attributed it to an old injury. The cover holds.
+<</dialog>>
+
+<<dialog "Aldric">>
+The cover holds for one more day. After the crossroads, it doesn't need to.
+<</dialog>>
+
+A silence. The fire popped. Hadden's pen scratched in his notebook. An owl called from the canopy, its hooting descending through the branches with the authority of a creature that owned the night and was announcing visiting hours.
+
+<<dialog "Mira">>
+Can I   can I feel the chest?
+<</dialog>>
+
+She asked it quietly. Without clinical distance. Without the systematic precision of a data-gathering exercise. She asked it the way a person asks to touch something they're watching change   curious, tender, afraid.
+
+<<dialog "Aldric">>
+Yes.
+<</dialog>>
+
+I loosened the lacing. She turned toward me, her leg folding beneath her, and her hand came up and rested against my left pectoral. Over the heart. Over the muscle that was still hard and thick and unchanged. Her palm was warm against the skin that received her touch with its amplified, compound-enhanced sensitivity, every line of her palm a specific geography, every callus a landmark, the specific topography of an archer's hand registered in detail that my chest had never been equipped to perceive.
+
+She moved her hand down. Over the lower edge of the pectoral, where the muscle met the new tissue, where the hard became soft, where the architecture shifted from what had been to what was becoming.
+
+<<dialog "Mira">>
+I can feel it. The   under the muscle. There's a layer. It's   Aldric, it's warm. The tissue is warm. Warmer than the skin around it. Is it always like that?
+<</dialog>>
+
+<<dialog "Aldric">>
+Since this morning. The warmth is the compound working. The cellular activity generates heat. Nella mentioned it in her notes   the developing tissue runs hotter than the surrounding tissue because of the metabolic rate of the new cells.
+<</dialog>>
+
+Her fingertips traced the outline of the areola. Gently. The contact was featherlight but the nipple responded as if she'd pressed hard   the swollen nub tightening further, the tissue behind it pulsing with the warm, sexual throb that I'd described, the sensation radiating inward and downward through the pathways the compound had wired.
+
+My breath caught. A small, involuntary sound that lived in the upper register of my voice, a half-gasp that was softer and breathier than it should have been.
+
+Mira's fingertip rested on the nipple. Still. Just holding the contact. Not pressing. Not circling. Just   touching. Feeling the protruding nub under the pad of her finger, feeling the heat radiating from the tissue beneath it, feeling the pulse of cellular activity that ran through the bud like a heartbeat.
+
+<<dialog "Mira">>
+It's growing. I can feel the edge of it   like a small, soft dome behind the nipple. Maybe   five millimeters? Six? The tissue extends outward from the nipple in a circle, underneath the skin, and it's   it's distinct. I can feel where it starts and where it ends. Like a small disc, slightly raised, sitting between the muscle and the skin.
+<</dialog>>
+
+<<dialog "Aldric">>
+A breast bud. That's the clinical term. The initial formation of the glandular structure.
+<</dialog>>
+
+<<dialog "Mira">>
+A breast bud. It's   it sounds small when you name it.
+<</dialog>>
+
+<<dialog "Aldric">>
+It is small. It's millimeters. It's invisible through clothing. It's invisible without clothing unless you know what to look for and you're looking for it. But it's there. And it wasn't there a week ago. And next week it'll be bigger. And the week after that.
+<</dialog>>
+
+She withdrew her hand. Slowly. The withdrawal of her touch left a ghost on my skin   a warm impression, a residual awareness of where her palm had been, the nerve endings retaining the memory of her contact the way photographic paper retains light.
+
+<<dialog "Mira">>
+I can feel your heartbeat through the tissue. When I pressed against the bud. Your heartbeat was right there, just beneath it. Closer to the surface than it would be through muscle alone. The tissue is   thinner. More transparent to sensation. More transparent to   you.
+<</dialog>>
+
+<<dialog "Aldric">>
+That's the point. The compound's design. Maximum sensitivity. Maximum reception. Building a body that feels more. That experiences more. That inhabits itself more completely than the body it's replacing.
+<</dialog>>
+
+<<dialog "Mira">>
+Do you want me to stop reporting?
+<</dialog>>
+
+<<dialog "Aldric">>
+No. I need the data. I need to know what it looks like from outside, because from inside it's   from inside, it's a flood. I can't separate the sensation from the panic from the fascination from the   I need your perspective. Your measurements. Your observations. The clinical distance that I can't maintain because it's my body and I'm inside it and the objectivity is   there is no objectivity when you're the experiment.
+<</dialog>>
+
+She leaned against me. Shoulder to shoulder. Her warmth against my side, the lean, hard body of a half-elf archer resting against the softening, changing body of a man who was becoming something else. The contrast was tangible   her solidity against my flux, her consistency against my daily revision, the unchanged pressing against the constantly changing with the quiet, stubborn persistence of a person who refused to let the ground shift beneath a connection she'd decided was worth holding.
+
+<<dialog "Mira">>
+We'll find her. Ysolde. She's two days ahead and we're faster and we're going to close the gap and we're going to find her and we're going to get you back.
+<</dialog>>
+
+<<dialog "Aldric">>
+Before Day 15?
+<</dialog>>
+
+<<dialog "Mira">>
+Before Day 15. Before Day 10 if I have anything to say about the pace. Before the chest fills a cupped hand and the voice changes and the face becomes something that strangers can't categorize. Before all of it.
+<</dialog>>
+
+<<dialog "Aldric">>
+Promise?
+<</dialog>>
+
+<<dialog "Mira">>
+I promised in Valdmere. I don't make promises twice. The first one is still active.
+<</dialog>>
+
+She pressed her lips against my shoulder. Through the tunic. A brief, warm contact that I felt through the fabric with the supernatural sensitivity that made every touch a conversation and every kiss a paragraph.
+
+<<dialog "Mira">>
+Hadden's on first watch. Get some sleep. The mule tracks said northeast and northeast is where we're going and I need you rested for the pace I'm going to set tomorrow.
+<</dialog>>
+
+[[Bedroll|day_6_13]]
+
+:: day_6_13
+
+Hadden took watch by the fire. His notebook was open on his knee, his spectacles reflecting the flames, the charcoal stick still working even in the dark, the man's capacity for documentation apparently unlimited by fatigue or common sense. He'd nodded at me when I passed   a polite, measured nod that communicated good night and I'm still thinking about your face but I'm not going to ask in equal proportions.
+
+Mira was already in her bedroll, the efficient half-elf shutdown having commenced the moment she'd closed her eyes. She'd positioned her roll within arm's reach of her bow, the way she always did, the weapon accessible in the dark to hands that could string and draw and release in the time it took a human to blink. Her breathing was already slowing   the descent into the deep, restorative rest that her half-elf metabolism could achieve in minutes.
+
+I lay in my bedroll. The canvas was cold at first, then warm as my body heat accumulated in the enclosed space, the fabric molding to the shape of me   the current shape, the shape that would be marginally different by morning, the bedroll learning a body that changed too fast for the impression to set.
+
+The stars were visible through the canopy. The Archer was there, as it had been last night   the constellation of Mira's namesake, the stars arranged in the outline of a figure drawing a bow. Other constellations I knew less well scattered across the visible sky, their patterns ancient and unchanging and completely indifferent to the fact that the person looking up at them was slowly, inexorably becoming a different kind of person.
+
+The compound hummed. The low, constant vibration beneath my skin, the background noise of transformation, the sound of a body being rebuilt one cell at a time. It was always there. I was learning to live with it the way a miller learns to live with the sound of the wheel   background, omnipresent, occasionally surging into foreground when a particularly intense bout of cellular activity produced a spike of tingling that made my skin crawl.
+
+Tonight, the hum was concentrated. Chest. Hips. Groin.
+
+The arousal had been building all evening. Not acutely   not the urgent, demanding arousal of a body that needs immediate release. This was something slower. More pervasive. A warmth in my lower abdomen that had been present since the stream, since the nipple examination, since Mira's touch on my chest, since the moment she'd pressed her fingertip against the bud and I'd felt my heartbeat through the new tissue. The warmth had spread during the evening, seeping downward through my pelvis, pooling in the bowl of my hips, settling between my legs with the patient, inevitable quality of water finding its level.
+
+My cock was half-hard. It had been for hours. The persistent, low-grade erection that had become my new baseline, the compound maintaining a state of arousal that fluctuated between background and foreground but never fully resolved. The half-hardness was there when I walked, when I sat, when I ate, when I talked. It was there now, in the dark, in the bedroll, the familiar weight of it pressing against my smallclothes with an insistence that I'd been ignoring all day and couldn't ignore any longer.
+
+I tried. I lay on my back and stared at the stars and thought about rock formations and supply logistics and the distance between here and Corsham. I thought about Hadden's crates and Pebble's dietary preferences and the specific knot that Mira used to secure the supply bags. I thought about anything   everything   that wasn't the warmth between my legs and the tingling in my chest and the persistent, maddening pulse in the nipples that synchronized with my heartbeat and sent small shocks of pleasure downward through pathways the compound had connected.
+
+The warmth didn't care about my distraction. The warmth continued its patient accumulation, filling the spaces the compound had carved, saturating the new nerve endings with a signal that was below arousal and above neutral and occupied a territory that my old body hadn't mapped.
+
+Hadden's snoring began. The metronome. The reliable, mechanical rhythm that meant the surveyor had transitioned from wakefulness to sleep without apparent interruption in his daily output of sound. His watch would have passed to Mira at the fourth hour, but Mira was already asleep, and the changing of the guard was a formality that she'd handle on her own schedule.
+
+I was alone with the dark and the stars and the warmth and the body.
+
+/* <img src="img/scene/day_6/10.png" style="width: 100%; max-width: 768px; margin: 0 auto;" /> */
+I gave in.
+
+The decision was less a decision and more a capitulation. The body wanted what the body wanted and the mind's objections had been filed and noted and overruled by a nervous system that operated on a different voting system. I reached into my trousers. Into my smallclothes. Found myself.
+
+The grip was familiar. The weight was familiar. My cock in my hand   the same cock, the same dimensions, the same uncircumcised shape, the foreskin sliding over the head as my fingers wrapped around the shaft. The mechanics unchanged. The organ that the compound had left alone, the one territory it hadn't invaded, the last piece of the original architecture still standing in a body under renovation.
+
+But my hand. My hand was different. The fingers that wrapped around the shaft were smoother than they'd been a week ago. The calluses that had been thick ridges of keratin were now soft rises, the protective layer thinning to nothing, the skin beneath it smooth and sensitive and registering the texture of my own cock with a clarity that was almost too much information. I could feel the vein. The one that ran along the underside of the shaft, the ridge of it visible when I was fully hard, the pulse of blood through it detectable by fingertips that were becoming instruments of extraordinary sensitivity. I could feel the individual texture of the skin, the specific roughness of the shaft surface, the change in texture where the foreskin began, the smoother, more elastic tissue that slid over the glans with a lubricated whisper.
+
+I stroked. Slowly. The first full stroke, base to tip, and the sensation was   
+
+Different. Again. Different from yesterday's handjob with Mira. Different from the day before. The compound was evolving the experience, recalibrating the sensitivity with each iteration, tuning the reception to frequencies that my male body had never accessed. The stroke produced pleasure. Of course it did. It was my cock, it was being stroked, the basic transaction was unchanged. But the pleasure was wider. It started at the shaft and expanded outward like a ripple in a pond, touching my inner thighs, my lower belly, my perineum, the area behind my balls that had never contributed to a handjob before and was now participating with an enthusiasm that bordered on the aggressive. The pleasure was not contained. It was not localized. It was spreading through my pelvis like warm water, reaching the walls of the basin and reflecting back, creating interference patterns of sensation that amplified each other.
+
+I stroked again. Slowly. Testing the new terrain. Each stroke a data point, each one telling me something about how the experience had changed. The foreskin sliding over the glans produced a sensation that was not just pleasurable but complex   a layered, multi-dimensional signal that my brain received as pleasure but that contained harmonics, undertones, sub-sensations that the old wiring had never transmitted. The ridge of the glans was more sensitive. The frenulum   the small fold of skin on the underside where the foreskin met the shaft   was incandescent. A brush across it produced a jolt that shot through my groin and up into my belly with the speed and intensity of a thrown knife finding its target.
+
+My left hand drifted upward. Toward the chest. Toward the nipples that were pulsing in synchrony with the strokes, each one tightening and releasing with the rhythm of my right hand's movement, the connection between cock and chest that the compound had wired broadcasting the pleasure upward through channels that were becoming more defined, more insistent, more real with each day's growth.
+
+I found the left nipple. Puffy. Swollen. Protruding in the cool air, the nub standing at attention within its expanded areola, the tissue behind it warm and active and waiting. I touched it. A fingertip. The lightest possible pressure.
+
+The dual sensation   cock and nipple simultaneously   was overwhelming.
+
+Not the word. Overwhelming implied that the sensation exceeded the capacity to process it, and this was not that. This was a sensation that expanded the capacity. That opened new rooms in the house of pleasure, rooms I hadn't known existed, rooms the compound had been building behind the walls of my old nervous system and was now furnishing with nerve endings and pathways and connections that transformed a simple touch into a symphony.
+
+The nipple pulsed under my fingertip. The cock throbbed in my grip. Between them, a line of sensation ran from chest to groin like a wire conducting current, each point amplifying the other, the nipple making the cock feel more and the cock making the nipple feel more, a feedback loop of mutual escalation that was building toward something I hadn't experienced before.
+
+I rolled the nipple between my finger and thumb. Gently. The tissue yielded   the puffy areola compressing, the nub rolling under my fingertip, the sensation a rich, warm throb that radiated through the bud tissue and into the pectoral and down through the sternum. The breast bud. Mira's words. Five millimeters. Six. A small, warm dome of tissue that was growing beneath the nipple, responding to stimulation with a depth of sensation that male chest tissue simply didn't generate.
+
+My right hand moved faster. The strokes lengthening, the grip tightening, the rhythm building toward the escalation that the body was demanding. My cock was fully hard now, steel in my grip, the familiar rigidity of male arousal, the shaft thick and hot against my palm. But the sensation was being shared. Distributed. Broadcast through the pelvis and the belly and the chest, each stroke sending ripples upward through the new pathways, each ripple touching the nipples and being amplified and reflected back downward in an escalating cycle.
+
+I rolled the right nipple with my left hand. Alternating. Left, right. The dual sensation produced a sound in my throat that I bit back, clamping my teeth against a moan that had started in the wrong register, higher and breathier than any sound my body had produced during an orgasm before. I tasted copper. The inside of my lip. The force of suppressing the sound.
+
+The arousal was building. Not the sharp, focused climb of the old pattern   the sprint toward the peak, the gathering tension in the balls, the narrowing escalation that ended in a concentrated burst. This was different. This was a tide. A rising warmth that filled the pelvis from the bottom up, spreading outward from the center in slow, expanding waves, each wave larger than the last, each one reaching further into the body, touching the chest, the belly, the inner thighs, the lower back, the nipples. The entire pelvic region was involved. Not just the cock   everything. The space between my legs, the muscles of my pelvic floor, the tissue at the base of my cock, the perineum, the internal structures that I couldn't name and couldn't locate but could feel, unmistakably, contributing to a pleasure that was architectural in its complexity.
+
+I stroked faster. My breath was ragged now, quick and shallow, the air passing through lips that were fuller than they'd been a week ago, the exhalations producing small sounds   "hhh, hhh, hhh"   that were softer than they should have been, the pitch drifting upward as the arousal climbed, the vocal cords loosening under the compound's preliminary attention.
+
+The nipples. Both of them now, my left hand moving between them, rolling one then the other, the alternating stimulation producing waves of sensation that crashed against the upward-moving waves from my groin, the interference pattern creating peaks of pleasure that spiked through my whole body like lightning strikes on a lake. My back arched. Involuntarily. The spine curving, the hips tilting, the body presenting itself to the sensation with a postural submission that my conscious mind hadn't authorized.
+
+<<dialog "Aldric">>
+Nnhh   hhhh   nnnh  
+<</dialog>>
+
+Quiet. Have to be quiet. Hadden was asleep twenty paces away and the sounds I was making were not the sounds a man made during a private moment in his bedroll. They were softer. Breathier. The moans were in a register that was not alto and not baritone but somewhere in between, an indeterminate pitch that carried the quality of pleasure without carrying the identity of the person experiencing it.
+
+The orgasm arrived. Not crashed. Arrived. The way the tide crests   inevitable, gradual, the water rising and rising until it reaches the seawall and goes over with a patient, unstoppable force that gravity has ordained and no objection can prevent.
+
+It started in my cock. The familiar pulse, the rhythmic contractions, the semen spilling over my fingers in hot spurts that I felt with the heightened sensitivity of hands that were becoming instruments of impossible precision. The ejaculation was there   male, functional, the basic machinery executing its program with reliable efficiency.
+
+But layered over it, beneath it, woven through it like threads through cloth, was the other orgasm. The new one. The compound's version. A whole-body event that started at the cock and expanded outward in all directions simultaneously, touching everything the new wiring could reach. The nipples throbbed, twin pulses of pleasure that resonated with the pelvic contractions in a rhythm that was not synchronized but harmonized, the chest and the groin producing complementary waves that met in the middle and amplified each other into something that was more than either alone.
+
+My hips. The bones ached and the ache was part of the orgasm, the structural change participating in the pleasure, the widening pelvis creating a deeper bowl for the sensation to fill and the sensation obliged, filling it, filling every new millimeter of space that the bone had created with warmth and pressure and the diffuse, spreading pleasure that had no center and no edges and no end.
+
+I pressed both palms against my chest. Over the nipples. Holding the tissue, feeling the buds pulse beneath my palms, feeling my own heartbeat through the new growth, the rapid, post-orgasmic pounding transmitted through the five or six millimeters of breast tissue with a clarity that was intimate and terrifying and beautiful.
+
+The aftershocks ran for minutes. Not seconds. Minutes. Small, rippling waves of pleasure that moved through my body in diminishing circuits, each one smaller but longer, each one reaching further before it faded, the whole-body resonance slowly settling from thunder to murmur to whisper. My thighs trembled. My lower belly clenched and released in small, involuntary contractions. My nipples throbbed. My cock softened in my hand but the tissue around it   the tissue of the pelvis, the perineum, the pelvic floor   continued to pulse with a residual pleasure that was independent of the cock's participation, the body discovering that the pleasure could continue after the male contribution had ended, that the new wiring supported a sustained experience that the old hardware had never provided.
+
+I lay there. Hand sticky. Chest heaving. Staring at the stars through the canopy with eyes that were wet and I didn't know when they'd started to be wet.
+
+The orgasm had been   more. More than any orgasm I'd had as a man. More intense. More total. More involved. Every part of my body had participated, had contributed, had received and transmitted and amplified the pleasure until the experience was less like a release and more like an immersion. I hadn't had an orgasm. I'd been inside one. Surrounded by it. The sensation hadn't peaked and ended   it had risen and held and slowly, slowly receded, leaving behind a warmth that still glowed in my pelvis and my chest and my nipples and the tissue that was growing behind them.
+
+It scared me.
+
+It also   and the admission was harder than the fear, harder than the compound, harder than the smooth face and the full lips and the narrowing waist   it also fascinated me. The way a dangerous animal fascinates. The way a storm fascinates. The way anything that is bigger and more powerful than you fascinates when it chooses to reveal its full capacity and you're standing in the middle of it with no shelter and no defense and nothing to do but experience it.
+
+The machinery still worked the same way. The cock got hard. The hand stroked. The ejaculation happened. The basic transaction was unchanged.
+
+But the wiring was different. The connections had expanded. The pathways had multiplied. The compound was building a nervous system that experienced pleasure in a way my male body never had   wider, deeper, more diffuse, more sustained, more total. And the building wasn't finished. Day 3 of 30. What I'd felt tonight was the early-stage version, the demo, the preview of a capacity that would deepen and expand as the physical changes progressed.
+
+The thought should have been purely horrifying. It was horrifying. But it was also   present. Real. The pleasure had happened. The body had felt it. The mind could deny it all it wanted but the nerve endings didn't care about denial and the warm, glowing afterglow didn't care about fear and the tissue growing behind the nipples didn't care about anything except the compound's instructions, which it was following with the patient, relentless precision of a body that knew what it was becoming even if the person inside it didn't.
+
+I cleaned my hand on a rag. Wiped the semen from my stomach, from the softening cock, from the thighs that had trembled during the aftershocks with a sensitivity that was new and alarming and that I was absolutely not going to think about right now.
+
+I turned over. Curled on my side. The bedroll was warm and the canvas pressed against my chest and the nipples registered the contact and the contact was   fine. Bearable. The post-orgasmic sensitivity had faded to a manageable hum, the nipples still aware of the fabric but no longer screaming about it.
+
+Mira stirred in her bedroll. A sleepy sound. The half-elf's efficient rest interrupted by something   perhaps the sound I'd made, perhaps the scent of sex in the cool air, perhaps the particular quality of silence that follows a private moment and is distinguishable from ordinary silence by ears that were designed to distinguish things.
+
+<<dialog "Mira">>
+Aldric?
+<</dialog>>
+
+<<dialog "Aldric">>
+I'm here. Go back to sleep.
+<</dialog>>
+
+A pause. The kind of pause that contained a question that wasn't being asked and an answer that wasn't being given and a mutual agreement that the darkness could hold both without comment.
+
+<<dialog "Mira">>
+Your voice.
+<</dialog>>
+
+<<dialog "Aldric">>
+What about it?
+<</dialog>>
+
+<<dialog "Mira">>
+Nothing. It's   nothing. Go to sleep.
+<</dialog>>
+
+She knew. She'd heard something in the dark   a sound, a word, a register   that had confirmed something she'd been tracking, something the clinical reports and the daily measurements and the careful, systematic observations had predicted. The voice was beginning to change. Not today. Not dramatically. But the edges were softening, the frequencies were shifting, the instrument was being retuned by the compound's patient, comprehensive renovation.
+
+I closed my eyes. The darkness behind my eyelids was warm and private and the compound hummed through my body with its constant, constructive vibration, building, building, building. The tissue behind my nipples pulsed with residual warmth. The hips ached with their slow, structural migration. The face I couldn't see was smoother than it had ever been, the lips fuller, the lashes longer, the skin luminous with the compound's relentless polish.
+
+Day 3. Done.
+
+Twenty-seven more. The road stretching ahead like a transformation stretching across a body, each day another millimeter, another degree, another step toward a destination I hadn't chosen and couldn't see and was walking toward anyway.
+
+But we had tracks. Mule tracks, heading northeast. Ysolde's trail.
+
+Tomorrow: the crossroads. Hadden gone. Then the chase.
+
+[[Sleep|day_6_14]]
+
+:: day_6_14
+
+Sleep took me the way water takes a stone   slowly, the consciousness sinking through layers of warmth and darkness and the compound's lullaby hum. The dream came again. The third version. Each night a little longer, a little more detailed, the compound's preview updating its rendering as the physical changes progressed.
+
+The room. The stone walls. The full-length mirror. But tonight the image in the mirror was sharper. The jaw was softer, the cheekbones more prominent, the lips fuller and pinker and shaped with a definition that I hadn't seen in the previous dreams. The body beneath the white linen shift had curves   gentle, early, the suggestion of shapes that were forming rather than complete. The waist pulled in. The hips flared slightly. The chest   beneath the fabric, the faintest swell, the first visual evidence of what my fingertips had been tracking through touch.
+
+In the dream, I stood closer to the mirror. Closer than I had before. Close enough to see my own eyes in the reflection   the green eyes, the scar through the left eyebrow, the anchors that held the face to the identity that was being slowly, systematically rebuilt around them. The scar was fainter. Thinner. The raised line that had been my constant since twenty-one was being erased by the same cellular machinery that was erasing everything else, the compound smoothing the scar tissue the way it smoothed the calluses, the stubble, the rough grain of a mercenary's weathered skin.
+
+In the dream, I reached for the scar. Touched it with a fingertip   an elegant fingertip, long and smooth, the nail neat and the skin soft. The scar was still there. Under the finger. A thin ridge, barely perceptible, holding on.
+
+I woke before dawn. The gray light. The birdsong. The familiar, terrible process of surfacing into a body that had been revised overnight. The tingling. The hum. The warmth in the chest and the ache in the hips and the smooth, smooth face that met my fingertips when I reached for the jaw.
+
+Mira was awake. Already. Standing at the edge of camp with her bow and her pack, her silhouette sharp against the gray sky, her amber eyes catching the first light and reflecting it back toward me with the steady, unwavering gaze that had become my mirror in the absence of mirrors.
+
+<<dialog "Mira">>
+Morning. I broke camp while you slept. Hadden's packing Pebble. We move in ten minutes.
+<</dialog>>
+
+She paused. Looked at me. The tilted head. The assessment.
+
+<<dialog "Mira">>
+Your lips. In this light. They're   rosy. Naturally rosy. Like you've been biting them.
+<</dialog>>
+
+<<dialog "Aldric">>
+I haven't been biting them.
+<</dialog>>
+
+<<dialog "Mira">>
+I know. The color is coming from inside. The compound is   pigmenting them. Adding color.
+<</dialog>>
+
+She said it with the flat, informational tone that was her default for delivering bad news. Data. Not emotion. The facts of a body changing, reported with the precision of a scout describing enemy movements.
+
+<<dialog "Aldric">>
+Day 4 soon. What does Nella's timeline say about Day 4?
+<</dialog>>
+
+<<dialog "Mira">>
+We're not doing the timeline this morning. We're doing the road. Crossroads by evening, drop Hadden, turn northeast. Fast pace. The tracks are two days old and I want to close to one by nightfall.
+<</dialog>>
+
+<<dialog "Aldric">>
+The timeline, Mira.
+<</dialog>>
+
+She held my eyes. A long, silent exchange that carried the weight of shared knowledge and shared fear and the particular kind of love that manifests as willingness to deliver information that the other person needs and doesn't want.
+
+<<dialog "Mira">>
+Day 4. Breast tissue becomes palpable. Not visible   palpable. A cupped hand can detect the mounding behind the nipple. Areolae reach mature bud stage. Skin tone lightens noticeably. Voice begins preliminary softening   not a register change, but a rounding of the edges, a loss of roughness. Hair growth accelerates further. Hip widening becomes measurable. Body hair nearly absent.
+<</dialog>>
+
+I absorbed it. Each item a prediction. Each prediction a sentence being written on my body by an author I couldn't negotiate with.
+
+<<dialog "Aldric">>
+Palpable. That's tomorrow.
+<</dialog>>
+
+<<dialog "Mira">>
+That's tomorrow. And tomorrow we'll be on the trail, moving fast, getting closer. Every day is a day closer to Ysolde. Every change is a change that the anti-compound can reverse. We're going forward, Aldric. Not just along the road. Forward.
+<</dialog>>
+
+I stood. Pulled on my boots. Buckled the belt at its final notch. Strapped on the sword. Presented the silhouette   the male, armed, mercenary silhouette that was wearing thinner every morning, the costume getting harder to maintain as the body inside it was redesigned by an artist with a different vision.
+
+<<dialog "Aldric">>
+Let's move.
+<</dialog>>
+
+We moved. The trail led out of the valley, through the forest, toward the road that would take us to the crossroads and then northeast, toward Corsham, toward Thornfield, toward a witch with a mule and an anti-compound and the answers to questions that my body was asking louder every day.
+
+Behind me, the ruins settled back into their silence. Ancient stones holding ancient secrets, undisturbed by the brief human drama that had played out within their walls. Hadden's crates waited for the Consortium recovery team. The stream murmured its liquid commentary. The wood thrush sang.
+
+My hips swayed. I caught the motion. Corrected it. Walked with the forced, mechanical stride that fought the body's natural preference. Every step a negotiation between what the body wanted to do and what the mind demanded.
+
+Every step toward Ysolde.
+
+One step at a time.
