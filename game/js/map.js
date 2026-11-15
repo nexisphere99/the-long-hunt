@@ -58,7 +58,6 @@
       wx: 38, wy: 48,
       color: '#7a8c5a',
       icon: '🛤',
-      locked: true,
       locations: [
         { id: 'ashenmoor_road',  name: 'Ashenmoor Road',     desc: 'Main trade route heading east',       x: 25, y: 50, icon: '🛤', passage: 'AshenmoorRoad' },
         { id: 'waypoint',        name: 'Roadside Waypoint',  desc: 'Stone fire ring & wooden bench',      x: 45, y: 40, icon: '🔥', passage: 'Waypoint' },
