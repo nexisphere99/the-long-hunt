@@ -1,7 +1,12 @@
 
 :: day_3_1
+<<nobr>>
 <<removeobjective "day_2">>
+<<set $day = 3>>
+<<set $mcRegion   = "valdmere">>
+<<set $mcLocation = "broken_antler">>
 <<set $barmaid_2 = false>>
+<</nobr>>
 <<addsidequest "barmaids_eye_2" "The Tess's Eye" "See what Tess notices about the changes">>
 I woke up feeling wrong. Not pain-wrong. That was the strange part. I'd gone to sleep with twelve stitches in my calf and an ankle that looked like someone had inflated it with a bellows, and both of those things should have been screaming at me the moment consciousness arrived. But the pain was muted. Distant. Like hearing thunder from the far side of a mountain range   present but not threatening, a background hum rather than the foreground roar I'd been bracing for.
 
@@ -328,7 +333,10 @@ That is charm. It's just the honest version.
 <</link>>
 
 :: day_3_voss_warehouse [main_story]
+<<nobr>>
 <<set $day_3_voss_warehouse = true>>
+<<set $mcLocation = "dockside">>
+<</nobr>>
 The Consortium warehouse on Dockside Row was massive   old stone and iron-reinforced doors, built to survive floods, fires, and the general indignity of housing other people's valuables in a city that considered theft a competitive sport. The scales-and-wheel emblem was painted across the front wall in blue and gold that had faded to something closer to gray and mustard, the paint peeling in strips that the sea air had been working on for decades.
 
 Two guards flanked the entrance. Armed. Bored. The particular boredom of men whose job was to look threatening enough to prevent situations that would require them to actually be threatening. They glanced at my sword, at Mira's bow, and decided we weren't worth the paperwork.

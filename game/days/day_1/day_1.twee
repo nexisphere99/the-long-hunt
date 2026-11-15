@@ -4,6 +4,9 @@
 :: day_4_1
 <<nobr>>
 <<removeobjective "day_3">>
+<<set $day = 4>>
+<<set $mcRegion   = "valdmere">>
+<<set $mcLocation = "broken_antler">>
 /* <<set $barmaid_3 = false>>
 <<addsidequest "barmaids_eye_3" "Tess's Eye III" "See what Tess notices today">> */
 <</nobr>>
@@ -249,7 +252,10 @@ I looked at myself in the mirror one more time. Clothed, the changes were   mana
 <</link>>
 
 :: day_4_3
+<<nobr>>
 <<set $day_4_3 = true>>
+<<set $mcLocation = "cistern">>
+<</nobr>>
 The Undercity at dawn was becoming familiar, which was not a state of affairs I'd ever anticipated or desired. Two visits in three days to the cistern district   the dampest, deepest, most questionable corner of Valdmere's most questionable quarter   and I was starting to recognize landmarks. The chandler's shutters with the broken hinge. The mystery fermentation building that smelled like someone was distilling regret. The particular shade of mold on the stone walls that started about twenty paces from Ysolde's door and deepened as you approached, as if the stone itself was reacting to whatever alchemical work happened inside.
 
 /* <img src="img/scene/day_4/5.png" style="width: 100%; max-width: 768px; margin: 0 auto;" /> */
@@ -1570,6 +1576,9 @@ Upstairs.
 [[Go upstairs|day_4_11]]
 
 :: day_4_11
+<<nobr>>
+<<set $mcLocation = "broken_antler">>
+<</nobr>>
 
 She closed the door. Threw the bolt. Turned to face me in the dim room   one candle lit, the flame small and warm, the light barely enough to see by. Enough to see shapes. Outlines. The suggestion of a body in the dark.
 
