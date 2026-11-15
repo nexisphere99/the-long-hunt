@@ -400,7 +400,7 @@ One more concession. One more piece of the old self quietly retired, its replace
 
 <<nobr>>
 <<set $mcLocation = "corsham_cross">>
-<<set $inventory.push({ icon: "🌿", name: "Hadden's Herbal Tea", count: 1, category: "consumable", desc: "Hadden's own blend — chamomile, valerian, elfroot. Two pinches in hot water before sleep. Soothes aching joints." })>>
+<<run $inventory.push({ icon: "🌿", name: "Hadden's Herbal Tea", count: 1, category: "consumable", desc: "Hadden's own blend — chamomile, valerian, elfroot. Two pinches in hot water before sleep. Soothes aching joints." })>>
 <</nobr>>
 
 <img src="img/scene/day_7/3.png" style="width: 100%; max-width: 768px; margin: 0 auto;" />
